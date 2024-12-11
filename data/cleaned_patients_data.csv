@@ -1,0 +1,1001 @@
+PatientID,Name,Age,Gender,PrimaryCondition,AgeGroup
+1,April Price,69,Other,Diabetes,61-80
+2,Michelle Ingram,32,Male,Diabetes,21-40
+3,Alexandria Anderson,89,Male,Hypertension,81+
+4,Ricky Harris,78,Male,Hypertension,61-80
+5,Paul Diaz,38,Other,Asthma,21-40
+6,Yolanda West,41,Other,Hypertension,41-60
+7,Tony Herrera,20,Other,Heart Disease,0-20
+8,Stacy Cruz,39,Other,Asthma,21-40
+9,Ryan Hayes,70,Other,Hypertension,61-80
+10,Drew Kaufman,19,Male,Heart Disease,0-20
+11,Timothy Martinez,47,Female,Diabetes,41-60
+12,David Grant,55,Male,Healthy,41-60
+13,Sierra Sanchez,19,Other,Heart Disease,0-20
+14,Jaclyn Davis,81,Male,Healthy,81+
+15,Jordan May,77,Other,Heart Disease,61-80
+16,Dr. Claire Bennett MD,38,Other,Hypertension,21-40
+17,Mary Tapia,50,Male,Heart Disease,41-60
+18,Brian Donovan,75,Other,Healthy,61-80
+19,Anthony Odonnell,39,Female,Heart Disease,21-40
+20,Michael Mooney,66,Other,Healthy,61-80
+21,Marcus Coleman,76,Female,Healthy,61-80
+22,Gary Turner,59,Female,Hypertension,41-60
+23,Lauren Waller,77,Other,Hypertension,61-80
+24,Anita Allen,32,Male,Heart Disease,21-40
+25,Brittany Castillo,79,Female,Diabetes,61-80
+26,Danielle Young DVM,79,Male,Healthy,61-80
+27,Sheena Mason,64,Female,Healthy,61-80
+28,Anthony Anderson,79,Other,Diabetes,61-80
+29,Charles Martinez,68,Other,Hypertension,61-80
+30,David Patterson,72,Female,Healthy,61-80
+31,Mary Jones,81,Other,Diabetes,81+
+32,John Joseph,20,Female,Healthy,0-20
+33,Jamie Curtis,68,Other,Diabetes,61-80
+34,Adrian Riggs,24,Male,Asthma,21-40
+35,Mr. Cory Ortiz PhD,38,Other,Hypertension,21-40
+36,Nicolas Hughes,56,Male,Heart Disease,41-60
+37,Amanda Bowen,35,Other,Heart Disease,21-40
+38,Anthony Jenkins,21,Male,Heart Disease,21-40
+39,Timothy Frazier,77,Other,Hypertension,61-80
+40,Stephanie Bryant,31,Male,Asthma,21-40
+41,Alexis Reynolds,26,Female,Healthy,21-40
+42,Stephen Johnson,70,Female,Hypertension,61-80
+43,Thomas Gonzales,19,Male,Hypertension,0-20
+44,Michael Ford,77,Other,Hypertension,61-80
+45,Dana Duke,88,Male,Heart Disease,81+
+46,Jonathan Cook,61,Other,Heart Disease,61-80
+47,John Bernard,25,Female,Heart Disease,21-40
+48,Matthew Montgomery,64,Other,Hypertension,61-80
+49,Antonio Hall,52,Female,Diabetes,41-60
+50,Patricia Rogers,53,Other,Heart Disease,41-60
+51,Stephen Zamora,67,Other,Heart Disease,61-80
+52,Allison Hill,21,Other,Healthy,21-40
+53,Tracy York,19,Male,Hypertension,0-20
+54,Paul Chambers,23,Male,Asthma,21-40
+55,Tina Trevino,71,Female,Diabetes,61-80
+56,Catherine Garrison,21,Female,Diabetes,21-40
+57,Michael Guerra,71,Male,Asthma,61-80
+58,Christina Mccoy,80,Female,Asthma,61-80
+59,Scott Robinson,35,Male,Healthy,21-40
+60,David Williams,61,Other,Hypertension,61-80
+61,Beth Mahoney,51,Female,Hypertension,41-60
+62,Eric Stout,79,Female,Asthma,61-80
+63,Penny Ortiz,31,Male,Heart Disease,21-40
+64,Patrick Flowers,65,Female,Diabetes,61-80
+65,Anita Flynn,32,Female,Hypertension,21-40
+66,Cheryl Calhoun,89,Other,Hypertension,81+
+67,Kaitlin Howard,79,Female,Healthy,61-80
+68,Holly Moon,57,Other,Hypertension,41-60
+69,Jason Williams,70,Male,Diabetes,61-80
+70,Mrs. Sheila Dickerson,41,Female,Hypertension,41-60
+71,Robert Maldonado,43,Other,Diabetes,41-60
+72,Sherry Martinez,77,Male,Hypertension,61-80
+73,Brandon Wood,58,Female,Heart Disease,41-60
+74,Amy Holmes,46,Male,Hypertension,41-60
+75,Brian Farrell,32,Female,Healthy,21-40
+76,Jennifer Lowe,62,Male,Hypertension,61-80
+77,Alicia Rodriguez,82,Male,Heart Disease,81+
+78,Jessica Schneider,88,Other,Healthy,81+
+79,Joan Cortez,26,Male,Asthma,21-40
+80,Brooke Robertson,18,Female,Heart Disease,0-20
+81,Alexa Wright,25,Female,Diabetes,21-40
+82,Mary Contreras,80,Other,Diabetes,61-80
+83,Lawrence Knapp,28,Female,Asthma,21-40
+84,Amanda Rose,25,Female,Healthy,21-40
+85,Christopher Williamson,52,Female,Asthma,41-60
+86,Matthew Thompson,52,Male,Heart Disease,41-60
+87,Robert Cooper,50,Male,Asthma,41-60
+88,Sheila Burgess,22,Female,Heart Disease,21-40
+89,Gloria Hayes,58,Other,Hypertension,41-60
+90,Erik Lopez,45,Male,Heart Disease,41-60
+91,Joshua Ray,24,Other,Healthy,21-40
+92,Debbie Baker,89,Female,Hypertension,81+
+93,Rodney Shaw,29,Female,Asthma,21-40
+94,Crystal Clark,51,Male,Hypertension,41-60
+95,Ashley Black,50,Female,Heart Disease,41-60
+96,Casey Adams,65,Male,Hypertension,61-80
+97,Zachary Cohen,40,Female,Heart Disease,21-40
+98,Theresa Hurst,79,Female,Healthy,61-80
+99,Melissa Shea,54,Male,Diabetes,41-60
+100,Daniel Tanner,61,Male,Asthma,61-80
+101,Ronald Pierce,52,Male,Healthy,41-60
+102,Emily Smith,82,Female,Healthy,81+
+103,Kristin Pruitt,64,Female,Hypertension,61-80
+104,Tyler Simmons,20,Other,Diabetes,0-20
+105,Jillian White,18,Male,Hypertension,0-20
+106,Ryan Edwards,22,Female,Healthy,21-40
+107,Frederick Mosley,31,Female,Healthy,21-40
+108,Barbara Rowe,44,Male,Heart Disease,41-60
+109,Ashley Rivera,26,Other,Healthy,21-40
+110,Matthew Ferguson,32,Male,Heart Disease,21-40
+111,Curtis Hampton,59,Other,Heart Disease,41-60
+112,Vanessa Moore,68,Female,Hypertension,61-80
+113,Adam Simmons,80,Other,Healthy,61-80
+114,Eric Townsend,69,Female,Hypertension,61-80
+115,Derrick Weber,21,Male,Healthy,21-40
+116,Steve Schwartz,40,Male,Healthy,21-40
+117,Kevin Griffin,32,Male,Asthma,21-40
+118,Lisa Blankenship,60,Other,Hypertension,41-60
+119,Jared Conrad,46,Female,Diabetes,41-60
+120,Amanda Bates,53,Male,Diabetes,41-60
+121,Ronald Trujillo,30,Male,Diabetes,21-40
+122,Kelly Skinner,49,Female,Hypertension,41-60
+123,Cathy Lowery,88,Male,Healthy,81+
+124,Gina Harris,76,Female,Heart Disease,61-80
+125,Alec Ryan,45,Female,Diabetes,41-60
+126,Tara Henson,83,Female,Diabetes,81+
+127,Madison Marquez,59,Female,Diabetes,41-60
+128,Pamela Ward,62,Female,Heart Disease,61-80
+129,Wendy Smith,79,Other,Heart Disease,61-80
+130,Suzanne White,74,Male,Healthy,61-80
+131,Logan Hale,23,Other,Heart Disease,21-40
+132,David Martinez,45,Male,Healthy,41-60
+133,Michael Cunningham,45,Other,Healthy,41-60
+134,Roger Tate,61,Female,Hypertension,61-80
+135,Chloe Jordan,47,Male,Healthy,41-60
+136,Austin Graham,79,Male,Hypertension,61-80
+137,Brian Wu,79,Other,Healthy,61-80
+138,Daniel Gibson,18,Other,Diabetes,0-20
+139,Diana Walsh MD,44,Male,Healthy,41-60
+140,Michael Howe,79,Other,Healthy,61-80
+141,Michelle Welch,20,Other,Healthy,0-20
+142,Andrew Escobar,87,Other,Healthy,81+
+143,Caitlin Rangel,89,Female,Diabetes,81+
+144,Anthony Richards,44,Female,Hypertension,41-60
+145,Sharon Ramirez,26,Other,Diabetes,21-40
+146,Nancy Kim MD,79,Other,Hypertension,61-80
+147,Barbara Parrish,54,Female,Asthma,41-60
+148,Nicholas Porter,68,Female,Diabetes,61-80
+149,Julie Wolf,61,Male,Healthy,61-80
+150,Dr. Megan Obrien,41,Male,Heart Disease,41-60
+151,Mark Wise,76,Female,Healthy,61-80
+152,Daniel Knox,49,Other,Hypertension,41-60
+153,April Brown,69,Other,Healthy,61-80
+154,Jennifer Craig,79,Other,Healthy,61-80
+155,Deborah Jackson,75,Other,Heart Disease,61-80
+156,Natalie Lewis,69,Male,Heart Disease,61-80
+157,Veronica Hensley,29,Female,Healthy,21-40
+158,Kevin Pineda,56,Other,Hypertension,41-60
+159,Emily Brewer,19,Male,Heart Disease,0-20
+160,Jennifer Craig,20,Other,Diabetes,0-20
+161,Darlene Jimenez,73,Female,Hypertension,61-80
+162,Melissa Lambert,76,Male,Diabetes,61-80
+163,Crystal Fields,19,Female,Hypertension,0-20
+164,Julie Smith,19,Female,Hypertension,0-20
+165,Kerry Parks,71,Male,Hypertension,61-80
+166,Maria Wu,18,Male,Healthy,0-20
+167,Robert Jackson,36,Male,Heart Disease,21-40
+168,Kelly Jackson,19,Male,Healthy,0-20
+169,Terry Ross,70,Male,Diabetes,61-80
+170,Patrick Wilkerson,61,Male,Diabetes,61-80
+171,Charles Ruiz,49,Male,Heart Disease,41-60
+172,Kimberly Jacobs,87,Other,Diabetes,81+
+173,Daniel Nichols,49,Female,Hypertension,41-60
+174,James Vega,85,Male,Heart Disease,81+
+175,Jacqueline Hunt,72,Other,Hypertension,61-80
+176,Cheryl Kelly,73,Other,Heart Disease,61-80
+177,Kelly Duncan,34,Other,Asthma,21-40
+178,Tasha Allen,55,Female,Hypertension,41-60
+179,Jason Herring,41,Male,Hypertension,41-60
+180,Penny Torres,86,Other,Healthy,81+
+181,Amber Ortiz,87,Female,Heart Disease,81+
+182,Allison Bennett,28,Female,Hypertension,21-40
+183,Veronica Baldwin,33,Female,Healthy,21-40
+184,Willie Smith,76,Other,Hypertension,61-80
+185,Amanda Ramirez,87,Male,Asthma,81+
+186,John Oconnell,20,Other,Healthy,0-20
+187,Robert Landry,37,Other,Hypertension,21-40
+188,Charles Davis,76,Male,Hypertension,61-80
+189,Garrett Rose,53,Male,Hypertension,41-60
+190,Cheyenne Valencia,36,Male,Diabetes,21-40
+191,Jesus Rodriguez,84,Female,Hypertension,81+
+192,John Thompson,36,Male,Asthma,21-40
+193,Sharon Jackson,37,Other,Hypertension,21-40
+194,Patrick Clay,88,Male,Heart Disease,81+
+195,Megan Burton,69,Other,Healthy,61-80
+196,Sarah Tran,50,Female,Healthy,41-60
+197,Brittany Conner,57,Other,Heart Disease,41-60
+198,Douglas White,56,Other,Diabetes,41-60
+199,Anthony Perez,18,Male,Heart Disease,0-20
+200,Megan Martinez,28,Male,Heart Disease,21-40
+201,Megan Love,74,Other,Diabetes,61-80
+202,Alexis Patton,67,Male,Hypertension,61-80
+203,Mrs. Sydney Ramirez,40,Female,Healthy,21-40
+204,Tammy Ward,48,Female,Diabetes,41-60
+205,Laura Stephens,59,Male,Hypertension,41-60
+206,James Rose,24,Female,Diabetes,21-40
+207,Sara Vang,33,Male,Diabetes,21-40
+208,Alicia Joseph,77,Other,Healthy,61-80
+209,Janet Fischer,19,Other,Asthma,0-20
+210,Justin Long MD,18,Female,Healthy,0-20
+211,Zachary Phillips,65,Male,Hypertension,61-80
+212,Melissa Johnson,29,Male,Diabetes,21-40
+213,Dana Bender,86,Female,Heart Disease,81+
+214,Sarah Tran,54,Other,Hypertension,41-60
+215,Dale Wilson,49,Female,Diabetes,41-60
+216,Russell Atkins,26,Other,Healthy,21-40
+217,Jason Dorsey,36,Male,Hypertension,21-40
+218,Edward Bates,65,Other,Heart Disease,61-80
+219,David Donaldson,20,Female,Hypertension,0-20
+220,Laura Knight MD,37,Male,Hypertension,21-40
+221,Karen Woods,41,Female,Hypertension,41-60
+222,Jason Walker,71,Female,Healthy,61-80
+223,Kaitlyn Parker,50,Other,Healthy,41-60
+224,Jacqueline Mccann,41,Female,Healthy,41-60
+225,Christopher Johnson,89,Other,Heart Disease,81+
+226,Steven Peterson,53,Male,Hypertension,41-60
+227,Taylor Anderson,55,Other,Heart Disease,41-60
+228,Terri White,42,Male,Heart Disease,41-60
+229,Michelle Rodriguez,35,Other,Healthy,21-40
+230,Barbara Underwood,83,Female,Hypertension,81+
+231,Maria Harris,71,Other,Heart Disease,61-80
+232,Jared Harris,52,Other,Hypertension,41-60
+233,Joshua Mckinney,78,Male,Diabetes,61-80
+234,Michael Wilson,58,Female,Asthma,41-60
+235,Wayne Gutierrez,50,Other,Heart Disease,41-60
+236,Amanda Moran,85,Female,Diabetes,81+
+237,Anna Floyd,50,Other,Diabetes,41-60
+238,Rhonda Smith,31,Other,Heart Disease,21-40
+239,Jessica Estrada,38,Female,Healthy,21-40
+240,Joshua Mejia,65,Other,Healthy,61-80
+241,Adam Jones,37,Female,Healthy,21-40
+242,Alicia Hamilton,25,Other,Healthy,21-40
+243,Eric Peterson,24,Male,Diabetes,21-40
+244,Nichole Reed,84,Female,Asthma,81+
+245,David Mccann,34,Other,Diabetes,21-40
+246,Anthony Wells,50,Other,Diabetes,41-60
+247,Anthony Arellano,65,Male,Healthy,61-80
+248,Ryan White,76,Female,Hypertension,61-80
+249,Steven Adams,39,Other,Healthy,21-40
+250,Cathy Turner,47,Male,Heart Disease,41-60
+251,Beth Cobb,55,Other,Heart Disease,41-60
+252,Courtney Jones,68,Female,Asthma,61-80
+253,Keith Lee,71,Other,Healthy,61-80
+254,Scott Henderson,25,Other,Heart Disease,21-40
+255,John Sherman,44,Other,Heart Disease,41-60
+256,Tracy Taylor,44,Other,Hypertension,41-60
+257,Denise Oconnor,38,Male,Heart Disease,21-40
+258,Joseph Rangel,47,Male,Hypertension,41-60
+259,Donald Thomas,45,Female,Asthma,41-60
+260,Elizabeth Phillips,81,Male,Heart Disease,81+
+261,Nancy Preston,86,Male,Asthma,81+
+262,Brittany Gallagher,78,Female,Hypertension,61-80
+263,Laura Ramirez,65,Male,Hypertension,61-80
+264,Jessica Strong,36,Male,Asthma,21-40
+265,Julie Thompson,21,Female,Hypertension,21-40
+266,Jennifer Robles,52,Female,Hypertension,41-60
+267,Jason Ponce,81,Female,Hypertension,81+
+268,Matthew Walker,66,Other,Healthy,61-80
+269,Gregory Freeman,34,Other,Asthma,21-40
+270,Sarah Castaneda,61,Female,Diabetes,61-80
+271,Susan Simpson,47,Female,Diabetes,41-60
+272,Xavier Ball,63,Female,Diabetes,61-80
+273,Jeffrey Mcdowell,23,Other,Healthy,21-40
+274,Chad Curtis,54,Other,Asthma,41-60
+275,Sheila Rodriguez,41,Male,Hypertension,41-60
+276,Darlene Hanson,63,Male,Hypertension,61-80
+277,Mary Odonnell,70,Female,Hypertension,61-80
+278,Natalie Foster,77,Other,Asthma,61-80
+279,Linda Stewart,80,Other,Healthy,61-80
+280,Joel Barnes,49,Other,Diabetes,41-60
+281,Jeffery Anderson,50,Female,Hypertension,41-60
+282,Kristina Gutierrez,84,Male,Hypertension,81+
+283,Amber Fisher,35,Female,Healthy,21-40
+284,Angela Adams,42,Male,Diabetes,41-60
+285,Rebecca Powell,71,Male,Healthy,61-80
+286,Jillian Mccoy,75,Female,Heart Disease,61-80
+287,Veronica Nguyen,84,Male,Diabetes,81+
+288,Kenneth Adams,63,Male,Hypertension,61-80
+289,Casey Wolfe,41,Other,Hypertension,41-60
+290,William Day,49,Male,Heart Disease,41-60
+291,Kelly Hawkins,64,Female,Healthy,61-80
+292,Mary Matthews,40,Female,Heart Disease,21-40
+293,Timothy Petersen,83,Male,Heart Disease,81+
+294,Jesse Torres,44,Other,Hypertension,41-60
+295,William Saunders,19,Other,Healthy,0-20
+296,Rachel Anderson MD,34,Male,Healthy,21-40
+297,Lauren Peters,50,Male,Diabetes,41-60
+298,Ricky Everett,26,Female,Healthy,21-40
+299,Lucas Christian,60,Male,Heart Disease,41-60
+300,Christopher Moss,65,Other,Heart Disease,61-80
+301,Megan Holder,56,Male,Asthma,41-60
+302,Jonathan Brown,59,Female,Healthy,41-60
+303,Troy Guzman,43,Female,Asthma,41-60
+304,Ronald Jackson,67,Female,Hypertension,61-80
+305,Joseph Smith,42,Female,Diabetes,41-60
+306,Shelby Lang,41,Female,Healthy,41-60
+307,Kelsey Larsen,30,Male,Hypertension,21-40
+308,Sarah King,77,Male,Diabetes,61-80
+309,Holly Cook,24,Male,Diabetes,21-40
+310,Derek Morris,74,Male,Diabetes,61-80
+311,Renee Mccoy,53,Female,Heart Disease,41-60
+312,Lauren Smith,62,Other,Healthy,61-80
+313,Ebony Ramirez,37,Male,Hypertension,21-40
+314,Daniel Patterson,82,Other,Hypertension,81+
+315,Lisa Woodward,25,Male,Hypertension,21-40
+316,Erika Park,33,Male,Healthy,21-40
+317,Kyle Jacobs,31,Other,Heart Disease,21-40
+318,Katie Martinez,32,Female,Diabetes,21-40
+319,Eric Stephens,83,Male,Healthy,81+
+320,John Wu,49,Male,Healthy,41-60
+321,Angela Garrett,80,Male,Healthy,61-80
+322,Susan Schneider,68,Other,Healthy,61-80
+323,Molly Navarro,42,Female,Diabetes,41-60
+324,Christopher Baker,75,Other,Healthy,61-80
+325,Angela Jones,80,Other,Heart Disease,61-80
+326,Christopher Wood,79,Female,Healthy,61-80
+327,Erica Barrett,39,Other,Asthma,21-40
+328,Courtney Mendez,75,Female,Healthy,61-80
+329,Shawn Walker,75,Male,Asthma,61-80
+330,Jasmine Dennis,66,Female,Hypertension,61-80
+331,Christopher Wagner,69,Male,Heart Disease,61-80
+332,Benjamin Randall,59,Other,Healthy,41-60
+333,Gregory Smith,87,Other,Healthy,81+
+334,Wanda Lewis,32,Male,Hypertension,21-40
+335,Andrew Mccoy,71,Other,Hypertension,61-80
+336,Charles Vasquez,77,Female,Hypertension,61-80
+337,Jonathan Griffin,25,Male,Asthma,21-40
+338,Lisa Young,70,Other,Healthy,61-80
+339,Tina Bright,77,Male,Hypertension,61-80
+340,Thomas Brown,22,Female,Heart Disease,21-40
+341,Joel Madden,85,Female,Healthy,81+
+342,Anne Brown,23,Other,Asthma,21-40
+343,Ronald Davis,64,Female,Heart Disease,61-80
+344,Stephen Wolf,72,Male,Heart Disease,61-80
+345,Ethan Jackson,57,Female,Heart Disease,41-60
+346,Robert Dudley,69,Male,Diabetes,61-80
+347,Christine Faulkner,33,Male,Heart Disease,21-40
+348,Steven Sanford,30,Female,Asthma,21-40
+349,Yvonne Boyd,47,Other,Healthy,41-60
+350,Richard Wilkinson,36,Female,Heart Disease,21-40
+351,Julie Warner,34,Male,Healthy,21-40
+352,Joshua Bell,80,Male,Hypertension,61-80
+353,Carol Tucker,36,Female,Heart Disease,21-40
+354,Joseph Lucas,75,Other,Hypertension,61-80
+355,Erin Gillespie,72,Other,Hypertension,61-80
+356,David Kemp,79,Male,Asthma,61-80
+357,Christopher Marshall,40,Male,Healthy,21-40
+358,Cory Williams,26,Other,Hypertension,21-40
+359,Justin Banks,29,Female,Diabetes,21-40
+360,Russell Garner,18,Male,Healthy,0-20
+361,Luis Flores,75,Male,Hypertension,61-80
+362,James Bowman,18,Other,Heart Disease,0-20
+363,Larry West,51,Female,Asthma,41-60
+364,David Bradford,65,Other,Heart Disease,61-80
+365,Tracy Davis,18,Female,Hypertension,0-20
+366,Lindsay Hall,33,Female,Diabetes,21-40
+367,Craig Mckenzie,78,Female,Healthy,61-80
+368,David Boyer,81,Male,Heart Disease,81+
+369,Dalton Wright,80,Other,Hypertension,61-80
+370,Mark Blankenship,86,Other,Healthy,81+
+371,Christopher Williams,39,Female,Hypertension,21-40
+372,Crystal Walker,84,Male,Asthma,81+
+373,Kimberly Lee,43,Male,Hypertension,41-60
+374,Linda Mann,33,Other,Healthy,21-40
+375,Susan Davis,68,Male,Diabetes,61-80
+376,Ian Coleman,74,Male,Diabetes,61-80
+377,Patrick Taylor,46,Female,Hypertension,41-60
+378,Courtney Cook,86,Male,Diabetes,81+
+379,Gregory Hernandez,64,Female,Healthy,61-80
+380,Christian Meyer,79,Other,Healthy,61-80
+381,Nancy Velasquez,86,Male,Diabetes,81+
+382,Debra Sanders,33,Other,Diabetes,21-40
+383,William Watson,65,Other,Asthma,61-80
+384,Michael Williams,56,Male,Healthy,41-60
+385,David Harper,50,Male,Heart Disease,41-60
+386,Donna Baker,40,Other,Diabetes,21-40
+387,Jasmine Johnson,27,Male,Diabetes,21-40
+388,Theresa Hill,86,Female,Asthma,81+
+389,Monica Perez,51,Female,Hypertension,41-60
+390,Ms. Bonnie Jordan,69,Male,Heart Disease,61-80
+391,Brandon Vega,27,Other,Diabetes,21-40
+392,Jordan Yates,36,Male,Healthy,21-40
+393,Judy Allen DDS,75,Male,Hypertension,61-80
+394,Courtney Molina,18,Other,Heart Disease,0-20
+395,Christopher Khan,86,Other,Heart Disease,81+
+396,Michael Shaw,21,Female,Heart Disease,21-40
+397,Frederick Mcfarland,33,Other,Hypertension,21-40
+398,Jason Estrada,41,Female,Heart Disease,41-60
+399,Abigail Morris,19,Other,Heart Disease,0-20
+400,Richard Davis,49,Male,Heart Disease,41-60
+401,Jennifer Lynch,41,Female,Heart Disease,41-60
+402,Frank Johnson,29,Female,Asthma,21-40
+403,Martin Moore,67,Female,Healthy,61-80
+404,Molly Jenkins,52,Male,Diabetes,41-60
+405,Randy Chavez,50,Male,Healthy,41-60
+406,Daniel Aguirre,50,Male,Heart Disease,41-60
+407,Adrian Howell,78,Male,Hypertension,61-80
+408,Michelle Ramos,68,Male,Hypertension,61-80
+409,Lisa Porter,60,Female,Diabetes,41-60
+410,Connie Arnold,29,Male,Healthy,21-40
+411,Alyssa Schroeder,84,Female,Asthma,81+
+412,Danielle Roberts,82,Male,Healthy,81+
+413,Kenneth Anderson,50,Other,Heart Disease,41-60
+414,Lance Lopez,57,Female,Diabetes,41-60
+415,Bradley Murphy,60,Other,Hypertension,41-60
+416,Julie Bryan,61,Female,Diabetes,61-80
+417,Steven Wright,46,Other,Diabetes,41-60
+418,Kevin Stevens,30,Male,Hypertension,21-40
+419,Anthony Smith,29,Male,Hypertension,21-40
+420,Samantha Snyder,63,Male,Heart Disease,61-80
+421,Rita Cooper,19,Female,Asthma,0-20
+422,James Henderson,52,Other,Healthy,41-60
+423,William Campos,25,Male,Healthy,21-40
+424,Renee Palmer,43,Other,Heart Disease,41-60
+425,Lauren Sutton,51,Other,Diabetes,41-60
+426,Amanda Mcdaniel,24,Male,Heart Disease,21-40
+427,Patrick Beck,85,Male,Healthy,81+
+428,Cindy Ayala,75,Other,Hypertension,61-80
+429,Jeremy Carpenter,46,Male,Diabetes,41-60
+430,Pamela Chan,53,Male,Healthy,41-60
+431,Debra Young,38,Male,Diabetes,21-40
+432,Scott Acevedo,53,Female,Heart Disease,41-60
+433,Arthur Hall,27,Other,Heart Disease,21-40
+434,Frank Garcia,41,Other,Hypertension,41-60
+435,Andrea Horton,81,Female,Diabetes,81+
+436,Curtis Wright,66,Other,Diabetes,61-80
+437,Todd Pena,53,Male,Hypertension,41-60
+438,Lindsey Moses,41,Other,Hypertension,41-60
+439,Stephanie Thomas,40,Male,Healthy,21-40
+440,Justin Murray,79,Female,Diabetes,61-80
+441,Daisy Miller,54,Male,Heart Disease,41-60
+442,James Silva,29,Other,Diabetes,21-40
+443,Mark Watson,72,Other,Healthy,61-80
+444,Jeffrey Ingram,30,Other,Diabetes,21-40
+445,Brian Wiggins,40,Female,Diabetes,21-40
+446,Adam Diaz,47,Female,Healthy,41-60
+447,Jennifer Cook,34,Other,Healthy,21-40
+448,Derek Davis,79,Male,Hypertension,61-80
+449,Luis Boyd,30,Female,Healthy,21-40
+450,Brandon Jackson,76,Other,Heart Disease,61-80
+451,Allison Hurley,36,Other,Heart Disease,21-40
+452,Lynn King,66,Female,Hypertension,61-80
+453,Michelle Dixon,29,Female,Hypertension,21-40
+454,David Meyers,78,Female,Asthma,61-80
+455,Michelle Pittman,36,Male,Heart Disease,21-40
+456,Sabrina Henry,26,Male,Diabetes,21-40
+457,Patricia Berger,88,Other,Asthma,81+
+458,Christopher Silva,45,Female,Healthy,41-60
+459,Mr. Alan Waters,69,Male,Hypertension,61-80
+460,Ashley Peck,33,Female,Heart Disease,21-40
+461,Kenneth Daniel,86,Other,Hypertension,81+
+462,Bradley Pennington,29,Male,Healthy,21-40
+463,Derrick Welch,42,Male,Asthma,41-60
+464,Patrick Phillips,69,Male,Healthy,61-80
+465,Carla Flores,70,Other,Hypertension,61-80
+466,Brittany Tate,40,Female,Hypertension,21-40
+467,Amy Levine,33,Male,Diabetes,21-40
+468,Kenneth Mcguire,74,Other,Diabetes,61-80
+469,Kimberly Hill,56,Female,Hypertension,41-60
+470,Justin Rodriguez,70,Other,Healthy,61-80
+471,Samuel Hall,59,Female,Hypertension,41-60
+472,Miranda Thompson,75,Other,Diabetes,61-80
+473,Ann Deleon,56,Female,Healthy,41-60
+474,Kristen Howe,31,Male,Diabetes,21-40
+475,Diane Henderson,22,Female,Healthy,21-40
+476,Kenneth Coleman,52,Other,Hypertension,41-60
+477,Ryan Wilson,35,Other,Heart Disease,21-40
+478,Annette Roberts,26,Female,Hypertension,21-40
+479,Joshua Hill,75,Male,Hypertension,61-80
+480,Kenneth Ross,34,Male,Healthy,21-40
+481,Alison Graves,24,Female,Hypertension,21-40
+482,Ryan Gonzales,63,Female,Heart Disease,61-80
+483,Melissa Livingston,30,Other,Diabetes,21-40
+484,Laura White,57,Male,Diabetes,41-60
+485,Victor Salinas,59,Female,Healthy,41-60
+486,Sarah May,26,Male,Hypertension,21-40
+487,Eduardo Williams,67,Female,Asthma,61-80
+488,Albert Ross,44,Female,Healthy,41-60
+489,Carl Forbes,83,Male,Heart Disease,81+
+490,Stacy Garrison,22,Female,Healthy,21-40
+491,Stephen Mays,46,Female,Hypertension,41-60
+492,Jessica Gutierrez,54,Other,Diabetes,41-60
+493,Lauren Stafford,55,Female,Diabetes,41-60
+494,Jessica Rodriguez,25,Female,Asthma,21-40
+495,Jason Tyler,82,Female,Healthy,81+
+496,Jill Smith,34,Other,Diabetes,21-40
+497,Sherri Walker,88,Male,Asthma,81+
+498,Kathleen Frye,62,Other,Hypertension,61-80
+499,Melissa Price,21,Other,Heart Disease,21-40
+500,Dennis Williams,53,Male,Heart Disease,41-60
+501,Kevin Hammond,87,Other,Healthy,81+
+502,Aaron Moore,48,Male,Heart Disease,41-60
+503,Hunter Adams,36,Other,Diabetes,21-40
+504,Amy Gonzalez,78,Male,Hypertension,61-80
+505,Ashley Lopez,71,Female,Hypertension,61-80
+506,Monica Brooks,56,Other,Hypertension,41-60
+507,Douglas Liu,36,Other,Diabetes,21-40
+508,Christopher Hines,56,Other,Healthy,41-60
+509,Marcus Davis,84,Other,Heart Disease,81+
+510,Philip Bryant,62,Female,Heart Disease,61-80
+511,Mr. Benjamin Hart,30,Other,Hypertension,21-40
+512,Barbara Stevens,75,Female,Healthy,61-80
+513,Lisa West,37,Female,Asthma,21-40
+514,John Cardenas,89,Female,Hypertension,81+
+515,Michael Baker,78,Female,Asthma,61-80
+516,Walter Fernandez,56,Male,Heart Disease,41-60
+517,Sarah Sellers,18,Male,Hypertension,0-20
+518,Amanda Morgan,20,Other,Heart Disease,0-20
+519,Heather Acosta,79,Male,Heart Disease,61-80
+520,Mark Hill,80,Male,Hypertension,61-80
+521,Joseph Lewis,42,Other,Healthy,41-60
+522,Scott Mendez,73,Other,Healthy,61-80
+523,Jill Mack,50,Other,Asthma,41-60
+524,Katie Woods,55,Male,Heart Disease,41-60
+525,David Brown,23,Male,Diabetes,21-40
+526,Jon Day,75,Other,Asthma,61-80
+527,Matthew Allen,61,Female,Heart Disease,61-80
+528,Sarah Johnson,62,Other,Hypertension,61-80
+529,Caitlin Henry,49,Female,Heart Disease,41-60
+530,Yvette Shelton,62,Female,Healthy,61-80
+531,Tami Martin,78,Other,Heart Disease,61-80
+532,David Bell,64,Other,Hypertension,61-80
+533,Michael Hardy,38,Other,Healthy,21-40
+534,Sarah Johnson,53,Male,Hypertension,41-60
+535,Ethan Reed,36,Female,Diabetes,21-40
+536,Charles Richardson,37,Male,Hypertension,21-40
+537,Kimberly Bradley,74,Male,Diabetes,61-80
+538,Philip Porter,35,Other,Healthy,21-40
+539,Erica Farley,64,Male,Heart Disease,61-80
+540,Stephanie Bailey,66,Other,Hypertension,61-80
+541,Elizabeth Ortiz,31,Female,Healthy,21-40
+542,Travis Velasquez,32,Other,Healthy,21-40
+543,Richard Robinson,48,Male,Healthy,41-60
+544,John Mcclain,18,Male,Hypertension,0-20
+545,Michael Moses,71,Other,Heart Disease,61-80
+546,Stephen Oconnor,20,Other,Healthy,0-20
+547,Heather Rodriguez,33,Male,Healthy,21-40
+548,Jason Bailey,74,Female,Hypertension,61-80
+549,Ariel Armstrong,29,Female,Hypertension,21-40
+550,Christian Valenzuela,33,Other,Heart Disease,21-40
+551,Juan Holmes,89,Female,Healthy,81+
+552,Jonathan Anderson,41,Male,Heart Disease,41-60
+553,Lauren Carter,45,Other,Heart Disease,41-60
+554,Angela Haley,25,Male,Hypertension,21-40
+555,Leslie Pham,53,Male,Asthma,41-60
+556,Ariel Chapman,25,Female,Healthy,21-40
+557,Nathan Wilson,75,Other,Diabetes,61-80
+558,Micheal Bowers,77,Other,Healthy,61-80
+559,Ashley Payne,67,Female,Healthy,61-80
+560,Justin Reynolds,45,Male,Hypertension,41-60
+561,Lisa Bowers,58,Male,Heart Disease,41-60
+562,Megan Browning,81,Male,Diabetes,81+
+563,Sarah Harris,44,Male,Healthy,41-60
+564,Lisa Jordan,80,Other,Heart Disease,61-80
+565,Debra Vaughan,34,Other,Heart Disease,21-40
+566,David Johnson,50,Female,Healthy,41-60
+567,Amy Taylor,46,Female,Diabetes,41-60
+568,Lori Perkins,30,Other,Healthy,21-40
+569,Donald Grant,63,Other,Heart Disease,61-80
+570,Cheyenne Smith,52,Male,Hypertension,41-60
+571,Kelly Giles,23,Male,Asthma,21-40
+572,Cassie Pham,86,Female,Healthy,81+
+573,Peter Davis,64,Other,Diabetes,61-80
+574,Eric Garcia,42,Female,Healthy,41-60
+575,Keith Lindsey,83,Other,Healthy,81+
+576,Taylor Baker,27,Male,Diabetes,21-40
+577,Madison Boyd,73,Female,Healthy,61-80
+578,Michelle Blevins,47,Female,Hypertension,41-60
+579,Tiffany King,22,Other,Hypertension,21-40
+580,John Cooper,50,Male,Hypertension,41-60
+581,Robert Ray,82,Female,Healthy,81+
+582,Rebecca Velez,35,Male,Asthma,21-40
+583,Karen Allen,66,Female,Hypertension,61-80
+584,Ashley Bowen,28,Male,Diabetes,21-40
+585,Teresa Freeman,43,Other,Heart Disease,41-60
+586,Angela Foster PhD,80,Female,Hypertension,61-80
+587,Paul Spencer,76,Female,Healthy,61-80
+588,Desiree Norton,44,Male,Healthy,41-60
+589,Jessica Savage DDS,66,Male,Heart Disease,61-80
+590,Sarah Duffy MD,50,Female,Healthy,41-60
+591,Jeffrey Leach,18,Other,Diabetes,0-20
+592,James Ashley,38,Male,Healthy,21-40
+593,Kenneth Vaughan,72,Male,Asthma,61-80
+594,Ann Cantu,23,Male,Heart Disease,21-40
+595,Michael Jones,86,Female,Hypertension,81+
+596,Sally Vega,22,Female,Healthy,21-40
+597,Nicole Howard,20,Female,Diabetes,0-20
+598,Jamie Cole,70,Female,Hypertension,61-80
+599,Carolyn Branch,40,Other,Hypertension,21-40
+600,Steven Estes,70,Other,Heart Disease,61-80
+601,Patrick Cisneros,54,Female,Heart Disease,41-60
+602,Larry Smith,34,Other,Asthma,21-40
+603,Travis Meyer,18,Male,Healthy,0-20
+604,Scott Miles,68,Male,Hypertension,61-80
+605,Nicole Evans,62,Male,Asthma,61-80
+606,Erin Lewis,21,Female,Hypertension,21-40
+607,Heather Clark,79,Male,Healthy,61-80
+608,Doris Fritz,82,Other,Healthy,81+
+609,Luis Scott,49,Female,Heart Disease,41-60
+610,Sean Lopez,51,Other,Asthma,41-60
+611,Holly Martin,89,Male,Diabetes,81+
+612,Cathy Meyer,56,Male,Heart Disease,41-60
+613,Timothy Boone,43,Male,Healthy,41-60
+614,Kristen Powell,51,Female,Heart Disease,41-60
+615,Amber Campbell,71,Other,Diabetes,61-80
+616,Ellen Cunningham MD,20,Female,Heart Disease,0-20
+617,Mark Mann,67,Female,Healthy,61-80
+618,Juan Reyes,29,Male,Diabetes,21-40
+619,Shirley Carter,82,Female,Hypertension,81+
+620,Eric Miller,71,Female,Asthma,61-80
+621,Kimberly Duncan,22,Male,Healthy,21-40
+622,Phyllis Hubbard,74,Female,Hypertension,61-80
+623,Donald Morrow,34,Male,Hypertension,21-40
+624,Yolanda Miller,64,Male,Hypertension,61-80
+625,Jason Sexton,40,Male,Diabetes,21-40
+626,Jennifer Hernandez,31,Male,Heart Disease,21-40
+627,Shane Carr,83,Female,Asthma,81+
+628,Judith Taylor,68,Male,Asthma,61-80
+629,Richard Figueroa,55,Male,Heart Disease,41-60
+630,Erin Smith,81,Female,Diabetes,81+
+631,Lucas Castillo,55,Female,Healthy,41-60
+632,John Mata,67,Other,Heart Disease,61-80
+633,Brittany Fernandez,47,Female,Healthy,41-60
+634,Teresa Vargas,68,Female,Heart Disease,61-80
+635,Jeremy Hunter,80,Other,Hypertension,61-80
+636,Richard Clark,69,Female,Asthma,61-80
+637,Donna Wood,55,Female,Diabetes,41-60
+638,Sarah Brown,47,Female,Asthma,41-60
+639,Kenneth Montgomery,68,Female,Hypertension,61-80
+640,Martin Villegas,22,Other,Hypertension,21-40
+641,Thomas Johnston,46,Female,Healthy,41-60
+642,Bradley Spence,21,Female,Hypertension,21-40
+643,Nicole Anderson,27,Other,Healthy,21-40
+644,Jesse Ho Jr.,73,Male,Diabetes,61-80
+645,Tyler Sherman,34,Other,Heart Disease,21-40
+646,Albert Williams,34,Male,Asthma,21-40
+647,Christopher Payne,86,Other,Heart Disease,81+
+648,Matthew Thomas,51,Other,Diabetes,41-60
+649,Robert Davis,23,Female,Hypertension,21-40
+650,Amber Ferguson,70,Male,Hypertension,61-80
+651,Amanda Mcconnell,83,Female,Diabetes,81+
+652,Edward Fletcher,60,Male,Asthma,41-60
+653,George Christensen,40,Other,Healthy,21-40
+654,Jimmy Cruz,72,Other,Healthy,61-80
+655,Natalie Rhodes,33,Male,Healthy,21-40
+656,Michael Hansen,25,Female,Healthy,21-40
+657,Dr. Douglas Williams DDS,21,Female,Asthma,21-40
+658,Joan Graham,21,Female,Diabetes,21-40
+659,Lori Rodriguez,73,Female,Healthy,61-80
+660,Steven Carpenter,42,Other,Asthma,41-60
+661,Wayne Flores,84,Other,Heart Disease,81+
+662,Michelle Johnson,84,Other,Hypertension,81+
+663,Samantha Thomas,44,Other,Diabetes,41-60
+664,Jesus Rivera,49,Other,Heart Disease,41-60
+665,Ronald Wallace,67,Female,Healthy,61-80
+666,John Gonzales,78,Female,Heart Disease,61-80
+667,Jennifer Cruz,68,Female,Diabetes,61-80
+668,Roger Jones,36,Female,Healthy,21-40
+669,Elizabeth Green,38,Other,Hypertension,21-40
+670,Patricia Williams,22,Other,Diabetes,21-40
+671,Angela Lee,59,Other,Hypertension,41-60
+672,Mark Leon,78,Male,Asthma,61-80
+673,Kerry Powell,39,Female,Healthy,21-40
+674,Mark Nelson,38,Female,Diabetes,21-40
+675,David Reyes,87,Other,Healthy,81+
+676,Linda Peters,18,Female,Diabetes,0-20
+677,Yolanda Wilson,22,Female,Healthy,21-40
+678,Kim Calhoun,29,Other,Healthy,21-40
+679,Stephanie Nelson,63,Male,Healthy,61-80
+680,Christopher Castillo,51,Male,Hypertension,41-60
+681,Amber Cook,66,Male,Healthy,61-80
+682,Richard Guzman,62,Other,Asthma,61-80
+683,Justin Atkinson,44,Female,Diabetes,41-60
+684,Justin Anderson,43,Other,Healthy,41-60
+685,Tina Weaver,64,Other,Diabetes,61-80
+686,Sydney Moran,73,Female,Healthy,61-80
+687,Kristy Allen,80,Male,Hypertension,61-80
+688,Marcia Knapp,65,Male,Asthma,61-80
+689,Eileen Reed,78,Other,Heart Disease,61-80
+690,Caitlin Doyle,43,Male,Hypertension,41-60
+691,Breanna Baker,53,Other,Hypertension,41-60
+692,Dr. Norman Anderson,18,Other,Hypertension,0-20
+693,Theresa Mills,25,Female,Heart Disease,21-40
+694,Kari Hodge,69,Female,Diabetes,61-80
+695,Carmen Noble,64,Female,Heart Disease,61-80
+696,Justin Tyler,73,Other,Diabetes,61-80
+697,Eric Munoz,31,Female,Diabetes,21-40
+698,Sara Ellison,45,Male,Asthma,41-60
+699,Samantha Smith,19,Male,Hypertension,0-20
+700,Robert Hammond,43,Other,Healthy,41-60
+701,Sheri Thompson,31,Other,Healthy,21-40
+702,Richard Price,76,Female,Asthma,61-80
+703,Francisco Morris,73,Other,Heart Disease,61-80
+704,Mary Chavez,24,Other,Healthy,21-40
+705,Kimberly Nguyen,20,Male,Hypertension,0-20
+706,Sara Harris,40,Male,Hypertension,21-40
+707,Brian Hays,35,Female,Hypertension,21-40
+708,Matthew Sherman,55,Other,Healthy,41-60
+709,Joel Johnson,32,Other,Hypertension,21-40
+710,Tiffany Williamson,81,Male,Heart Disease,81+
+711,Deborah Martinez,45,Other,Healthy,41-60
+712,Nicole Jacobs,56,Male,Healthy,41-60
+713,Mark Burton,74,Female,Heart Disease,61-80
+714,Emma Jackson,34,Male,Hypertension,21-40
+715,Sara Moore,61,Other,Healthy,61-80
+716,Jerry Washington,42,Female,Heart Disease,41-60
+717,Jose Jones,34,Male,Hypertension,21-40
+718,Michelle Bradley,30,Male,Hypertension,21-40
+719,Joann Alexander,42,Female,Healthy,41-60
+720,Lori Nelson,85,Female,Asthma,81+
+721,John Robles,27,Male,Healthy,21-40
+722,Catherine Wilson,84,Other,Healthy,81+
+723,Joseph Lawrence,35,Male,Heart Disease,21-40
+724,Daniel Roberson,51,Female,Heart Disease,41-60
+725,Mark Mckenzie,25,Male,Diabetes,21-40
+726,Elizabeth Cooper,57,Female,Diabetes,41-60
+727,Tracy Marquez,59,Female,Diabetes,41-60
+728,Jonathan Adams,58,Other,Healthy,41-60
+729,Charles Cochran,23,Female,Heart Disease,21-40
+730,Allison Baker,69,Female,Healthy,61-80
+731,Jeffrey Boyd,43,Other,Diabetes,41-60
+732,Todd Young,81,Female,Heart Disease,81+
+733,Leslie Robertson,76,Other,Heart Disease,61-80
+734,Matthew Alexander,73,Other,Heart Disease,61-80
+735,Maria Simpson,76,Female,Asthma,61-80
+736,Larry Martinez,87,Female,Hypertension,81+
+737,Matthew Thompson,50,Male,Heart Disease,41-60
+738,Doris Figueroa,70,Other,Hypertension,61-80
+739,Michael Bush,39,Male,Diabetes,21-40
+740,Samuel Smith,38,Female,Heart Disease,21-40
+741,Alan Robinson,87,Male,Asthma,81+
+742,Megan Parker,87,Other,Healthy,81+
+743,Kelly Little,21,Male,Heart Disease,21-40
+744,Patricia Williams,79,Other,Asthma,61-80
+745,Patricia Glenn,79,Female,Heart Disease,61-80
+746,Brian Murphy,41,Female,Heart Disease,41-60
+747,Christine Roth,72,Other,Hypertension,61-80
+748,Adriana Kaiser,26,Female,Diabetes,21-40
+749,Joseph Martinez,20,Female,Diabetes,0-20
+750,Ethan Beck,48,Female,Heart Disease,41-60
+751,Sarah Walker,57,Female,Hypertension,41-60
+752,Taylor Christensen,53,Other,Hypertension,41-60
+753,Shannon Camacho,41,Male,Diabetes,41-60
+754,Amanda Dougherty,23,Male,Healthy,21-40
+755,Randy Robinson,83,Female,Diabetes,81+
+756,Sean Jackson,21,Male,Heart Disease,21-40
+757,Joseph Lopez,23,Male,Hypertension,21-40
+758,Jason Monroe,68,Female,Heart Disease,61-80
+759,Austin Duran,79,Female,Diabetes,61-80
+760,Cynthia Jackson,74,Male,Hypertension,61-80
+761,David Hardin,83,Other,Heart Disease,81+
+762,Daniel Weiss,25,Female,Hypertension,21-40
+763,Renee Schultz,43,Other,Hypertension,41-60
+764,Ashley Harris,68,Male,Hypertension,61-80
+765,Veronica Charles,62,Female,Hypertension,61-80
+766,Anthony Jones,61,Other,Hypertension,61-80
+767,Angela Scott,22,Female,Diabetes,21-40
+768,Richard Lynch,87,Male,Healthy,81+
+769,Joseph Mason,43,Other,Heart Disease,41-60
+770,Anne Estrada,85,Male,Heart Disease,81+
+771,Jamie Robinson,36,Male,Diabetes,21-40
+772,Jimmy Wu,37,Female,Healthy,21-40
+773,Billy Mathews,29,Other,Diabetes,21-40
+774,Melvin Smith,64,Male,Hypertension,61-80
+775,Stephanie Vasquez,18,Male,Heart Disease,0-20
+776,Elizabeth Wolf,31,Other,Hypertension,21-40
+777,Mario Lyons,81,Male,Diabetes,81+
+778,Elizabeth Blair,55,Male,Heart Disease,41-60
+779,Tom Walker,54,Other,Healthy,41-60
+780,Alicia Cherry DVM,28,Other,Heart Disease,21-40
+781,Clayton Washington,20,Other,Asthma,0-20
+782,David Lyons,50,Other,Healthy,41-60
+783,Rebecca White,23,Female,Hypertension,21-40
+784,Charles Harvey,67,Other,Diabetes,61-80
+785,Lance Underwood,27,Female,Diabetes,21-40
+786,Aaron Rowland,22,Female,Diabetes,21-40
+787,James Long,40,Female,Diabetes,21-40
+788,Aaron White,27,Male,Healthy,21-40
+789,James May,61,Female,Asthma,61-80
+790,Robert Green,19,Female,Heart Disease,0-20
+791,Heather Shepherd,30,Male,Diabetes,21-40
+792,James Potter,57,Male,Healthy,41-60
+793,Karen Olsen,19,Male,Healthy,0-20
+794,William Wilkins,82,Other,Healthy,81+
+795,Daniel Erickson MD,80,Male,Hypertension,61-80
+796,Ian Rodgers,34,Male,Heart Disease,21-40
+797,Martha Jones MD,26,Female,Hypertension,21-40
+798,Julia Bond,32,Male,Diabetes,21-40
+799,Heidi Anderson,41,Other,Hypertension,41-60
+800,Kathleen Mccormick,55,Male,Heart Disease,41-60
+801,Amanda Gibson,52,Other,Asthma,41-60
+802,Tammy Anderson,66,Male,Hypertension,61-80
+803,Eric Reynolds,86,Male,Diabetes,81+
+804,David Perez,79,Male,Heart Disease,61-80
+805,Yvonne Potts,77,Male,Diabetes,61-80
+806,Samantha Bryant,67,Other,Hypertension,61-80
+807,Brooke Murphy,26,Other,Diabetes,21-40
+808,Erika Mueller,51,Female,Healthy,41-60
+809,Austin Mckee,52,Other,Hypertension,41-60
+810,Holly Best,18,Male,Hypertension,0-20
+811,Adam Perez,57,Female,Diabetes,41-60
+812,Jonathan Campbell,81,Female,Healthy,81+
+813,Virginia Baker,39,Female,Asthma,21-40
+814,Erin Weaver,77,Male,Asthma,61-80
+815,Tyrone Taylor,81,Other,Diabetes,81+
+816,Samuel Simmons,89,Male,Heart Disease,81+
+817,Mariah Ward,28,Female,Hypertension,21-40
+818,William Kennedy,31,Male,Heart Disease,21-40
+819,Terri Chan,77,Male,Healthy,61-80
+820,Sandra Powell,47,Other,Heart Disease,41-60
+821,Greg Harrison,52,Other,Healthy,41-60
+822,Tonya Daniels,54,Female,Asthma,41-60
+823,Jay Lozano,22,Male,Hypertension,21-40
+824,Joanne Schneider,43,Male,Healthy,41-60
+825,Robert Rios,79,Other,Hypertension,61-80
+826,Kathy Hart,21,Male,Heart Disease,21-40
+827,Jessica Larson,59,Male,Hypertension,41-60
+828,Dustin Chen,35,Male,Hypertension,21-40
+829,Kelly Pope,57,Other,Diabetes,41-60
+830,Amy Butler,89,Female,Diabetes,81+
+831,Chase Allison,56,Female,Heart Disease,41-60
+832,Amy Cooper,31,Male,Heart Disease,21-40
+833,Melinda Russo,49,Female,Hypertension,41-60
+834,Lisa Hernandez,68,Other,Hypertension,61-80
+835,Joshua Nelson,55,Other,Heart Disease,41-60
+836,Brandy White,40,Female,Diabetes,21-40
+837,Mario Saunders,80,Female,Asthma,61-80
+838,Amy Butler,32,Male,Asthma,21-40
+839,Christopher Brown,42,Female,Healthy,41-60
+840,Mr. Omar Wong III,34,Male,Asthma,21-40
+841,Dennis Rivera,83,Male,Diabetes,81+
+842,James Griffith,70,Other,Asthma,61-80
+843,Ann Gibson,68,Other,Diabetes,61-80
+844,Beth White,56,Other,Diabetes,41-60
+845,Theresa Vang,68,Other,Healthy,61-80
+846,Robert Castillo,87,Female,Diabetes,81+
+847,David Stevens,23,Other,Healthy,21-40
+848,Sarah Newman,84,Female,Healthy,81+
+849,Grant Sullivan,24,Other,Healthy,21-40
+850,Angela Henderson,68,Female,Healthy,61-80
+851,Amanda Miranda,89,Male,Diabetes,81+
+852,Jose Foster,59,Female,Diabetes,41-60
+853,Chad Powers,81,Female,Heart Disease,81+
+854,Jeffery Schwartz,32,Other,Diabetes,21-40
+855,Christina Jackson,46,Female,Heart Disease,41-60
+856,Christopher Walker,50,Male,Asthma,41-60
+857,Yolanda Fields,44,Male,Asthma,41-60
+858,Dr. Alexis Price,53,Other,Diabetes,41-60
+859,Seth Jensen,46,Male,Hypertension,41-60
+860,Andrew Jackson,55,Female,Diabetes,41-60
+861,Jeff Jenkins,74,Male,Hypertension,61-80
+862,Jason Woods,44,Other,Healthy,41-60
+863,Charles Woods,72,Female,Diabetes,61-80
+864,Brenda Le,50,Other,Hypertension,41-60
+865,Jessica Wells,85,Female,Hypertension,81+
+866,Crystal Perkins PhD,83,Male,Heart Disease,81+
+867,Emily Booker,27,Other,Heart Disease,21-40
+868,Matthew Woodard,22,Other,Diabetes,21-40
+869,Stephanie Alexander,55,Female,Hypertension,41-60
+870,Kimberly Harmon,30,Other,Diabetes,21-40
+871,Julian Davis,48,Female,Diabetes,41-60
+872,Richard Diaz,64,Female,Asthma,61-80
+873,Vicki Lozano,69,Female,Heart Disease,61-80
+874,Jeffrey Smith,73,Female,Diabetes,61-80
+875,Brian Hernandez,32,Male,Hypertension,21-40
+876,Russell Norman,46,Female,Healthy,41-60
+877,Mark White,25,Other,Heart Disease,21-40
+878,Joseph Lara,22,Male,Asthma,21-40
+879,Gregory Morrow,46,Other,Hypertension,41-60
+880,Tanya Lewis,64,Male,Heart Disease,61-80
+881,Maria Thompson,85,Female,Hypertension,81+
+882,Hailey Reyes,62,Male,Heart Disease,61-80
+883,Amanda Armstrong,19,Male,Healthy,0-20
+884,Terri Williams,44,Other,Diabetes,41-60
+885,Stephanie Banks,53,Other,Hypertension,41-60
+886,David Wilson,53,Female,Hypertension,41-60
+887,Brianna Bryant,43,Male,Diabetes,41-60
+888,Colin Hampton,60,Male,Hypertension,41-60
+889,Shawn Carr,44,Male,Hypertension,41-60
+890,Tonya Walker,86,Female,Healthy,81+
+891,Andrea Johnson,37,Female,Heart Disease,21-40
+892,Brent Brown,28,Female,Diabetes,21-40
+893,Ashley Cabrera,55,Female,Healthy,41-60
+894,David Evans,23,Female,Hypertension,21-40
+895,Patrick Lucero,89,Other,Healthy,81+
+896,Marco Buck,40,Male,Diabetes,21-40
+897,Michael King,64,Male,Healthy,61-80
+898,Wayne Hendricks,63,Male,Heart Disease,61-80
+899,Jose Barry,29,Male,Healthy,21-40
+900,Melissa Martin,30,Male,Healthy,21-40
+901,Alan Baker,79,Male,Diabetes,61-80
+902,Melissa Mcknight,77,Male,Healthy,61-80
+903,Raymond Jones,60,Male,Diabetes,41-60
+904,Susan Lane,85,Other,Diabetes,81+
+905,Kaitlin Williams,22,Male,Diabetes,21-40
+906,Kayla Davis,54,Other,Heart Disease,41-60
+907,Samantha Patterson,89,Female,Hypertension,81+
+908,Gerald Berry,48,Male,Heart Disease,41-60
+909,Joshua Williams,26,Female,Heart Disease,21-40
+910,Tyler Hall,68,Female,Healthy,61-80
+911,Robert Klein,46,Female,Healthy,41-60
+912,Morgan Dean,57,Other,Diabetes,41-60
+913,Michael Gardner,58,Female,Diabetes,41-60
+914,Monique Blanchard,28,Female,Diabetes,21-40
+915,Danielle Medina,40,Female,Hypertension,21-40
+916,Kelly Harper,18,Male,Hypertension,0-20
+917,Jessica Bean,63,Male,Diabetes,61-80
+918,Lisa Livingston,38,Other,Diabetes,21-40
+919,Logan Rodriguez,53,Other,Healthy,41-60
+920,Mrs. Cynthia Greene,71,Male,Heart Disease,61-80
+921,Susan Andrews,74,Other,Diabetes,61-80
+922,Brent Dixon,18,Male,Heart Disease,0-20
+923,Mark Morse,80,Female,Hypertension,61-80
+924,Sara Anderson,71,Female,Diabetes,61-80
+925,Carly Johnson,72,Other,Heart Disease,61-80
+926,Hannah Graves,57,Male,Heart Disease,41-60
+927,Leslie Roth,32,Male,Diabetes,21-40
+928,Michael Hall,38,Other,Healthy,21-40
+929,Samantha Fisher,64,Male,Healthy,61-80
+930,Savannah Wilson,70,Female,Heart Disease,61-80
+931,Rachel Brown,26,Other,Heart Disease,21-40
+932,Ann Huerta,69,Other,Heart Disease,61-80
+933,Norma Butler,74,Male,Hypertension,61-80
+934,Melvin Thomas,43,Other,Diabetes,41-60
+935,Michael Peters,58,Male,Hypertension,41-60
+936,Gabriel Hall,52,Male,Heart Disease,41-60
+937,Crystal Shaw,80,Male,Heart Disease,61-80
+938,Garrett Petersen,42,Male,Hypertension,41-60
+939,Kathryn Molina,55,Male,Healthy,41-60
+940,Edward Warner,19,Other,Healthy,0-20
+941,Danielle Owens,24,Female,Asthma,21-40
+942,Rachel Powers,51,Female,Heart Disease,41-60
+943,Jason Cook,34,Other,Healthy,21-40
+944,Patrick Jackson,60,Other,Hypertension,41-60
+945,Joann Mayer,76,Female,Healthy,61-80
+946,William Mcdonald,68,Female,Hypertension,61-80
+947,Mark Perez,71,Female,Healthy,61-80
+948,Shannon Nunez,41,Female,Diabetes,41-60
+949,Molly Johnson,42,Female,Healthy,41-60
+950,Linda Burnett,88,Male,Healthy,81+
+951,Michael Owen,69,Other,Hypertension,61-80
+952,Cody Gonzalez,87,Male,Heart Disease,81+
+953,Emily Rodriguez,50,Female,Healthy,41-60
+954,Blake Johnson,66,Female,Heart Disease,61-80
+955,Brooke Robinson,46,Female,Healthy,41-60
+956,Karen Phillips,80,Male,Heart Disease,61-80
+957,Shane Meadows,39,Male,Diabetes,21-40
+958,Cameron Lucero,43,Female,Diabetes,41-60
+959,Alexandra Price,45,Male,Hypertension,41-60
+960,Connie Horton,66,Male,Healthy,61-80
+961,Victoria Cantu,88,Female,Diabetes,81+
+962,Gina Flores,66,Male,Heart Disease,61-80
+963,Ethan Anderson,37,Other,Heart Disease,21-40
+964,Adam Smith,80,Other,Heart Disease,61-80
+965,Robin Phillips,78,Other,Healthy,61-80
+966,Manuel Robinson,66,Other,Healthy,61-80
+967,Jennifer Salazar,88,Female,Diabetes,81+
+968,Mathew Key,18,Female,Healthy,0-20
+969,Kyle Cross,30,Female,Healthy,21-40
+970,Scott Wilcox,68,Other,Heart Disease,61-80
+971,Kyle Rodriguez,73,Other,Healthy,61-80
+972,Paul Nelson,79,Male,Hypertension,61-80
+973,Kevin Jennings,49,Male,Hypertension,41-60
+974,Dennis Roberts,47,Other,Healthy,41-60
+975,Michelle Perez,46,Other,Diabetes,41-60
+976,Shannon Salazar,66,Other,Healthy,61-80
+977,Andrea Tanner,62,Other,Healthy,61-80
+978,Nathan Bowers,47,Male,Hypertension,41-60
+979,Bobby Pierce,33,Other,Healthy,21-40
+980,James Scott,57,Male,Diabetes,41-60
+981,Alexander Gutierrez,36,Other,Heart Disease,21-40
+982,Ashley Lewis,35,Other,Heart Disease,21-40
+983,Jennifer Bishop,18,Other,Healthy,0-20
+984,Amy Mccall,64,Male,Hypertension,61-80
+985,Misty Strickland,83,Male,Heart Disease,81+
+986,Scott Torres,55,Female,Asthma,41-60
+987,Amanda Rubio,68,Other,Asthma,61-80
+988,Mr. Andrew Guzman,80,Female,Asthma,61-80
+989,Cesar Patel,21,Female,Hypertension,21-40
+990,Sally Flores,18,Male,Diabetes,0-20
+991,Jerry Bridges,25,Male,Diabetes,21-40
+992,Joshua Martin,46,Female,Healthy,41-60
+993,Bradley Bryan,72,Other,Diabetes,61-80
+994,Douglas Simon,20,Male,Hypertension,0-20
+995,Paul Watts,49,Other,Healthy,41-60
+996,Nancy Cook,27,Other,Hypertension,21-40
+997,Jennifer Rodriguez,51,Female,Healthy,41-60
+998,Kimberly Lopez,72,Female,Asthma,61-80
+999,Robert Rocha,49,Female,Healthy,41-60
+1000,Jorge Fletcher,67,Female,Diabetes,61-80

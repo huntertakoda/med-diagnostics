@@ -1,0 +1,3001 @@
+VisitID,PatientID,VisitDate,Diagnosis,DischargeStatus
+1,647,2023-09-05,Emergency,Deceased
+2,579,2024-09-05,Routine Checkup,Admitted
+3,65,2024-10-18,Routine Checkup,Admitted
+4,292,2024-04-27,Follow-up,Admitted
+5,25,2024-05-18,Chronic Issue,Admitted
+6,549,2024-09-09,Emergency,Deceased
+7,1,2024-07-14,Routine Checkup,Referred
+8,911,2023-02-25,Chronic Issue,Referred
+9,549,2024-08-01,Acute Infection,Admitted
+10,141,2023-10-18,Chronic Issue,Referred
+11,744,2023-11-14,Chronic Issue,Admitted
+12,648,2022-12-26,Acute Infection,Admitted
+13,901,2023-04-08,Acute Infection,Recovered
+14,188,2024-10-21,Routine Checkup,Deceased
+15,128,2023-04-29,Chronic Issue,Deceased
+16,201,2023-07-29,Routine Checkup,Admitted
+17,127,2023-06-14,Chronic Issue,Deceased
+18,257,2023-10-28,Routine Checkup,Referred
+19,676,2022-12-25,Chronic Issue,Admitted
+20,547,2024-12-04,Chronic Issue,Recovered
+21,194,2024-02-02,Routine Checkup,Referred
+22,703,2023-01-07,Routine Checkup,Recovered
+23,104,2023-02-23,Routine Checkup,Recovered
+24,535,2024-11-14,Chronic Issue,Deceased
+25,265,2024-04-30,Emergency,Deceased
+26,802,2023-09-28,Routine Checkup,Admitted
+27,942,2023-04-11,Chronic Issue,Deceased
+28,974,2024-03-28,Routine Checkup,Recovered
+29,384,2024-08-25,Acute Infection,Recovered
+30,260,2023-01-16,Follow-up,Referred
+31,414,2023-08-22,Routine Checkup,Recovered
+32,991,2024-06-23,Acute Infection,Admitted
+33,358,2022-12-15,Routine Checkup,Admitted
+34,75,2023-09-07,Routine Checkup,Deceased
+35,355,2024-06-05,Routine Checkup,Deceased
+36,584,2024-08-15,Routine Checkup,Deceased
+37,771,2024-06-05,Chronic Issue,Admitted
+38,910,2024-05-21,Acute Infection,Recovered
+39,188,2024-10-29,Acute Infection,Deceased
+40,973,2023-06-13,Routine Checkup,Referred
+41,685,2023-08-19,Routine Checkup,Deceased
+42,992,2024-04-22,Chronic Issue,Admitted
+43,290,2024-05-29,Follow-up,Deceased
+44,45,2024-06-14,Routine Checkup,Recovered
+45,573,2024-06-29,Emergency,Deceased
+46,83,2023-07-23,Acute Infection,Admitted
+47,123,2023-10-10,Acute Infection,Admitted
+48,358,2023-11-11,Acute Infection,Referred
+49,528,2023-11-09,Routine Checkup,Admitted
+50,66,2023-05-10,Routine Checkup,Referred
+51,936,2024-08-31,Chronic Issue,Recovered
+52,657,2024-04-04,Routine Checkup,Admitted
+53,375,2024-04-27,Follow-up,Deceased
+54,162,2024-11-03,Acute Infection,Recovered
+55,746,2024-03-16,Routine Checkup,Deceased
+56,380,2023-10-31,Chronic Issue,Deceased
+57,656,2024-10-08,Routine Checkup,Deceased
+58,358,2023-02-28,Acute Infection,Recovered
+59,188,2024-03-31,Chronic Issue,Recovered
+60,322,2023-09-25,Follow-up,Admitted
+61,450,2024-03-13,Chronic Issue,Deceased
+62,474,2023-07-06,Chronic Issue,Referred
+63,13,2024-09-30,Chronic Issue,Admitted
+64,184,2023-02-09,Follow-up,Recovered
+65,111,2023-09-21,Routine Checkup,Referred
+66,927,2023-04-11,Routine Checkup,Recovered
+67,508,2023-03-10,Routine Checkup,Referred
+68,290,2024-08-02,Routine Checkup,Admitted
+69,295,2024-02-22,Chronic Issue,Referred
+70,451,2024-04-13,Chronic Issue,Admitted
+71,904,2023-01-09,Acute Infection,Recovered
+72,215,2024-06-24,Routine Checkup,Referred
+73,974,2023-08-02,Chronic Issue,Deceased
+74,632,2024-08-09,Routine Checkup,Deceased
+75,894,2023-11-15,Chronic Issue,Recovered
+76,567,2024-09-17,Acute Infection,Referred
+77,27,2023-06-18,Routine Checkup,Deceased
+78,630,2024-10-18,Routine Checkup,Admitted
+79,733,2023-06-02,Routine Checkup,Referred
+80,231,2024-06-20,Emergency,Referred
+81,565,2024-04-02,Follow-up,Deceased
+82,807,2024-04-16,Chronic Issue,Admitted
+83,321,2023-02-28,Routine Checkup,Admitted
+84,913,2023-09-05,Acute Infection,Admitted
+85,233,2024-04-16,Chronic Issue,Referred
+86,670,2023-06-06,Chronic Issue,Recovered
+87,437,2023-01-21,Routine Checkup,Referred
+88,781,2024-11-05,Routine Checkup,Referred
+89,533,2024-08-21,Chronic Issue,Deceased
+90,403,2024-05-07,Routine Checkup,Recovered
+91,53,2024-05-05,Routine Checkup,Admitted
+92,787,2024-09-11,Routine Checkup,Deceased
+93,313,2023-12-03,Acute Infection,Referred
+94,281,2023-10-04,Emergency,Recovered
+95,726,2023-02-09,Follow-up,Admitted
+96,31,2024-03-12,Acute Infection,Admitted
+97,337,2022-12-25,Acute Infection,Referred
+98,183,2023-09-26,Routine Checkup,Admitted
+99,23,2024-02-27,Acute Infection,Admitted
+100,544,2024-06-23,Routine Checkup,Recovered
+101,446,2023-08-26,Chronic Issue,Deceased
+102,74,2024-02-18,Routine Checkup,Recovered
+103,10,2024-08-30,Routine Checkup,Deceased
+104,484,2023-10-09,Routine Checkup,Deceased
+105,456,2023-09-27,Routine Checkup,Deceased
+106,566,2024-08-04,Routine Checkup,Admitted
+107,564,2023-06-06,Routine Checkup,Recovered
+108,660,2023-03-27,Follow-up,Admitted
+109,160,2023-04-10,Acute Infection,Referred
+110,882,2024-02-01,Acute Infection,Recovered
+111,14,2023-04-16,Emergency,Deceased
+112,178,2023-05-25,Follow-up,Admitted
+113,412,2023-09-25,Acute Infection,Admitted
+114,878,2023-05-28,Emergency,Recovered
+115,53,2024-05-05,Routine Checkup,Recovered
+116,408,2024-08-10,Routine Checkup,Deceased
+117,847,2024-02-27,Acute Infection,Deceased
+118,22,2024-07-10,Chronic Issue,Referred
+119,30,2024-03-19,Chronic Issue,Deceased
+120,703,2023-10-12,Routine Checkup,Admitted
+121,260,2023-11-16,Routine Checkup,Referred
+122,205,2022-12-21,Chronic Issue,Referred
+123,59,2024-09-27,Routine Checkup,Referred
+124,471,2023-03-21,Acute Infection,Recovered
+125,776,2024-09-11,Chronic Issue,Deceased
+126,466,2023-03-18,Chronic Issue,Referred
+127,12,2023-07-08,Chronic Issue,Recovered
+128,631,2023-07-08,Emergency,Recovered
+129,927,2024-10-26,Acute Infection,Referred
+130,974,2024-11-03,Chronic Issue,Referred
+131,290,2023-07-15,Chronic Issue,Admitted
+132,850,2023-09-03,Routine Checkup,Referred
+133,760,2023-11-23,Routine Checkup,Admitted
+134,354,2024-10-12,Routine Checkup,Referred
+135,639,2023-12-25,Acute Infection,Referred
+136,75,2023-12-17,Chronic Issue,Deceased
+137,873,2024-05-21,Emergency,Referred
+138,716,2024-02-28,Routine Checkup,Referred
+139,561,2024-06-27,Routine Checkup,Admitted
+140,591,2023-05-06,Follow-up,Admitted
+141,441,2024-09-20,Routine Checkup,Deceased
+142,991,2024-01-30,Acute Infection,Referred
+143,241,2024-11-10,Acute Infection,Referred
+144,861,2023-01-20,Acute Infection,Admitted
+145,154,2023-06-18,Routine Checkup,Recovered
+146,786,2023-03-01,Routine Checkup,Recovered
+147,96,2023-05-19,Routine Checkup,Recovered
+148,726,2024-09-14,Acute Infection,Admitted
+149,294,2022-12-29,Acute Infection,Admitted
+150,209,2024-07-02,Routine Checkup,Recovered
+151,343,2024-06-17,Chronic Issue,Recovered
+152,88,2023-05-17,Emergency,Referred
+153,818,2024-04-21,Routine Checkup,Admitted
+154,776,2024-03-30,Acute Infection,Admitted
+155,937,2023-09-20,Chronic Issue,Recovered
+156,390,2023-04-07,Routine Checkup,Recovered
+157,325,2024-04-30,Routine Checkup,Deceased
+158,940,2024-04-07,Chronic Issue,Admitted
+159,889,2024-04-22,Emergency,Deceased
+160,832,2024-09-22,Emergency,Referred
+161,157,2023-10-24,Acute Infection,Deceased
+162,668,2023-10-01,Chronic Issue,Recovered
+163,651,2023-02-12,Routine Checkup,Admitted
+164,633,2023-12-30,Chronic Issue,Admitted
+165,577,2024-08-04,Acute Infection,Deceased
+166,619,2023-10-17,Routine Checkup,Deceased
+167,659,2024-09-30,Chronic Issue,Referred
+168,137,2024-03-10,Acute Infection,Referred
+169,923,2023-12-18,Routine Checkup,Recovered
+170,674,2024-02-20,Follow-up,Recovered
+171,428,2023-08-07,Routine Checkup,Recovered
+172,452,2023-07-10,Routine Checkup,Deceased
+173,612,2024-01-11,Routine Checkup,Deceased
+174,850,2023-07-24,Chronic Issue,Admitted
+175,911,2024-09-18,Chronic Issue,Recovered
+176,819,2024-04-20,Routine Checkup,Deceased
+177,141,2023-12-06,Chronic Issue,Admitted
+178,83,2024-02-25,Routine Checkup,Recovered
+179,177,2023-05-24,Chronic Issue,Referred
+180,198,2023-11-11,Acute Infection,Referred
+181,624,2023-04-25,Acute Infection,Deceased
+182,568,2024-07-06,Follow-up,Admitted
+183,972,2024-03-10,Routine Checkup,Referred
+184,691,2023-01-20,Routine Checkup,Admitted
+185,421,2024-12-03,Acute Infection,Admitted
+186,401,2024-08-02,Follow-up,Referred
+187,698,2024-07-22,Routine Checkup,Admitted
+188,471,2024-02-14,Routine Checkup,Referred
+189,218,2024-09-12,Routine Checkup,Deceased
+190,925,2023-06-28,Acute Infection,Recovered
+191,929,2024-04-13,Routine Checkup,Recovered
+192,828,2023-06-03,Chronic Issue,Deceased
+193,987,2024-07-04,Follow-up,Referred
+194,729,2023-03-08,Acute Infection,Referred
+195,632,2023-03-27,Routine Checkup,Referred
+196,951,2024-04-21,Acute Infection,Referred
+197,906,2024-08-17,Routine Checkup,Deceased
+198,175,2023-03-31,Emergency,Recovered
+199,23,2024-10-07,Acute Infection,Admitted
+200,725,2024-01-13,Routine Checkup,Admitted
+201,917,2024-02-24,Chronic Issue,Recovered
+202,235,2024-09-09,Acute Infection,Deceased
+203,13,2023-11-26,Chronic Issue,Admitted
+204,101,2024-03-21,Routine Checkup,Recovered
+205,929,2023-09-17,Emergency,Deceased
+206,536,2023-02-13,Follow-up,Admitted
+207,876,2023-11-23,Chronic Issue,Referred
+208,523,2023-01-27,Follow-up,Referred
+209,785,2023-01-10,Routine Checkup,Deceased
+210,452,2024-05-20,Acute Infection,Referred
+211,431,2023-10-19,Chronic Issue,Deceased
+212,793,2023-05-18,Acute Infection,Recovered
+213,606,2023-12-05,Acute Infection,Recovered
+214,713,2023-07-24,Routine Checkup,Admitted
+215,533,2023-11-29,Routine Checkup,Deceased
+216,852,2024-09-05,Routine Checkup,Admitted
+217,979,2024-02-11,Routine Checkup,Admitted
+218,723,2024-12-05,Chronic Issue,Recovered
+219,652,2023-03-06,Routine Checkup,Admitted
+220,293,2023-03-21,Routine Checkup,Referred
+221,810,2024-04-22,Acute Infection,Admitted
+222,913,2024-02-03,Acute Infection,Deceased
+223,101,2023-06-03,Emergency,Referred
+224,502,2023-06-20,Acute Infection,Recovered
+225,304,2023-07-11,Routine Checkup,Deceased
+226,871,2023-08-13,Emergency,Referred
+227,540,2023-10-13,Acute Infection,Deceased
+228,553,2023-04-07,Routine Checkup,Referred
+229,355,2024-02-02,Acute Infection,Deceased
+230,303,2024-01-01,Follow-up,Deceased
+231,496,2024-08-15,Routine Checkup,Referred
+232,658,2023-12-03,Routine Checkup,Recovered
+233,768,2024-09-11,Routine Checkup,Recovered
+234,974,2023-06-08,Routine Checkup,Deceased
+235,227,2024-07-08,Acute Infection,Deceased
+236,236,2023-06-15,Acute Infection,Recovered
+237,873,2023-11-05,Routine Checkup,Recovered
+238,892,2024-04-29,Follow-up,Admitted
+239,455,2024-11-03,Chronic Issue,Recovered
+240,13,2024-05-23,Acute Infection,Deceased
+241,210,2023-10-29,Emergency,Referred
+242,741,2023-06-26,Routine Checkup,Recovered
+243,397,2024-03-23,Acute Infection,Admitted
+244,100,2024-06-08,Chronic Issue,Admitted
+245,31,2023-12-10,Emergency,Admitted
+246,898,2023-08-03,Chronic Issue,Referred
+247,528,2024-09-15,Routine Checkup,Recovered
+248,649,2023-10-16,Follow-up,Recovered
+249,329,2024-06-12,Routine Checkup,Recovered
+250,166,2024-10-12,Emergency,Referred
+251,459,2023-08-01,Follow-up,Referred
+252,822,2024-05-16,Routine Checkup,Deceased
+253,952,2024-01-09,Chronic Issue,Admitted
+254,982,2023-08-21,Routine Checkup,Admitted
+255,993,2023-09-24,Acute Infection,Recovered
+256,100,2023-09-26,Acute Infection,Referred
+257,621,2022-12-15,Acute Infection,Referred
+258,855,2024-01-06,Follow-up,Recovered
+259,173,2024-07-04,Chronic Issue,Recovered
+260,749,2024-04-28,Acute Infection,Deceased
+261,162,2022-12-10,Emergency,Admitted
+262,905,2023-10-11,Follow-up,Admitted
+263,728,2024-12-05,Routine Checkup,Admitted
+264,776,2024-06-24,Follow-up,Deceased
+265,263,2024-02-28,Routine Checkup,Recovered
+266,804,2024-07-20,Emergency,Recovered
+267,274,2023-04-01,Routine Checkup,Admitted
+268,3,2023-02-04,Routine Checkup,Admitted
+269,28,2024-06-18,Acute Infection,Deceased
+270,326,2024-01-03,Chronic Issue,Referred
+271,940,2024-07-26,Routine Checkup,Referred
+272,149,2024-11-19,Routine Checkup,Admitted
+273,540,2023-10-24,Acute Infection,Deceased
+274,488,2023-06-26,Follow-up,Admitted
+275,822,2024-05-13,Routine Checkup,Referred
+276,438,2024-06-12,Routine Checkup,Admitted
+277,65,2023-04-30,Acute Infection,Referred
+278,356,2024-06-01,Routine Checkup,Referred
+279,533,2023-02-16,Emergency,Referred
+280,252,2023-03-22,Emergency,Recovered
+281,235,2023-03-27,Acute Infection,Recovered
+282,227,2024-04-19,Routine Checkup,Admitted
+283,525,2024-11-02,Chronic Issue,Referred
+284,313,2023-09-30,Acute Infection,Recovered
+285,49,2024-02-25,Emergency,Admitted
+286,118,2023-07-06,Chronic Issue,Admitted
+287,54,2023-09-04,Chronic Issue,Admitted
+288,650,2023-12-13,Acute Infection,Admitted
+289,565,2023-03-24,Acute Infection,Admitted
+290,44,2024-04-04,Follow-up,Deceased
+291,815,2023-03-28,Acute Infection,Referred
+292,53,2023-12-09,Chronic Issue,Admitted
+293,586,2023-09-16,Routine Checkup,Deceased
+294,558,2023-11-22,Chronic Issue,Referred
+295,525,2023-01-12,Acute Infection,Recovered
+296,677,2024-03-02,Routine Checkup,Admitted
+297,102,2024-08-24,Routine Checkup,Deceased
+298,792,2023-06-21,Chronic Issue,Recovered
+299,770,2023-04-26,Chronic Issue,Deceased
+300,982,2023-11-21,Acute Infection,Referred
+301,849,2023-09-24,Routine Checkup,Referred
+302,868,2024-03-23,Chronic Issue,Recovered
+303,398,2023-11-11,Routine Checkup,Deceased
+304,138,2023-06-24,Acute Infection,Admitted
+305,675,2023-09-17,Routine Checkup,Admitted
+306,921,2023-10-28,Routine Checkup,Recovered
+307,387,2023-12-15,Routine Checkup,Recovered
+308,111,2023-08-27,Routine Checkup,Recovered
+309,614,2023-09-20,Routine Checkup,Deceased
+310,17,2023-09-26,Routine Checkup,Admitted
+311,780,2024-10-08,Acute Infection,Admitted
+312,182,2024-08-11,Acute Infection,Admitted
+313,884,2023-06-01,Routine Checkup,Recovered
+314,536,2023-08-26,Emergency,Admitted
+315,541,2023-03-06,Routine Checkup,Referred
+316,171,2023-06-13,Acute Infection,Recovered
+317,409,2024-06-11,Routine Checkup,Admitted
+318,740,2023-12-06,Routine Checkup,Deceased
+319,378,2023-04-15,Acute Infection,Recovered
+320,188,2023-10-15,Acute Infection,Referred
+321,858,2023-07-12,Emergency,Referred
+322,230,2023-08-06,Acute Infection,Deceased
+323,833,2024-07-28,Follow-up,Deceased
+324,852,2023-05-08,Routine Checkup,Recovered
+325,119,2024-07-22,Routine Checkup,Recovered
+326,156,2023-03-15,Routine Checkup,Referred
+327,784,2023-07-22,Routine Checkup,Deceased
+328,687,2024-01-15,Acute Infection,Recovered
+329,465,2024-07-03,Chronic Issue,Referred
+330,104,2023-08-23,Routine Checkup,Deceased
+331,604,2024-08-08,Follow-up,Referred
+332,698,2024-05-31,Emergency,Admitted
+333,972,2023-12-11,Routine Checkup,Deceased
+334,795,2024-05-08,Routine Checkup,Recovered
+335,502,2024-06-19,Routine Checkup,Recovered
+336,693,2023-01-29,Routine Checkup,Admitted
+337,682,2024-10-31,Routine Checkup,Deceased
+338,699,2024-11-14,Acute Infection,Referred
+339,175,2023-06-18,Routine Checkup,Recovered
+340,734,2024-03-10,Routine Checkup,Admitted
+341,745,2023-09-27,Follow-up,Admitted
+342,674,2023-01-14,Chronic Issue,Deceased
+343,421,2023-07-28,Follow-up,Deceased
+344,134,2024-01-21,Routine Checkup,Recovered
+345,391,2024-07-13,Routine Checkup,Admitted
+346,992,2023-01-20,Acute Infection,Referred
+347,736,2024-02-26,Routine Checkup,Admitted
+348,501,2023-05-08,Routine Checkup,Referred
+349,665,2024-03-04,Chronic Issue,Referred
+350,33,2024-06-11,Chronic Issue,Recovered
+351,55,2023-07-29,Acute Infection,Admitted
+352,954,2023-02-22,Acute Infection,Referred
+353,519,2024-01-06,Acute Infection,Deceased
+354,756,2024-03-10,Routine Checkup,Referred
+355,825,2024-08-03,Routine Checkup,Deceased
+356,638,2024-01-18,Routine Checkup,Deceased
+357,12,2023-09-27,Routine Checkup,Admitted
+358,528,2022-12-22,Follow-up,Deceased
+359,720,2024-06-01,Acute Infection,Referred
+360,555,2024-01-05,Chronic Issue,Deceased
+361,373,2023-03-21,Routine Checkup,Admitted
+362,484,2023-11-21,Routine Checkup,Recovered
+363,973,2024-01-12,Routine Checkup,Referred
+364,647,2023-12-21,Routine Checkup,Referred
+365,228,2023-03-27,Routine Checkup,Admitted
+366,623,2023-12-12,Chronic Issue,Admitted
+367,307,2023-07-15,Chronic Issue,Admitted
+368,457,2024-05-31,Acute Infection,Admitted
+369,160,2023-08-06,Acute Infection,Referred
+370,331,2024-08-01,Follow-up,Recovered
+371,776,2024-06-22,Routine Checkup,Deceased
+372,225,2023-04-16,Routine Checkup,Deceased
+373,983,2023-01-02,Routine Checkup,Recovered
+374,729,2024-04-27,Chronic Issue,Recovered
+375,504,2024-10-12,Follow-up,Recovered
+376,456,2023-08-28,Routine Checkup,Admitted
+377,45,2023-07-15,Emergency,Referred
+378,214,2023-01-05,Emergency,Referred
+379,59,2024-02-06,Routine Checkup,Referred
+380,644,2023-05-24,Routine Checkup,Admitted
+381,616,2024-11-07,Acute Infection,Referred
+382,195,2023-09-03,Follow-up,Admitted
+383,925,2023-10-21,Routine Checkup,Referred
+384,489,2023-07-09,Chronic Issue,Recovered
+385,157,2023-07-05,Routine Checkup,Deceased
+386,610,2023-03-21,Chronic Issue,Deceased
+387,226,2023-08-30,Acute Infection,Admitted
+388,412,2024-03-31,Acute Infection,Referred
+389,205,2024-10-18,Emergency,Deceased
+390,79,2023-04-19,Emergency,Recovered
+391,124,2023-05-23,Emergency,Recovered
+392,471,2024-09-14,Routine Checkup,Recovered
+393,940,2023-09-09,Chronic Issue,Admitted
+394,218,2024-07-25,Routine Checkup,Admitted
+395,516,2024-12-07,Acute Infection,Referred
+396,602,2023-12-06,Acute Infection,Recovered
+397,104,2023-01-18,Acute Infection,Referred
+398,393,2023-01-03,Acute Infection,Referred
+399,631,2023-06-08,Follow-up,Recovered
+400,645,2023-11-02,Routine Checkup,Referred
+401,824,2023-05-07,Chronic Issue,Deceased
+402,608,2024-08-08,Routine Checkup,Admitted
+403,980,2023-12-01,Routine Checkup,Referred
+404,434,2023-09-07,Routine Checkup,Recovered
+405,331,2023-01-16,Follow-up,Admitted
+406,143,2023-09-11,Emergency,Admitted
+407,800,2024-04-02,Follow-up,Referred
+408,540,2023-06-09,Follow-up,Deceased
+409,278,2024-01-13,Routine Checkup,Referred
+410,233,2023-03-15,Routine Checkup,Deceased
+411,529,2023-11-27,Chronic Issue,Admitted
+412,571,2024-08-19,Acute Infection,Referred
+413,90,2023-02-17,Acute Infection,Recovered
+414,492,2023-09-05,Routine Checkup,Referred
+415,199,2024-09-11,Acute Infection,Deceased
+416,362,2024-08-07,Acute Infection,Deceased
+417,441,2024-05-17,Routine Checkup,Referred
+418,26,2023-05-11,Acute Infection,Deceased
+419,25,2024-08-08,Acute Infection,Admitted
+420,394,2024-01-28,Acute Infection,Referred
+421,507,2024-09-18,Routine Checkup,Deceased
+422,301,2024-12-03,Chronic Issue,Referred
+423,339,2024-07-11,Routine Checkup,Referred
+424,267,2023-11-26,Routine Checkup,Recovered
+425,461,2024-06-18,Chronic Issue,Referred
+426,693,2024-05-25,Acute Infection,Recovered
+427,456,2024-03-24,Routine Checkup,Deceased
+428,360,2022-12-15,Chronic Issue,Recovered
+429,68,2023-06-15,Acute Infection,Recovered
+430,863,2023-06-19,Chronic Issue,Recovered
+431,412,2023-07-31,Chronic Issue,Admitted
+432,971,2023-01-29,Chronic Issue,Recovered
+433,491,2024-11-19,Acute Infection,Referred
+434,833,2023-01-02,Routine Checkup,Recovered
+435,49,2024-10-14,Routine Checkup,Referred
+436,687,2023-02-06,Acute Infection,Recovered
+437,564,2024-02-20,Acute Infection,Admitted
+438,102,2024-11-08,Acute Infection,Deceased
+439,216,2024-09-27,Routine Checkup,Recovered
+440,438,2024-12-05,Routine Checkup,Recovered
+441,700,2024-02-10,Acute Infection,Admitted
+442,569,2023-05-20,Routine Checkup,Recovered
+443,559,2023-11-13,Chronic Issue,Referred
+444,159,2024-03-04,Routine Checkup,Recovered
+445,489,2024-03-31,Acute Infection,Recovered
+446,686,2023-03-11,Follow-up,Deceased
+447,242,2024-06-13,Routine Checkup,Deceased
+448,794,2023-02-23,Acute Infection,Recovered
+449,753,2024-01-08,Routine Checkup,Admitted
+450,882,2023-08-09,Chronic Issue,Deceased
+451,5,2024-02-17,Acute Infection,Recovered
+452,596,2024-02-25,Acute Infection,Deceased
+453,820,2024-10-21,Acute Infection,Recovered
+454,361,2023-07-06,Emergency,Deceased
+455,459,2024-04-03,Routine Checkup,Deceased
+456,248,2023-05-22,Routine Checkup,Referred
+457,566,2023-07-27,Emergency,Recovered
+458,673,2023-08-10,Acute Infection,Recovered
+459,946,2024-07-29,Emergency,Recovered
+460,422,2024-10-17,Acute Infection,Recovered
+461,923,2024-08-04,Emergency,Deceased
+462,738,2023-12-11,Acute Infection,Referred
+463,15,2023-03-12,Chronic Issue,Referred
+464,736,2023-01-23,Follow-up,Admitted
+465,573,2023-08-07,Acute Infection,Recovered
+466,122,2023-11-02,Routine Checkup,Admitted
+467,277,2023-05-12,Routine Checkup,Deceased
+468,558,2024-03-21,Routine Checkup,Admitted
+469,453,2023-09-30,Routine Checkup,Recovered
+470,390,2023-02-15,Routine Checkup,Referred
+471,294,2023-01-16,Acute Infection,Referred
+472,574,2024-11-25,Acute Infection,Recovered
+473,598,2024-08-29,Acute Infection,Deceased
+474,446,2023-01-30,Chronic Issue,Recovered
+475,210,2023-08-05,Routine Checkup,Deceased
+476,590,2024-11-08,Routine Checkup,Referred
+477,714,2022-12-21,Routine Checkup,Deceased
+478,302,2023-03-16,Acute Infection,Recovered
+479,909,2024-05-18,Routine Checkup,Recovered
+480,223,2023-03-06,Routine Checkup,Recovered
+481,734,2024-06-09,Acute Infection,Deceased
+482,3,2024-08-28,Emergency,Deceased
+483,990,2023-10-26,Routine Checkup,Deceased
+484,518,2024-02-02,Chronic Issue,Referred
+485,93,2023-03-05,Chronic Issue,Admitted
+486,520,2024-10-11,Chronic Issue,Admitted
+487,428,2024-05-28,Follow-up,Recovered
+488,493,2023-12-30,Routine Checkup,Referred
+489,235,2023-12-26,Routine Checkup,Deceased
+490,620,2023-03-26,Emergency,Recovered
+491,161,2023-06-25,Acute Infection,Referred
+492,721,2023-07-03,Acute Infection,Recovered
+493,752,2023-05-03,Chronic Issue,Referred
+494,331,2023-06-19,Chronic Issue,Referred
+495,333,2023-10-18,Follow-up,Admitted
+496,50,2024-05-15,Follow-up,Recovered
+497,523,2024-01-13,Chronic Issue,Deceased
+498,863,2024-08-20,Routine Checkup,Admitted
+499,668,2023-04-16,Emergency,Admitted
+500,492,2024-05-24,Routine Checkup,Deceased
+501,582,2023-09-23,Routine Checkup,Referred
+502,681,2023-04-06,Emergency,Deceased
+503,272,2023-05-02,Routine Checkup,Recovered
+504,580,2024-11-16,Routine Checkup,Deceased
+505,867,2023-12-29,Routine Checkup,Referred
+506,252,2024-12-02,Emergency,Deceased
+507,560,2024-01-30,Acute Infection,Referred
+508,696,2023-05-24,Chronic Issue,Referred
+509,832,2024-05-13,Routine Checkup,Recovered
+510,699,2023-08-01,Chronic Issue,Deceased
+511,90,2024-02-05,Chronic Issue,Deceased
+512,446,2023-03-26,Routine Checkup,Recovered
+513,332,2024-06-02,Acute Infection,Referred
+514,139,2024-03-09,Routine Checkup,Deceased
+515,357,2024-03-04,Follow-up,Recovered
+516,601,2024-06-18,Chronic Issue,Referred
+517,274,2023-01-20,Follow-up,Recovered
+518,19,2023-12-28,Routine Checkup,Deceased
+519,983,2024-04-05,Chronic Issue,Recovered
+520,311,2024-02-05,Chronic Issue,Admitted
+521,870,2024-11-15,Chronic Issue,Referred
+522,886,2024-08-19,Follow-up,Admitted
+523,978,2024-10-14,Routine Checkup,Admitted
+524,154,2023-09-02,Routine Checkup,Referred
+525,390,2023-05-16,Chronic Issue,Referred
+526,260,2023-10-24,Chronic Issue,Recovered
+527,620,2024-01-19,Acute Infection,Referred
+528,883,2024-09-18,Routine Checkup,Admitted
+529,797,2023-08-29,Acute Infection,Admitted
+530,571,2024-10-24,Routine Checkup,Deceased
+531,125,2024-08-18,Acute Infection,Referred
+532,354,2024-12-04,Chronic Issue,Admitted
+533,273,2024-07-09,Chronic Issue,Deceased
+534,619,2023-02-06,Routine Checkup,Deceased
+535,811,2023-03-12,Acute Infection,Recovered
+536,245,2024-10-25,Routine Checkup,Admitted
+537,848,2024-01-31,Routine Checkup,Recovered
+538,450,2023-04-04,Chronic Issue,Admitted
+539,930,2023-09-21,Follow-up,Recovered
+540,247,2023-06-28,Routine Checkup,Recovered
+541,520,2023-01-11,Chronic Issue,Referred
+542,141,2023-07-19,Emergency,Recovered
+543,362,2024-09-30,Emergency,Referred
+544,8,2023-04-28,Routine Checkup,Deceased
+545,478,2023-02-22,Follow-up,Admitted
+546,352,2024-02-22,Routine Checkup,Deceased
+547,996,2024-08-02,Routine Checkup,Admitted
+548,495,2023-01-24,Routine Checkup,Deceased
+549,606,2023-07-11,Acute Infection,Admitted
+550,833,2024-04-08,Routine Checkup,Recovered
+551,427,2022-12-24,Routine Checkup,Admitted
+552,39,2024-07-01,Routine Checkup,Admitted
+553,593,2024-10-02,Emergency,Deceased
+554,187,2023-08-31,Emergency,Deceased
+555,596,2023-04-07,Routine Checkup,Deceased
+556,600,2024-06-09,Emergency,Referred
+557,754,2023-01-21,Emergency,Referred
+558,854,2023-10-30,Chronic Issue,Admitted
+559,93,2023-07-15,Routine Checkup,Admitted
+560,86,2024-11-01,Chronic Issue,Recovered
+561,44,2023-08-26,Follow-up,Recovered
+562,137,2023-06-29,Chronic Issue,Admitted
+563,421,2024-04-09,Routine Checkup,Referred
+564,74,2024-11-05,Acute Infection,Admitted
+565,548,2023-01-06,Chronic Issue,Recovered
+566,613,2024-09-17,Acute Infection,Referred
+567,988,2024-05-20,Routine Checkup,Referred
+568,512,2023-04-07,Routine Checkup,Recovered
+569,156,2024-09-25,Emergency,Admitted
+570,938,2023-06-18,Emergency,Deceased
+571,255,2024-07-15,Routine Checkup,Admitted
+572,171,2024-03-22,Follow-up,Admitted
+573,981,2023-10-18,Routine Checkup,Recovered
+574,728,2024-10-05,Chronic Issue,Referred
+575,170,2023-11-28,Chronic Issue,Recovered
+576,764,2024-03-04,Emergency,Admitted
+577,872,2023-03-19,Follow-up,Deceased
+578,322,2023-02-09,Routine Checkup,Deceased
+579,567,2023-09-22,Emergency,Deceased
+580,456,2023-01-22,Routine Checkup,Recovered
+581,944,2023-04-19,Chronic Issue,Referred
+582,603,2024-10-25,Chronic Issue,Recovered
+583,790,2023-09-07,Chronic Issue,Deceased
+584,613,2024-11-19,Routine Checkup,Admitted
+585,155,2023-09-05,Emergency,Referred
+586,889,2024-03-16,Routine Checkup,Recovered
+587,349,2023-05-21,Routine Checkup,Recovered
+588,451,2024-04-21,Chronic Issue,Referred
+589,876,2023-06-14,Acute Infection,Referred
+590,653,2024-06-25,Emergency,Admitted
+591,173,2024-06-06,Routine Checkup,Referred
+592,10,2024-06-17,Routine Checkup,Admitted
+593,740,2024-08-14,Emergency,Deceased
+594,265,2023-09-17,Acute Infection,Deceased
+595,438,2023-08-08,Routine Checkup,Recovered
+596,760,2024-05-23,Chronic Issue,Deceased
+597,247,2023-05-01,Acute Infection,Deceased
+598,667,2024-11-14,Chronic Issue,Admitted
+599,546,2023-01-21,Acute Infection,Recovered
+600,499,2023-06-13,Emergency,Referred
+601,129,2022-12-27,Emergency,Recovered
+602,672,2023-03-09,Chronic Issue,Deceased
+603,601,2024-01-26,Routine Checkup,Referred
+604,605,2024-03-20,Emergency,Recovered
+605,327,2023-01-25,Chronic Issue,Recovered
+606,753,2024-10-31,Chronic Issue,Recovered
+607,835,2024-07-15,Routine Checkup,Recovered
+608,980,2023-03-21,Emergency,Admitted
+609,404,2024-10-18,Chronic Issue,Recovered
+610,629,2024-08-06,Routine Checkup,Deceased
+611,606,2022-12-26,Acute Infection,Deceased
+612,675,2024-03-27,Emergency,Admitted
+613,611,2023-05-19,Routine Checkup,Referred
+614,625,2024-03-28,Follow-up,Referred
+615,359,2024-05-22,Chronic Issue,Deceased
+616,603,2024-01-21,Chronic Issue,Deceased
+617,858,2023-02-14,Routine Checkup,Admitted
+618,718,2023-05-19,Routine Checkup,Referred
+619,17,2024-05-31,Follow-up,Referred
+620,274,2023-01-03,Routine Checkup,Recovered
+621,685,2022-12-17,Chronic Issue,Recovered
+622,116,2022-12-23,Routine Checkup,Recovered
+623,861,2024-04-24,Routine Checkup,Admitted
+624,980,2023-01-26,Routine Checkup,Deceased
+625,693,2024-04-13,Acute Infection,Admitted
+626,91,2023-02-11,Follow-up,Referred
+627,82,2024-03-24,Routine Checkup,Deceased
+628,324,2023-10-27,Routine Checkup,Recovered
+629,961,2024-05-05,Routine Checkup,Admitted
+630,114,2024-08-11,Acute Infection,Admitted
+631,769,2024-03-14,Acute Infection,Recovered
+632,58,2024-02-13,Emergency,Admitted
+633,154,2024-03-20,Acute Infection,Recovered
+634,877,2024-10-11,Acute Infection,Referred
+635,404,2023-04-21,Routine Checkup,Deceased
+636,628,2023-11-07,Follow-up,Referred
+637,855,2023-11-29,Routine Checkup,Referred
+638,266,2024-02-20,Routine Checkup,Recovered
+639,315,2023-03-11,Chronic Issue,Admitted
+640,715,2023-03-09,Acute Infection,Referred
+641,41,2024-03-08,Acute Infection,Referred
+642,105,2023-07-13,Acute Infection,Referred
+643,901,2024-07-10,Chronic Issue,Admitted
+644,890,2022-12-23,Routine Checkup,Admitted
+645,193,2023-05-02,Emergency,Recovered
+646,401,2023-04-17,Chronic Issue,Referred
+647,278,2023-08-09,Acute Infection,Deceased
+648,354,2023-12-16,Acute Infection,Admitted
+649,749,2024-05-03,Routine Checkup,Recovered
+650,937,2023-12-03,Chronic Issue,Referred
+651,733,2023-12-29,Acute Infection,Deceased
+652,580,2024-09-10,Routine Checkup,Admitted
+653,709,2023-05-27,Acute Infection,Deceased
+654,256,2024-10-18,Follow-up,Admitted
+655,651,2023-05-31,Acute Infection,Recovered
+656,824,2024-06-02,Follow-up,Deceased
+657,947,2024-07-07,Routine Checkup,Referred
+658,661,2023-07-08,Routine Checkup,Referred
+659,99,2023-08-19,Routine Checkup,Admitted
+660,588,2024-03-17,Acute Infection,Referred
+661,282,2024-02-19,Routine Checkup,Deceased
+662,883,2023-05-29,Routine Checkup,Recovered
+663,403,2023-06-16,Follow-up,Admitted
+664,109,2024-07-18,Emergency,Deceased
+665,700,2023-06-05,Chronic Issue,Admitted
+666,199,2023-08-16,Routine Checkup,Recovered
+667,303,2023-09-08,Routine Checkup,Admitted
+668,327,2023-05-04,Routine Checkup,Referred
+669,154,2024-03-04,Chronic Issue,Referred
+670,552,2024-03-20,Follow-up,Admitted
+671,645,2024-10-10,Acute Infection,Recovered
+672,405,2024-03-18,Routine Checkup,Recovered
+673,462,2024-08-31,Acute Infection,Referred
+674,132,2023-08-18,Routine Checkup,Recovered
+675,791,2024-09-23,Routine Checkup,Admitted
+676,874,2024-02-06,Chronic Issue,Deceased
+677,84,2024-09-22,Chronic Issue,Admitted
+678,399,2024-06-29,Routine Checkup,Referred
+679,754,2023-06-17,Routine Checkup,Referred
+680,628,2023-03-26,Follow-up,Referred
+681,109,2024-01-25,Routine Checkup,Recovered
+682,221,2024-07-12,Routine Checkup,Admitted
+683,904,2024-08-31,Routine Checkup,Deceased
+684,553,2024-04-03,Routine Checkup,Admitted
+685,368,2023-12-02,Routine Checkup,Deceased
+686,147,2023-06-22,Emergency,Admitted
+687,112,2024-12-07,Routine Checkup,Referred
+688,615,2023-05-29,Acute Infection,Deceased
+689,558,2023-02-16,Chronic Issue,Admitted
+690,924,2023-11-08,Acute Infection,Recovered
+691,494,2024-10-07,Emergency,Recovered
+692,505,2023-01-24,Emergency,Admitted
+693,475,2022-12-10,Routine Checkup,Referred
+694,836,2023-03-07,Chronic Issue,Deceased
+695,890,2024-10-08,Acute Infection,Admitted
+696,271,2023-09-16,Follow-up,Recovered
+697,995,2023-08-01,Acute Infection,Deceased
+698,421,2023-01-18,Follow-up,Recovered
+699,897,2023-05-01,Chronic Issue,Recovered
+700,707,2024-02-16,Routine Checkup,Admitted
+701,367,2024-09-28,Acute Infection,Recovered
+702,280,2023-05-25,Follow-up,Deceased
+703,283,2024-09-28,Emergency,Referred
+704,40,2023-02-03,Routine Checkup,Admitted
+705,959,2024-08-17,Chronic Issue,Deceased
+706,189,2024-04-27,Routine Checkup,Admitted
+707,164,2024-11-20,Routine Checkup,Recovered
+708,994,2023-01-18,Acute Infection,Recovered
+709,989,2023-05-29,Routine Checkup,Deceased
+710,536,2023-01-08,Emergency,Deceased
+711,536,2024-07-02,Routine Checkup,Referred
+712,4,2024-09-10,Emergency,Deceased
+713,835,2024-04-23,Routine Checkup,Deceased
+714,290,2023-03-28,Routine Checkup,Admitted
+715,953,2023-02-05,Routine Checkup,Recovered
+716,433,2023-06-01,Routine Checkup,Deceased
+717,471,2024-10-13,Routine Checkup,Referred
+718,181,2024-09-20,Routine Checkup,Deceased
+719,248,2024-04-15,Acute Infection,Recovered
+720,628,2024-10-08,Routine Checkup,Deceased
+721,279,2024-11-26,Acute Infection,Admitted
+722,877,2024-01-12,Routine Checkup,Recovered
+723,581,2022-12-14,Emergency,Deceased
+724,863,2024-06-29,Follow-up,Admitted
+725,254,2023-08-21,Acute Infection,Recovered
+726,181,2024-09-26,Routine Checkup,Deceased
+727,830,2023-11-30,Routine Checkup,Admitted
+728,681,2024-03-16,Follow-up,Referred
+729,825,2023-10-01,Routine Checkup,Admitted
+730,509,2023-12-16,Routine Checkup,Referred
+731,761,2023-08-08,Routine Checkup,Deceased
+732,700,2023-04-09,Routine Checkup,Admitted
+733,566,2024-03-25,Routine Checkup,Referred
+734,326,2024-04-24,Chronic Issue,Recovered
+735,357,2023-08-25,Routine Checkup,Admitted
+736,825,2023-02-15,Chronic Issue,Deceased
+737,650,2023-08-23,Routine Checkup,Recovered
+738,680,2023-11-03,Routine Checkup,Referred
+739,391,2024-03-18,Follow-up,Admitted
+740,615,2024-07-13,Routine Checkup,Admitted
+741,934,2023-11-23,Emergency,Deceased
+742,85,2024-10-22,Acute Infection,Recovered
+743,317,2023-09-11,Routine Checkup,Admitted
+744,212,2023-03-30,Follow-up,Admitted
+745,515,2024-12-09,Routine Checkup,Recovered
+746,384,2024-05-25,Emergency,Admitted
+747,691,2023-08-21,Routine Checkup,Recovered
+748,342,2023-06-06,Emergency,Recovered
+749,815,2024-07-31,Routine Checkup,Recovered
+750,964,2022-12-15,Acute Infection,Deceased
+751,988,2024-05-17,Chronic Issue,Recovered
+752,844,2023-07-22,Follow-up,Recovered
+753,38,2024-09-21,Follow-up,Referred
+754,511,2023-10-13,Emergency,Referred
+755,420,2023-11-07,Emergency,Deceased
+756,751,2024-01-28,Routine Checkup,Recovered
+757,169,2024-11-24,Routine Checkup,Referred
+758,965,2024-09-04,Routine Checkup,Referred
+759,909,2024-08-04,Routine Checkup,Admitted
+760,343,2023-07-31,Routine Checkup,Recovered
+761,826,2023-03-20,Acute Infection,Referred
+762,306,2024-06-23,Routine Checkup,Deceased
+763,542,2023-08-22,Chronic Issue,Admitted
+764,702,2024-06-10,Routine Checkup,Admitted
+765,869,2023-09-27,Routine Checkup,Recovered
+766,537,2024-04-13,Acute Infection,Recovered
+767,112,2024-12-09,Chronic Issue,Admitted
+768,411,2023-02-04,Chronic Issue,Deceased
+769,947,2024-01-10,Chronic Issue,Recovered
+770,206,2024-06-16,Routine Checkup,Recovered
+771,185,2024-10-19,Acute Infection,Admitted
+772,382,2023-10-30,Routine Checkup,Admitted
+773,496,2024-11-19,Routine Checkup,Recovered
+774,379,2023-12-26,Acute Infection,Referred
+775,47,2023-01-02,Routine Checkup,Recovered
+776,886,2024-05-08,Routine Checkup,Referred
+777,740,2024-10-19,Follow-up,Admitted
+778,551,2023-01-16,Follow-up,Referred
+779,528,2023-06-12,Routine Checkup,Deceased
+780,504,2023-08-15,Routine Checkup,Admitted
+781,22,2024-08-17,Routine Checkup,Recovered
+782,213,2024-02-09,Routine Checkup,Recovered
+783,310,2024-02-23,Follow-up,Admitted
+784,661,2022-12-14,Routine Checkup,Admitted
+785,968,2024-08-10,Chronic Issue,Deceased
+786,753,2024-07-09,Routine Checkup,Admitted
+787,272,2023-10-12,Follow-up,Recovered
+788,571,2023-11-04,Routine Checkup,Deceased
+789,799,2023-10-26,Chronic Issue,Recovered
+790,938,2023-12-28,Routine Checkup,Referred
+791,202,2023-05-22,Chronic Issue,Admitted
+792,32,2023-09-27,Routine Checkup,Referred
+793,443,2024-10-16,Routine Checkup,Recovered
+794,162,2024-11-15,Follow-up,Referred
+795,767,2022-12-19,Follow-up,Referred
+796,254,2022-12-20,Emergency,Recovered
+797,521,2023-06-17,Chronic Issue,Recovered
+798,977,2024-10-15,Emergency,Admitted
+799,651,2023-06-03,Routine Checkup,Referred
+800,480,2024-04-22,Routine Checkup,Deceased
+801,10,2023-12-16,Routine Checkup,Deceased
+802,726,2024-06-22,Chronic Issue,Recovered
+803,505,2024-03-16,Routine Checkup,Recovered
+804,785,2023-02-25,Routine Checkup,Referred
+805,836,2023-07-12,Acute Infection,Recovered
+806,560,2024-06-10,Emergency,Deceased
+807,436,2023-10-02,Routine Checkup,Admitted
+808,111,2023-08-15,Routine Checkup,Admitted
+809,153,2024-10-19,Routine Checkup,Referred
+810,635,2024-07-25,Routine Checkup,Admitted
+811,917,2023-08-09,Routine Checkup,Recovered
+812,869,2023-01-29,Chronic Issue,Recovered
+813,102,2023-03-13,Chronic Issue,Recovered
+814,753,2024-10-05,Chronic Issue,Recovered
+815,833,2023-01-22,Routine Checkup,Referred
+816,191,2024-07-03,Emergency,Admitted
+817,729,2023-10-15,Routine Checkup,Deceased
+818,563,2023-08-10,Acute Infection,Admitted
+819,804,2023-12-12,Emergency,Recovered
+820,81,2023-01-12,Routine Checkup,Deceased
+821,489,2023-09-07,Routine Checkup,Referred
+822,895,2023-08-03,Emergency,Recovered
+823,88,2024-09-06,Routine Checkup,Recovered
+824,194,2024-02-25,Chronic Issue,Deceased
+825,104,2024-02-18,Routine Checkup,Referred
+826,783,2023-02-01,Chronic Issue,Deceased
+827,96,2023-11-09,Routine Checkup,Referred
+828,423,2024-08-29,Routine Checkup,Recovered
+829,891,2023-03-19,Chronic Issue,Admitted
+830,198,2023-06-08,Routine Checkup,Recovered
+831,1,2024-11-29,Routine Checkup,Admitted
+832,407,2023-08-16,Routine Checkup,Admitted
+833,378,2024-05-18,Routine Checkup,Referred
+834,167,2024-06-21,Routine Checkup,Deceased
+835,509,2024-08-10,Routine Checkup,Referred
+836,638,2024-02-07,Follow-up,Recovered
+837,313,2023-10-22,Routine Checkup,Deceased
+838,593,2024-03-16,Acute Infection,Admitted
+839,418,2024-09-24,Routine Checkup,Admitted
+840,763,2024-08-19,Routine Checkup,Recovered
+841,681,2024-04-18,Follow-up,Deceased
+842,477,2024-02-04,Routine Checkup,Recovered
+843,73,2023-01-23,Follow-up,Recovered
+844,141,2023-08-16,Routine Checkup,Referred
+845,582,2024-02-02,Chronic Issue,Recovered
+846,262,2023-12-04,Acute Infection,Deceased
+847,340,2023-09-25,Emergency,Recovered
+848,308,2024-01-26,Acute Infection,Deceased
+849,245,2024-08-18,Acute Infection,Admitted
+850,515,2023-10-12,Routine Checkup,Recovered
+851,337,2023-01-12,Routine Checkup,Deceased
+852,575,2023-06-21,Follow-up,Admitted
+853,561,2024-01-28,Routine Checkup,Deceased
+854,76,2023-06-10,Routine Checkup,Admitted
+855,880,2024-04-09,Chronic Issue,Referred
+856,175,2024-07-14,Routine Checkup,Recovered
+857,109,2024-08-05,Follow-up,Recovered
+858,183,2023-09-07,Chronic Issue,Admitted
+859,192,2023-01-27,Acute Infection,Referred
+860,65,2023-08-30,Emergency,Deceased
+861,849,2023-12-17,Routine Checkup,Referred
+862,963,2024-11-02,Routine Checkup,Deceased
+863,474,2023-05-11,Acute Infection,Deceased
+864,783,2024-01-24,Routine Checkup,Recovered
+865,100,2023-02-20,Chronic Issue,Admitted
+866,544,2024-03-16,Follow-up,Recovered
+867,864,2022-12-22,Acute Infection,Recovered
+868,128,2023-12-01,Routine Checkup,Recovered
+869,452,2024-11-10,Follow-up,Deceased
+870,914,2024-09-11,Acute Infection,Recovered
+871,369,2024-07-09,Acute Infection,Deceased
+872,851,2022-12-24,Routine Checkup,Admitted
+873,43,2023-01-07,Follow-up,Deceased
+874,884,2023-03-03,Acute Infection,Deceased
+875,419,2024-01-16,Chronic Issue,Referred
+876,488,2023-07-31,Emergency,Recovered
+877,78,2024-11-26,Routine Checkup,Recovered
+878,826,2024-05-24,Acute Infection,Recovered
+879,801,2023-12-08,Emergency,Recovered
+880,270,2023-11-23,Routine Checkup,Referred
+881,674,2023-07-17,Chronic Issue,Referred
+882,701,2024-03-05,Follow-up,Referred
+883,759,2023-04-16,Chronic Issue,Referred
+884,900,2023-08-10,Chronic Issue,Recovered
+885,728,2023-06-15,Emergency,Deceased
+886,315,2023-12-18,Emergency,Admitted
+887,925,2023-11-29,Routine Checkup,Referred
+888,851,2023-12-11,Routine Checkup,Deceased
+889,902,2024-04-13,Acute Infection,Referred
+890,889,2024-08-31,Chronic Issue,Recovered
+891,993,2024-03-26,Acute Infection,Recovered
+892,945,2023-05-20,Chronic Issue,Deceased
+893,168,2023-06-20,Routine Checkup,Deceased
+894,339,2024-02-29,Chronic Issue,Deceased
+895,193,2024-11-19,Routine Checkup,Recovered
+896,453,2024-12-08,Chronic Issue,Recovered
+897,283,2023-05-28,Acute Infection,Admitted
+898,336,2023-02-09,Routine Checkup,Deceased
+899,390,2024-01-15,Routine Checkup,Admitted
+900,1000,2023-11-07,Chronic Issue,Referred
+901,525,2023-12-03,Acute Infection,Admitted
+902,240,2023-02-04,Routine Checkup,Referred
+903,832,2024-10-24,Follow-up,Referred
+904,958,2024-09-22,Chronic Issue,Admitted
+905,483,2024-10-08,Follow-up,Deceased
+906,659,2024-12-06,Acute Infection,Referred
+907,716,2024-05-11,Acute Infection,Deceased
+908,592,2024-06-25,Emergency,Recovered
+909,891,2024-02-22,Acute Infection,Referred
+910,555,2024-11-01,Chronic Issue,Recovered
+911,458,2023-05-27,Routine Checkup,Admitted
+912,89,2024-02-21,Acute Infection,Deceased
+913,660,2023-08-31,Routine Checkup,Admitted
+914,95,2023-09-12,Routine Checkup,Referred
+915,452,2024-05-21,Routine Checkup,Recovered
+916,428,2024-04-21,Routine Checkup,Referred
+917,151,2024-02-15,Follow-up,Admitted
+918,514,2023-09-17,Routine Checkup,Deceased
+919,376,2023-06-27,Chronic Issue,Deceased
+920,22,2023-05-30,Emergency,Referred
+921,883,2024-10-17,Acute Infection,Referred
+922,313,2023-02-27,Routine Checkup,Recovered
+923,997,2022-12-18,Chronic Issue,Admitted
+924,840,2024-01-12,Chronic Issue,Referred
+925,519,2023-03-07,Chronic Issue,Recovered
+926,206,2024-11-01,Chronic Issue,Referred
+927,952,2023-07-21,Follow-up,Deceased
+928,375,2023-07-01,Acute Infection,Recovered
+929,451,2024-06-23,Routine Checkup,Recovered
+930,626,2023-11-02,Chronic Issue,Referred
+931,784,2023-04-11,Routine Checkup,Admitted
+932,595,2023-09-04,Emergency,Deceased
+933,179,2023-10-08,Routine Checkup,Admitted
+934,210,2024-08-20,Routine Checkup,Recovered
+935,500,2024-03-20,Emergency,Admitted
+936,464,2024-11-30,Acute Infection,Recovered
+937,840,2023-05-08,Routine Checkup,Admitted
+938,124,2023-09-05,Acute Infection,Referred
+939,993,2023-09-20,Emergency,Admitted
+940,113,2023-08-10,Routine Checkup,Recovered
+941,12,2023-05-22,Emergency,Deceased
+942,126,2023-06-03,Routine Checkup,Deceased
+943,565,2024-11-30,Chronic Issue,Deceased
+944,331,2023-11-11,Emergency,Recovered
+945,901,2023-02-01,Routine Checkup,Admitted
+946,283,2024-08-27,Acute Infection,Deceased
+947,140,2023-09-09,Routine Checkup,Deceased
+948,401,2024-03-17,Chronic Issue,Deceased
+949,902,2023-01-31,Acute Infection,Referred
+950,97,2022-12-11,Chronic Issue,Recovered
+951,517,2023-03-23,Routine Checkup,Recovered
+952,569,2024-04-03,Routine Checkup,Recovered
+953,924,2023-06-01,Routine Checkup,Recovered
+954,846,2023-12-04,Routine Checkup,Recovered
+955,69,2023-08-30,Acute Infection,Referred
+956,118,2023-06-30,Emergency,Admitted
+957,888,2023-10-30,Chronic Issue,Referred
+958,59,2023-03-22,Acute Infection,Deceased
+959,33,2023-02-24,Follow-up,Referred
+960,318,2024-03-01,Chronic Issue,Recovered
+961,50,2024-05-07,Follow-up,Referred
+962,880,2023-05-29,Acute Infection,Recovered
+963,489,2023-09-15,Routine Checkup,Referred
+964,19,2023-10-31,Routine Checkup,Recovered
+965,726,2024-06-29,Chronic Issue,Deceased
+966,197,2023-07-03,Routine Checkup,Recovered
+967,891,2023-09-23,Routine Checkup,Referred
+968,450,2022-12-23,Acute Infection,Deceased
+969,990,2023-03-19,Acute Infection,Referred
+970,559,2024-01-30,Chronic Issue,Deceased
+971,679,2023-07-15,Routine Checkup,Admitted
+972,452,2024-11-22,Routine Checkup,Admitted
+973,289,2023-01-22,Chronic Issue,Admitted
+974,141,2023-02-23,Follow-up,Referred
+975,84,2024-07-07,Chronic Issue,Referred
+976,694,2024-05-16,Follow-up,Deceased
+977,391,2024-06-17,Chronic Issue,Deceased
+978,591,2024-02-09,Acute Infection,Deceased
+979,215,2024-11-09,Routine Checkup,Deceased
+980,526,2023-10-30,Chronic Issue,Recovered
+981,215,2024-03-24,Chronic Issue,Admitted
+982,403,2023-11-22,Chronic Issue,Recovered
+983,128,2024-05-13,Acute Infection,Recovered
+984,822,2023-08-19,Acute Infection,Recovered
+985,477,2024-02-18,Routine Checkup,Recovered
+986,760,2024-09-09,Acute Infection,Admitted
+987,404,2023-11-19,Routine Checkup,Recovered
+988,29,2022-12-17,Emergency,Deceased
+989,792,2024-05-20,Routine Checkup,Referred
+990,338,2024-08-11,Routine Checkup,Deceased
+991,831,2022-12-25,Acute Infection,Referred
+992,714,2023-01-01,Chronic Issue,Deceased
+993,361,2023-12-15,Acute Infection,Deceased
+994,569,2023-05-24,Routine Checkup,Referred
+995,392,2024-11-12,Acute Infection,Admitted
+996,218,2024-02-17,Routine Checkup,Recovered
+997,574,2024-09-01,Follow-up,Deceased
+998,669,2022-12-19,Follow-up,Admitted
+999,202,2024-03-01,Acute Infection,Recovered
+1000,17,2024-11-17,Routine Checkup,Admitted
+1001,322,2024-05-30,Chronic Issue,Admitted
+1002,518,2023-08-01,Routine Checkup,Recovered
+1003,570,2022-12-21,Acute Infection,Deceased
+1004,325,2024-05-02,Routine Checkup,Admitted
+1005,412,2024-10-15,Follow-up,Deceased
+1006,318,2024-03-06,Routine Checkup,Deceased
+1007,681,2024-05-06,Acute Infection,Deceased
+1008,965,2022-12-28,Chronic Issue,Recovered
+1009,82,2023-05-17,Acute Infection,Referred
+1010,474,2023-10-07,Routine Checkup,Deceased
+1011,468,2023-02-26,Follow-up,Referred
+1012,425,2023-10-12,Acute Infection,Referred
+1013,945,2024-04-14,Chronic Issue,Admitted
+1014,731,2023-10-31,Routine Checkup,Deceased
+1015,689,2023-03-19,Acute Infection,Deceased
+1016,204,2023-06-12,Acute Infection,Deceased
+1017,583,2022-12-11,Routine Checkup,Referred
+1018,387,2024-09-15,Routine Checkup,Recovered
+1019,778,2023-01-11,Emergency,Referred
+1020,98,2023-12-31,Routine Checkup,Deceased
+1021,345,2024-04-06,Routine Checkup,Deceased
+1022,803,2024-07-17,Acute Infection,Deceased
+1023,208,2024-07-19,Chronic Issue,Referred
+1024,514,2023-08-26,Routine Checkup,Deceased
+1025,636,2023-04-09,Acute Infection,Admitted
+1026,792,2023-01-25,Routine Checkup,Deceased
+1027,586,2024-08-25,Routine Checkup,Recovered
+1028,166,2024-02-29,Routine Checkup,Admitted
+1029,22,2024-01-20,Emergency,Deceased
+1030,154,2023-05-21,Routine Checkup,Admitted
+1031,939,2024-07-20,Routine Checkup,Deceased
+1032,439,2023-07-09,Acute Infection,Recovered
+1033,295,2024-04-15,Emergency,Deceased
+1034,219,2023-10-09,Routine Checkup,Admitted
+1035,669,2023-06-04,Acute Infection,Recovered
+1036,495,2023-11-04,Routine Checkup,Referred
+1037,230,2024-11-07,Acute Infection,Recovered
+1038,20,2023-12-23,Acute Infection,Recovered
+1039,987,2024-02-07,Acute Infection,Recovered
+1040,553,2024-10-25,Routine Checkup,Admitted
+1041,950,2023-05-17,Routine Checkup,Recovered
+1042,148,2023-01-09,Routine Checkup,Deceased
+1043,108,2023-05-06,Routine Checkup,Recovered
+1044,403,2023-05-06,Routine Checkup,Recovered
+1045,596,2023-11-23,Chronic Issue,Deceased
+1046,483,2023-05-02,Follow-up,Deceased
+1047,367,2023-03-13,Follow-up,Referred
+1048,834,2022-12-28,Emergency,Recovered
+1049,414,2024-07-27,Chronic Issue,Admitted
+1050,309,2024-06-17,Chronic Issue,Recovered
+1051,802,2024-02-09,Routine Checkup,Recovered
+1052,918,2023-10-03,Chronic Issue,Deceased
+1053,835,2023-11-08,Acute Infection,Referred
+1054,134,2024-02-29,Acute Infection,Recovered
+1055,719,2024-05-26,Chronic Issue,Admitted
+1056,283,2023-11-04,Routine Checkup,Recovered
+1057,778,2023-01-16,Routine Checkup,Admitted
+1058,73,2023-12-24,Follow-up,Deceased
+1059,481,2024-02-27,Routine Checkup,Referred
+1060,352,2023-03-06,Acute Infection,Recovered
+1061,560,2024-05-29,Follow-up,Referred
+1062,326,2024-11-13,Chronic Issue,Recovered
+1063,745,2022-12-13,Acute Infection,Admitted
+1064,443,2023-05-02,Routine Checkup,Referred
+1065,100,2023-01-06,Routine Checkup,Recovered
+1066,59,2024-03-24,Emergency,Deceased
+1067,508,2023-06-01,Acute Infection,Admitted
+1068,258,2023-09-18,Acute Infection,Referred
+1069,413,2024-05-01,Routine Checkup,Recovered
+1070,452,2024-06-16,Routine Checkup,Referred
+1071,65,2023-04-17,Follow-up,Recovered
+1072,595,2024-11-08,Routine Checkup,Admitted
+1073,154,2023-09-13,Chronic Issue,Deceased
+1074,985,2024-03-06,Routine Checkup,Admitted
+1075,266,2023-09-07,Chronic Issue,Referred
+1076,821,2024-06-15,Follow-up,Referred
+1077,79,2024-09-25,Acute Infection,Recovered
+1078,315,2023-10-25,Routine Checkup,Admitted
+1079,662,2024-11-30,Acute Infection,Recovered
+1080,947,2023-10-07,Chronic Issue,Admitted
+1081,560,2022-12-13,Acute Infection,Referred
+1082,917,2023-11-19,Emergency,Recovered
+1083,891,2023-03-23,Chronic Issue,Recovered
+1084,248,2023-02-15,Emergency,Admitted
+1085,790,2023-08-16,Chronic Issue,Deceased
+1086,868,2023-08-20,Routine Checkup,Admitted
+1087,610,2024-04-29,Routine Checkup,Deceased
+1088,414,2023-06-06,Routine Checkup,Admitted
+1089,25,2023-11-09,Follow-up,Referred
+1090,284,2023-03-27,Chronic Issue,Recovered
+1091,449,2024-10-15,Chronic Issue,Admitted
+1092,881,2023-06-22,Routine Checkup,Referred
+1093,301,2024-08-21,Routine Checkup,Admitted
+1094,68,2023-08-24,Chronic Issue,Recovered
+1095,7,2023-07-23,Acute Infection,Admitted
+1096,817,2023-07-13,Routine Checkup,Deceased
+1097,137,2024-11-26,Chronic Issue,Recovered
+1098,164,2023-05-30,Routine Checkup,Deceased
+1099,83,2024-06-07,Routine Checkup,Referred
+1100,897,2023-12-22,Acute Infection,Referred
+1101,650,2023-11-17,Routine Checkup,Admitted
+1102,420,2023-12-02,Follow-up,Deceased
+1103,73,2024-03-12,Routine Checkup,Deceased
+1104,237,2024-07-04,Routine Checkup,Recovered
+1105,46,2023-01-25,Routine Checkup,Deceased
+1106,618,2023-04-12,Chronic Issue,Deceased
+1107,928,2024-07-01,Acute Infection,Recovered
+1108,800,2024-09-14,Acute Infection,Recovered
+1109,262,2023-10-09,Routine Checkup,Deceased
+1110,176,2024-03-20,Routine Checkup,Admitted
+1111,166,2024-07-02,Acute Infection,Recovered
+1112,657,2023-05-01,Emergency,Recovered
+1113,842,2024-06-17,Emergency,Deceased
+1114,370,2024-10-07,Routine Checkup,Deceased
+1115,795,2023-11-30,Acute Infection,Recovered
+1116,54,2022-12-17,Follow-up,Deceased
+1117,690,2023-02-23,Routine Checkup,Recovered
+1118,419,2024-01-05,Emergency,Admitted
+1119,756,2024-06-28,Routine Checkup,Admitted
+1120,507,2024-05-23,Follow-up,Recovered
+1121,341,2024-07-31,Chronic Issue,Recovered
+1122,127,2023-05-01,Follow-up,Referred
+1123,409,2023-03-04,Chronic Issue,Referred
+1124,924,2023-10-11,Routine Checkup,Deceased
+1125,367,2023-09-30,Follow-up,Deceased
+1126,271,2024-05-12,Routine Checkup,Recovered
+1127,644,2024-09-18,Routine Checkup,Recovered
+1128,605,2024-04-20,Chronic Issue,Referred
+1129,379,2023-06-21,Chronic Issue,Referred
+1130,73,2023-09-09,Follow-up,Recovered
+1131,923,2024-05-14,Routine Checkup,Admitted
+1132,922,2023-08-27,Chronic Issue,Admitted
+1133,915,2023-11-22,Chronic Issue,Deceased
+1134,248,2022-12-28,Routine Checkup,Recovered
+1135,860,2024-10-26,Routine Checkup,Recovered
+1136,785,2023-02-20,Routine Checkup,Deceased
+1137,43,2023-04-28,Routine Checkup,Referred
+1138,377,2023-04-09,Follow-up,Referred
+1139,41,2023-11-07,Chronic Issue,Admitted
+1140,170,2023-11-28,Chronic Issue,Recovered
+1141,946,2023-08-05,Follow-up,Referred
+1142,212,2024-07-22,Routine Checkup,Admitted
+1143,493,2023-12-02,Emergency,Admitted
+1144,680,2024-11-28,Acute Infection,Admitted
+1145,39,2023-11-11,Emergency,Referred
+1146,369,2023-11-05,Routine Checkup,Referred
+1147,757,2024-02-23,Follow-up,Recovered
+1148,151,2023-07-18,Routine Checkup,Recovered
+1149,111,2024-11-24,Routine Checkup,Admitted
+1150,480,2024-04-11,Chronic Issue,Admitted
+1151,436,2023-04-22,Routine Checkup,Referred
+1152,47,2024-02-14,Chronic Issue,Referred
+1153,575,2024-03-15,Acute Infection,Recovered
+1154,737,2024-02-18,Chronic Issue,Recovered
+1155,366,2024-06-30,Routine Checkup,Deceased
+1156,69,2023-08-20,Routine Checkup,Recovered
+1157,299,2024-11-08,Routine Checkup,Referred
+1158,944,2024-04-30,Acute Infection,Admitted
+1159,802,2023-05-07,Routine Checkup,Deceased
+1160,296,2024-08-19,Routine Checkup,Recovered
+1161,203,2023-05-10,Routine Checkup,Recovered
+1162,61,2023-03-09,Routine Checkup,Referred
+1163,946,2024-11-14,Acute Infection,Deceased
+1164,963,2024-05-08,Emergency,Recovered
+1165,830,2024-01-12,Routine Checkup,Admitted
+1166,314,2023-11-23,Acute Infection,Referred
+1167,161,2023-06-20,Chronic Issue,Deceased
+1168,331,2023-02-14,Acute Infection,Recovered
+1169,528,2024-09-16,Chronic Issue,Recovered
+1170,338,2023-07-28,Acute Infection,Deceased
+1171,606,2023-08-14,Acute Infection,Referred
+1172,304,2023-08-09,Routine Checkup,Deceased
+1173,503,2024-02-20,Chronic Issue,Deceased
+1174,650,2024-06-09,Chronic Issue,Referred
+1175,338,2023-09-14,Routine Checkup,Recovered
+1176,550,2024-07-27,Routine Checkup,Admitted
+1177,639,2024-03-25,Follow-up,Referred
+1178,275,2024-03-05,Acute Infection,Admitted
+1179,164,2023-02-03,Acute Infection,Recovered
+1180,443,2024-02-15,Follow-up,Deceased
+1181,319,2024-11-19,Chronic Issue,Admitted
+1182,589,2024-05-16,Acute Infection,Recovered
+1183,504,2024-04-08,Chronic Issue,Recovered
+1184,686,2023-02-28,Emergency,Deceased
+1185,387,2023-12-05,Acute Infection,Deceased
+1186,970,2023-10-13,Acute Infection,Recovered
+1187,870,2023-02-03,Routine Checkup,Recovered
+1188,833,2024-10-11,Follow-up,Admitted
+1189,888,2023-09-05,Chronic Issue,Recovered
+1190,603,2024-05-10,Routine Checkup,Recovered
+1191,750,2024-11-09,Emergency,Admitted
+1192,776,2024-03-24,Acute Infection,Referred
+1193,691,2023-10-31,Routine Checkup,Admitted
+1194,494,2024-05-24,Acute Infection,Admitted
+1195,490,2023-10-21,Acute Infection,Deceased
+1196,721,2024-05-13,Emergency,Admitted
+1197,73,2023-12-02,Routine Checkup,Recovered
+1198,509,2024-10-17,Emergency,Recovered
+1199,390,2024-09-03,Acute Infection,Recovered
+1200,619,2023-02-07,Routine Checkup,Referred
+1201,857,2023-10-02,Follow-up,Recovered
+1202,295,2023-01-04,Acute Infection,Referred
+1203,369,2024-03-13,Routine Checkup,Recovered
+1204,956,2024-01-30,Acute Infection,Admitted
+1205,796,2023-08-26,Emergency,Deceased
+1206,865,2023-02-23,Routine Checkup,Recovered
+1207,694,2023-12-18,Routine Checkup,Referred
+1208,549,2024-08-16,Routine Checkup,Referred
+1209,649,2023-04-29,Routine Checkup,Deceased
+1210,850,2023-09-12,Chronic Issue,Recovered
+1211,568,2024-04-26,Acute Infection,Admitted
+1212,187,2023-02-02,Routine Checkup,Recovered
+1213,853,2024-05-16,Routine Checkup,Recovered
+1214,770,2024-09-01,Routine Checkup,Deceased
+1215,445,2024-08-14,Follow-up,Recovered
+1216,570,2023-01-09,Routine Checkup,Admitted
+1217,363,2023-08-08,Follow-up,Referred
+1218,123,2024-08-19,Acute Infection,Deceased
+1219,188,2024-08-23,Routine Checkup,Admitted
+1220,742,2024-11-13,Emergency,Referred
+1221,680,2024-07-11,Acute Infection,Deceased
+1222,420,2024-05-14,Chronic Issue,Deceased
+1223,626,2024-07-09,Follow-up,Referred
+1224,252,2023-12-23,Routine Checkup,Referred
+1225,619,2024-11-08,Routine Checkup,Admitted
+1226,549,2024-08-18,Chronic Issue,Recovered
+1227,335,2023-08-24,Routine Checkup,Recovered
+1228,92,2023-03-26,Routine Checkup,Recovered
+1229,530,2023-09-30,Routine Checkup,Recovered
+1230,866,2024-09-22,Routine Checkup,Recovered
+1231,63,2024-03-09,Chronic Issue,Admitted
+1232,662,2024-05-01,Routine Checkup,Deceased
+1233,512,2023-07-23,Acute Infection,Admitted
+1234,139,2024-04-10,Chronic Issue,Admitted
+1235,698,2024-05-22,Acute Infection,Admitted
+1236,185,2024-08-04,Routine Checkup,Deceased
+1237,205,2024-05-20,Chronic Issue,Admitted
+1238,772,2023-01-04,Routine Checkup,Admitted
+1239,214,2023-04-21,Chronic Issue,Deceased
+1240,256,2023-06-13,Emergency,Admitted
+1241,135,2024-09-30,Acute Infection,Recovered
+1242,573,2023-04-13,Acute Infection,Referred
+1243,875,2023-09-17,Acute Infection,Admitted
+1244,822,2024-01-16,Routine Checkup,Referred
+1245,88,2024-10-18,Emergency,Admitted
+1246,836,2024-10-01,Emergency,Admitted
+1247,988,2023-05-31,Routine Checkup,Recovered
+1248,207,2023-06-14,Chronic Issue,Deceased
+1249,129,2024-01-09,Follow-up,Referred
+1250,823,2023-01-27,Follow-up,Deceased
+1251,3,2024-04-08,Acute Infection,Recovered
+1252,974,2023-10-18,Acute Infection,Recovered
+1253,934,2023-08-20,Routine Checkup,Referred
+1254,754,2024-09-22,Follow-up,Deceased
+1255,121,2023-07-22,Routine Checkup,Recovered
+1256,385,2024-07-03,Acute Infection,Admitted
+1257,614,2024-03-25,Routine Checkup,Admitted
+1258,38,2023-04-11,Routine Checkup,Admitted
+1259,341,2024-08-14,Acute Infection,Deceased
+1260,925,2024-08-16,Follow-up,Admitted
+1261,645,2024-07-28,Routine Checkup,Admitted
+1262,714,2024-09-05,Acute Infection,Recovered
+1263,860,2024-02-24,Routine Checkup,Recovered
+1264,21,2023-07-03,Routine Checkup,Admitted
+1265,242,2024-07-13,Acute Infection,Admitted
+1266,455,2024-03-15,Acute Infection,Recovered
+1267,963,2023-04-16,Routine Checkup,Referred
+1268,621,2024-09-26,Routine Checkup,Deceased
+1269,303,2024-04-04,Routine Checkup,Deceased
+1270,596,2023-06-10,Routine Checkup,Recovered
+1271,595,2024-03-15,Follow-up,Deceased
+1272,803,2024-07-05,Follow-up,Recovered
+1273,964,2023-12-23,Routine Checkup,Recovered
+1274,69,2023-08-19,Acute Infection,Recovered
+1275,129,2023-04-16,Follow-up,Recovered
+1276,196,2023-09-26,Routine Checkup,Referred
+1277,140,2023-03-23,Emergency,Admitted
+1278,444,2024-07-15,Follow-up,Admitted
+1279,283,2023-12-22,Routine Checkup,Referred
+1280,312,2024-10-29,Routine Checkup,Deceased
+1281,746,2023-01-23,Follow-up,Deceased
+1282,535,2024-01-08,Acute Infection,Admitted
+1283,665,2024-04-10,Routine Checkup,Deceased
+1284,277,2023-03-15,Routine Checkup,Admitted
+1285,61,2024-10-30,Acute Infection,Admitted
+1286,319,2024-01-03,Chronic Issue,Referred
+1287,890,2023-12-07,Chronic Issue,Deceased
+1288,52,2024-02-26,Follow-up,Referred
+1289,856,2024-10-31,Routine Checkup,Admitted
+1290,153,2023-06-29,Acute Infection,Admitted
+1291,749,2023-05-16,Acute Infection,Admitted
+1292,311,2023-03-13,Acute Infection,Recovered
+1293,814,2024-08-26,Routine Checkup,Recovered
+1294,544,2024-11-25,Follow-up,Recovered
+1295,567,2023-11-26,Emergency,Referred
+1296,864,2022-12-23,Acute Infection,Admitted
+1297,389,2023-11-05,Chronic Issue,Deceased
+1298,548,2023-11-24,Routine Checkup,Referred
+1299,622,2023-06-29,Acute Infection,Referred
+1300,177,2024-11-19,Chronic Issue,Referred
+1301,362,2024-06-19,Acute Infection,Deceased
+1302,314,2024-09-05,Follow-up,Admitted
+1303,807,2023-01-13,Chronic Issue,Recovered
+1304,848,2023-11-17,Routine Checkup,Admitted
+1305,97,2024-11-24,Chronic Issue,Admitted
+1306,881,2023-12-10,Routine Checkup,Referred
+1307,213,2024-03-15,Routine Checkup,Referred
+1308,829,2023-12-29,Routine Checkup,Referred
+1309,137,2022-12-20,Acute Infection,Recovered
+1310,6,2024-10-01,Chronic Issue,Recovered
+1311,109,2023-08-03,Acute Infection,Recovered
+1312,547,2023-10-29,Chronic Issue,Admitted
+1313,39,2022-12-20,Acute Infection,Referred
+1314,662,2024-05-04,Routine Checkup,Deceased
+1315,425,2023-07-14,Emergency,Admitted
+1316,630,2023-11-28,Routine Checkup,Recovered
+1317,261,2024-06-02,Routine Checkup,Deceased
+1318,426,2023-04-21,Acute Infection,Deceased
+1319,87,2023-10-19,Routine Checkup,Referred
+1320,465,2023-02-11,Routine Checkup,Deceased
+1321,76,2024-01-15,Chronic Issue,Recovered
+1322,471,2023-05-26,Acute Infection,Referred
+1323,976,2022-12-29,Acute Infection,Deceased
+1324,963,2023-02-17,Follow-up,Referred
+1325,414,2024-07-15,Acute Infection,Deceased
+1326,825,2023-09-25,Emergency,Admitted
+1327,895,2023-11-30,Routine Checkup,Admitted
+1328,726,2024-03-18,Acute Infection,Recovered
+1329,457,2024-04-28,Emergency,Admitted
+1330,285,2023-04-09,Acute Infection,Admitted
+1331,239,2024-02-08,Chronic Issue,Admitted
+1332,677,2024-12-07,Routine Checkup,Deceased
+1333,599,2023-06-04,Routine Checkup,Deceased
+1334,653,2023-02-27,Acute Infection,Referred
+1335,672,2024-04-08,Routine Checkup,Deceased
+1336,558,2024-06-26,Emergency,Admitted
+1337,372,2024-02-08,Routine Checkup,Deceased
+1338,495,2024-06-20,Follow-up,Recovered
+1339,624,2023-07-25,Follow-up,Referred
+1340,919,2023-08-17,Routine Checkup,Referred
+1341,45,2023-03-25,Routine Checkup,Deceased
+1342,401,2023-01-01,Emergency,Admitted
+1343,247,2023-11-04,Follow-up,Referred
+1344,616,2023-10-30,Acute Infection,Recovered
+1345,597,2024-05-06,Routine Checkup,Recovered
+1346,450,2023-10-22,Acute Infection,Referred
+1347,485,2023-10-04,Chronic Issue,Admitted
+1348,646,2024-07-23,Routine Checkup,Admitted
+1349,620,2023-09-16,Chronic Issue,Deceased
+1350,18,2023-01-23,Routine Checkup,Deceased
+1351,606,2022-12-25,Routine Checkup,Referred
+1352,662,2023-10-09,Routine Checkup,Deceased
+1353,758,2023-10-28,Routine Checkup,Deceased
+1354,289,2024-01-04,Routine Checkup,Deceased
+1355,414,2023-06-09,Acute Infection,Recovered
+1356,721,2024-02-26,Routine Checkup,Deceased
+1357,638,2024-10-30,Routine Checkup,Referred
+1358,235,2024-06-12,Routine Checkup,Admitted
+1359,416,2023-12-18,Follow-up,Deceased
+1360,938,2024-02-09,Acute Infection,Admitted
+1361,499,2024-07-17,Acute Infection,Deceased
+1362,974,2023-01-26,Acute Infection,Referred
+1363,634,2023-09-12,Follow-up,Recovered
+1364,650,2023-05-23,Routine Checkup,Referred
+1365,115,2023-03-21,Chronic Issue,Recovered
+1366,932,2024-08-12,Chronic Issue,Deceased
+1367,674,2024-04-21,Chronic Issue,Deceased
+1368,713,2024-10-01,Routine Checkup,Recovered
+1369,234,2024-11-14,Chronic Issue,Referred
+1370,540,2023-07-27,Routine Checkup,Referred
+1371,11,2024-10-16,Acute Infection,Recovered
+1372,206,2023-11-23,Chronic Issue,Deceased
+1373,679,2023-09-16,Routine Checkup,Recovered
+1374,247,2023-02-20,Emergency,Deceased
+1375,559,2023-02-01,Routine Checkup,Recovered
+1376,758,2023-10-22,Emergency,Deceased
+1377,127,2023-10-21,Acute Infection,Recovered
+1378,147,2023-01-28,Routine Checkup,Admitted
+1379,118,2024-04-15,Routine Checkup,Deceased
+1380,911,2022-12-23,Follow-up,Referred
+1381,382,2023-03-01,Routine Checkup,Recovered
+1382,412,2023-08-09,Routine Checkup,Referred
+1383,664,2023-01-24,Routine Checkup,Recovered
+1384,584,2024-01-31,Chronic Issue,Referred
+1385,363,2024-08-30,Acute Infection,Referred
+1386,509,2024-02-28,Routine Checkup,Recovered
+1387,137,2024-06-28,Routine Checkup,Recovered
+1388,175,2023-08-09,Routine Checkup,Referred
+1389,289,2024-11-16,Routine Checkup,Referred
+1390,958,2023-07-22,Acute Infection,Referred
+1391,481,2023-09-04,Chronic Issue,Deceased
+1392,19,2023-11-13,Routine Checkup,Deceased
+1393,195,2023-04-04,Routine Checkup,Admitted
+1394,330,2024-11-30,Routine Checkup,Deceased
+1395,936,2024-04-27,Follow-up,Deceased
+1396,175,2024-01-11,Follow-up,Recovered
+1397,449,2023-04-15,Emergency,Admitted
+1398,925,2023-09-14,Routine Checkup,Admitted
+1399,946,2024-11-16,Routine Checkup,Deceased
+1400,354,2024-10-16,Routine Checkup,Recovered
+1401,499,2024-04-07,Routine Checkup,Recovered
+1402,141,2022-12-14,Acute Infection,Admitted
+1403,758,2023-06-27,Chronic Issue,Recovered
+1404,897,2024-08-08,Emergency,Referred
+1405,930,2023-12-05,Emergency,Deceased
+1406,93,2023-11-29,Routine Checkup,Referred
+1407,944,2023-06-27,Chronic Issue,Admitted
+1408,239,2024-04-26,Routine Checkup,Admitted
+1409,205,2024-11-18,Routine Checkup,Recovered
+1410,560,2023-08-13,Chronic Issue,Recovered
+1411,433,2023-05-31,Routine Checkup,Admitted
+1412,245,2023-03-28,Acute Infection,Admitted
+1413,832,2023-10-26,Routine Checkup,Referred
+1414,317,2023-06-04,Chronic Issue,Referred
+1415,925,2024-10-08,Chronic Issue,Recovered
+1416,295,2023-08-06,Routine Checkup,Referred
+1417,640,2024-03-12,Emergency,Recovered
+1418,856,2023-07-12,Routine Checkup,Recovered
+1419,282,2023-07-06,Acute Infection,Deceased
+1420,17,2023-02-09,Chronic Issue,Recovered
+1421,71,2023-02-26,Chronic Issue,Referred
+1422,269,2023-02-01,Follow-up,Admitted
+1423,325,2024-09-16,Routine Checkup,Admitted
+1424,794,2024-09-25,Chronic Issue,Referred
+1425,305,2024-05-05,Chronic Issue,Admitted
+1426,451,2023-10-14,Follow-up,Recovered
+1427,7,2024-06-04,Routine Checkup,Admitted
+1428,314,2023-07-26,Chronic Issue,Referred
+1429,817,2024-10-29,Acute Infection,Admitted
+1430,103,2023-01-09,Routine Checkup,Recovered
+1431,821,2023-09-27,Acute Infection,Recovered
+1432,193,2024-04-01,Routine Checkup,Referred
+1433,753,2024-09-04,Acute Infection,Referred
+1434,574,2023-02-01,Emergency,Referred
+1435,529,2023-01-16,Acute Infection,Deceased
+1436,171,2024-03-11,Chronic Issue,Deceased
+1437,537,2024-05-03,Acute Infection,Recovered
+1438,251,2023-04-13,Routine Checkup,Deceased
+1439,765,2024-12-02,Routine Checkup,Deceased
+1440,387,2024-08-06,Acute Infection,Admitted
+1441,207,2024-01-07,Routine Checkup,Deceased
+1442,541,2024-06-15,Routine Checkup,Admitted
+1443,629,2023-09-02,Acute Infection,Referred
+1444,416,2024-07-20,Routine Checkup,Admitted
+1445,794,2023-07-31,Routine Checkup,Admitted
+1446,380,2024-05-05,Acute Infection,Referred
+1447,144,2023-07-30,Routine Checkup,Referred
+1448,25,2024-03-23,Follow-up,Recovered
+1449,822,2023-10-13,Emergency,Recovered
+1450,668,2023-09-08,Chronic Issue,Recovered
+1451,73,2022-12-28,Routine Checkup,Recovered
+1452,632,2023-05-15,Chronic Issue,Admitted
+1453,824,2023-04-15,Emergency,Admitted
+1454,833,2023-01-08,Chronic Issue,Recovered
+1455,93,2023-03-25,Routine Checkup,Deceased
+1456,505,2024-05-25,Chronic Issue,Recovered
+1457,598,2023-03-01,Emergency,Deceased
+1458,336,2023-10-13,Acute Infection,Referred
+1459,425,2023-10-29,Chronic Issue,Admitted
+1460,499,2024-03-28,Acute Infection,Admitted
+1461,364,2023-09-09,Acute Infection,Deceased
+1462,947,2023-08-28,Routine Checkup,Recovered
+1463,630,2023-03-20,Chronic Issue,Admitted
+1464,745,2024-05-06,Routine Checkup,Deceased
+1465,199,2024-01-09,Acute Infection,Referred
+1466,718,2023-11-17,Routine Checkup,Referred
+1467,413,2023-09-24,Acute Infection,Admitted
+1468,339,2023-01-24,Routine Checkup,Recovered
+1469,659,2023-10-02,Chronic Issue,Deceased
+1470,962,2024-03-24,Chronic Issue,Admitted
+1471,937,2022-12-24,Routine Checkup,Referred
+1472,429,2023-01-02,Routine Checkup,Recovered
+1473,783,2022-12-28,Routine Checkup,Deceased
+1474,899,2023-02-04,Emergency,Admitted
+1475,139,2024-05-18,Acute Infection,Deceased
+1476,693,2023-12-14,Acute Infection,Recovered
+1477,942,2023-04-11,Routine Checkup,Recovered
+1478,542,2024-02-11,Chronic Issue,Referred
+1479,57,2023-10-30,Emergency,Recovered
+1480,232,2024-06-14,Emergency,Admitted
+1481,658,2024-03-24,Chronic Issue,Deceased
+1482,435,2024-09-09,Routine Checkup,Recovered
+1483,384,2023-11-15,Routine Checkup,Recovered
+1484,560,2024-03-19,Routine Checkup,Admitted
+1485,194,2023-05-16,Routine Checkup,Deceased
+1486,736,2024-11-06,Routine Checkup,Deceased
+1487,648,2023-09-17,Routine Checkup,Referred
+1488,534,2023-07-08,Routine Checkup,Referred
+1489,518,2024-03-17,Follow-up,Deceased
+1490,716,2024-08-10,Chronic Issue,Admitted
+1491,751,2024-05-01,Emergency,Admitted
+1492,185,2023-08-20,Chronic Issue,Referred
+1493,872,2024-08-12,Routine Checkup,Recovered
+1494,292,2024-04-01,Chronic Issue,Admitted
+1495,335,2024-10-12,Routine Checkup,Recovered
+1496,732,2024-06-03,Chronic Issue,Admitted
+1497,116,2024-04-12,Routine Checkup,Deceased
+1498,825,2024-10-04,Follow-up,Referred
+1499,49,2023-06-06,Routine Checkup,Recovered
+1500,685,2024-01-30,Routine Checkup,Recovered
+1501,82,2024-09-28,Follow-up,Deceased
+1502,834,2023-10-04,Routine Checkup,Admitted
+1503,333,2024-01-08,Chronic Issue,Recovered
+1504,557,2024-06-07,Chronic Issue,Admitted
+1505,335,2023-09-12,Emergency,Deceased
+1506,532,2024-11-17,Follow-up,Referred
+1507,960,2023-09-06,Follow-up,Recovered
+1508,221,2024-07-19,Routine Checkup,Admitted
+1509,635,2024-08-13,Emergency,Recovered
+1510,746,2022-12-18,Chronic Issue,Admitted
+1511,733,2023-10-15,Chronic Issue,Admitted
+1512,323,2023-10-15,Routine Checkup,Admitted
+1513,851,2023-11-09,Chronic Issue,Deceased
+1514,3,2024-07-20,Follow-up,Referred
+1515,694,2024-09-23,Follow-up,Recovered
+1516,206,2023-10-06,Acute Infection,Referred
+1517,832,2023-04-29,Routine Checkup,Admitted
+1518,40,2023-08-28,Routine Checkup,Admitted
+1519,59,2024-04-17,Emergency,Referred
+1520,951,2023-03-03,Chronic Issue,Referred
+1521,574,2023-08-02,Acute Infection,Recovered
+1522,644,2024-08-25,Routine Checkup,Admitted
+1523,507,2023-09-24,Acute Infection,Referred
+1524,572,2023-06-02,Acute Infection,Deceased
+1525,884,2024-09-16,Follow-up,Admitted
+1526,843,2023-05-05,Chronic Issue,Admitted
+1527,122,2023-02-08,Routine Checkup,Recovered
+1528,479,2024-07-16,Acute Infection,Deceased
+1529,619,2023-03-14,Routine Checkup,Recovered
+1530,96,2024-10-31,Follow-up,Deceased
+1531,859,2023-04-08,Routine Checkup,Recovered
+1532,414,2023-08-19,Acute Infection,Deceased
+1533,235,2022-12-12,Routine Checkup,Deceased
+1534,898,2024-02-02,Chronic Issue,Deceased
+1535,62,2023-01-01,Chronic Issue,Referred
+1536,256,2023-12-10,Chronic Issue,Admitted
+1537,561,2023-11-20,Routine Checkup,Deceased
+1538,905,2024-06-29,Routine Checkup,Referred
+1539,348,2023-03-24,Routine Checkup,Referred
+1540,671,2023-11-03,Chronic Issue,Recovered
+1541,124,2024-04-26,Routine Checkup,Admitted
+1542,482,2023-10-01,Acute Infection,Admitted
+1543,317,2023-06-03,Emergency,Recovered
+1544,504,2023-04-12,Emergency,Admitted
+1545,719,2023-12-17,Acute Infection,Recovered
+1546,48,2024-02-21,Acute Infection,Referred
+1547,409,2024-12-06,Routine Checkup,Referred
+1548,932,2024-06-04,Chronic Issue,Deceased
+1549,136,2023-12-18,Emergency,Recovered
+1550,201,2024-05-10,Routine Checkup,Referred
+1551,250,2024-01-21,Acute Infection,Referred
+1552,314,2023-08-01,Emergency,Recovered
+1553,869,2023-12-11,Emergency,Referred
+1554,368,2024-05-18,Routine Checkup,Admitted
+1555,429,2023-11-05,Acute Infection,Referred
+1556,830,2024-02-04,Routine Checkup,Recovered
+1557,807,2024-12-01,Routine Checkup,Admitted
+1558,480,2024-09-27,Follow-up,Admitted
+1559,314,2024-03-27,Emergency,Referred
+1560,500,2023-06-16,Chronic Issue,Deceased
+1561,721,2024-11-28,Routine Checkup,Admitted
+1562,355,2024-06-10,Emergency,Recovered
+1563,485,2024-03-01,Acute Infection,Deceased
+1564,211,2023-12-15,Routine Checkup,Deceased
+1565,704,2024-06-10,Acute Infection,Admitted
+1566,44,2023-02-08,Routine Checkup,Referred
+1567,541,2023-12-07,Chronic Issue,Deceased
+1568,571,2024-01-30,Acute Infection,Referred
+1569,583,2024-11-07,Routine Checkup,Admitted
+1570,92,2024-08-02,Routine Checkup,Recovered
+1571,265,2024-11-30,Routine Checkup,Deceased
+1572,895,2024-09-22,Routine Checkup,Recovered
+1573,220,2024-06-14,Acute Infection,Referred
+1574,902,2022-12-14,Emergency,Referred
+1575,925,2023-07-06,Routine Checkup,Recovered
+1576,442,2024-08-25,Routine Checkup,Admitted
+1577,401,2023-03-17,Acute Infection,Admitted
+1578,400,2024-04-20,Emergency,Deceased
+1579,727,2024-01-23,Routine Checkup,Deceased
+1580,991,2024-09-06,Routine Checkup,Admitted
+1581,899,2023-07-15,Acute Infection,Admitted
+1582,789,2023-07-05,Routine Checkup,Recovered
+1583,576,2024-01-20,Routine Checkup,Referred
+1584,858,2024-01-12,Chronic Issue,Referred
+1585,804,2024-11-22,Chronic Issue,Deceased
+1586,490,2024-02-29,Acute Infection,Admitted
+1587,485,2024-04-30,Chronic Issue,Recovered
+1588,757,2024-12-06,Chronic Issue,Deceased
+1589,470,2024-01-16,Routine Checkup,Recovered
+1590,574,2023-09-30,Routine Checkup,Admitted
+1591,938,2024-02-10,Routine Checkup,Admitted
+1592,844,2024-05-19,Routine Checkup,Admitted
+1593,682,2024-04-12,Chronic Issue,Referred
+1594,445,2023-06-03,Emergency,Admitted
+1595,269,2023-02-05,Follow-up,Deceased
+1596,267,2023-07-25,Chronic Issue,Referred
+1597,54,2023-08-24,Routine Checkup,Recovered
+1598,528,2024-09-05,Routine Checkup,Deceased
+1599,520,2023-03-29,Emergency,Deceased
+1600,616,2024-06-22,Acute Infection,Recovered
+1601,59,2024-02-24,Chronic Issue,Referred
+1602,825,2024-05-28,Chronic Issue,Deceased
+1603,40,2023-11-15,Chronic Issue,Deceased
+1604,237,2024-05-08,Emergency,Deceased
+1605,955,2023-08-15,Routine Checkup,Referred
+1606,386,2024-04-16,Chronic Issue,Referred
+1607,606,2023-09-17,Emergency,Referred
+1608,734,2024-11-10,Routine Checkup,Deceased
+1609,716,2024-04-10,Chronic Issue,Admitted
+1610,650,2023-06-18,Routine Checkup,Recovered
+1611,300,2024-07-29,Follow-up,Admitted
+1612,395,2024-01-06,Routine Checkup,Referred
+1613,207,2024-09-02,Acute Infection,Deceased
+1614,336,2024-07-03,Routine Checkup,Deceased
+1615,593,2023-03-22,Chronic Issue,Admitted
+1616,730,2024-03-21,Routine Checkup,Admitted
+1617,514,2023-06-30,Routine Checkup,Recovered
+1618,178,2024-09-04,Acute Infection,Deceased
+1619,396,2024-09-30,Follow-up,Admitted
+1620,371,2024-06-17,Routine Checkup,Recovered
+1621,858,2023-06-08,Routine Checkup,Referred
+1622,791,2023-03-10,Chronic Issue,Admitted
+1623,658,2023-10-20,Acute Infection,Referred
+1624,318,2023-11-05,Follow-up,Recovered
+1625,736,2023-05-26,Routine Checkup,Referred
+1626,369,2024-05-29,Chronic Issue,Deceased
+1627,384,2024-10-10,Routine Checkup,Deceased
+1628,62,2024-10-14,Routine Checkup,Referred
+1629,806,2023-05-09,Chronic Issue,Deceased
+1630,505,2023-02-05,Acute Infection,Recovered
+1631,239,2023-09-04,Chronic Issue,Deceased
+1632,195,2024-08-11,Routine Checkup,Referred
+1633,678,2024-01-28,Acute Infection,Referred
+1634,963,2023-04-04,Acute Infection,Referred
+1635,222,2023-03-31,Follow-up,Admitted
+1636,61,2022-12-25,Routine Checkup,Referred
+1637,129,2023-03-15,Routine Checkup,Recovered
+1638,990,2023-05-13,Routine Checkup,Deceased
+1639,685,2024-05-16,Acute Infection,Deceased
+1640,992,2024-05-01,Routine Checkup,Admitted
+1641,156,2024-12-01,Follow-up,Admitted
+1642,917,2023-05-08,Routine Checkup,Recovered
+1643,378,2024-11-18,Emergency,Referred
+1644,622,2024-10-26,Routine Checkup,Admitted
+1645,781,2024-11-27,Chronic Issue,Deceased
+1646,923,2024-12-07,Follow-up,Admitted
+1647,868,2024-09-06,Routine Checkup,Admitted
+1648,903,2024-05-07,Follow-up,Referred
+1649,790,2023-05-28,Acute Infection,Admitted
+1650,586,2023-12-30,Follow-up,Recovered
+1651,999,2023-03-07,Chronic Issue,Deceased
+1652,437,2023-07-26,Routine Checkup,Referred
+1653,975,2023-04-19,Routine Checkup,Deceased
+1654,207,2023-02-23,Routine Checkup,Recovered
+1655,388,2024-03-16,Routine Checkup,Recovered
+1656,480,2024-02-27,Routine Checkup,Admitted
+1657,791,2023-06-10,Routine Checkup,Admitted
+1658,887,2024-08-06,Acute Infection,Admitted
+1659,838,2024-03-20,Chronic Issue,Deceased
+1660,984,2024-11-08,Routine Checkup,Recovered
+1661,340,2024-02-24,Routine Checkup,Referred
+1662,869,2024-10-02,Chronic Issue,Admitted
+1663,340,2024-11-13,Routine Checkup,Deceased
+1664,204,2023-10-25,Routine Checkup,Admitted
+1665,161,2023-08-25,Routine Checkup,Recovered
+1666,540,2023-12-08,Follow-up,Referred
+1667,392,2023-03-03,Emergency,Recovered
+1668,769,2024-03-23,Routine Checkup,Deceased
+1669,677,2023-10-28,Chronic Issue,Admitted
+1670,575,2023-08-18,Acute Infection,Recovered
+1671,534,2023-10-23,Chronic Issue,Deceased
+1672,70,2024-01-22,Chronic Issue,Admitted
+1673,893,2024-11-24,Chronic Issue,Referred
+1674,405,2024-03-05,Routine Checkup,Recovered
+1675,608,2023-05-24,Routine Checkup,Admitted
+1676,675,2023-11-04,Acute Infection,Admitted
+1677,591,2024-08-11,Emergency,Admitted
+1678,517,2023-06-19,Acute Infection,Admitted
+1679,828,2024-01-28,Emergency,Recovered
+1680,120,2023-07-11,Follow-up,Admitted
+1681,814,2024-11-13,Routine Checkup,Deceased
+1682,690,2024-05-07,Chronic Issue,Recovered
+1683,688,2024-09-25,Chronic Issue,Admitted
+1684,902,2024-06-18,Follow-up,Recovered
+1685,217,2023-12-18,Follow-up,Deceased
+1686,56,2024-02-22,Chronic Issue,Deceased
+1687,366,2023-07-02,Routine Checkup,Recovered
+1688,699,2023-05-14,Chronic Issue,Admitted
+1689,504,2023-10-18,Routine Checkup,Admitted
+1690,744,2023-12-25,Chronic Issue,Deceased
+1691,767,2024-09-12,Follow-up,Admitted
+1692,925,2024-05-18,Routine Checkup,Deceased
+1693,455,2023-02-16,Chronic Issue,Admitted
+1694,104,2023-06-04,Acute Infection,Deceased
+1695,77,2023-07-13,Acute Infection,Referred
+1696,230,2024-10-07,Routine Checkup,Admitted
+1697,914,2024-03-26,Chronic Issue,Admitted
+1698,258,2024-08-31,Follow-up,Admitted
+1699,264,2023-06-16,Follow-up,Recovered
+1700,331,2024-01-29,Routine Checkup,Admitted
+1701,993,2024-01-28,Emergency,Recovered
+1702,182,2023-05-29,Chronic Issue,Recovered
+1703,893,2023-01-23,Routine Checkup,Deceased
+1704,768,2024-05-22,Routine Checkup,Recovered
+1705,550,2023-10-04,Routine Checkup,Recovered
+1706,688,2023-01-31,Follow-up,Referred
+1707,27,2023-06-16,Chronic Issue,Admitted
+1708,276,2024-11-11,Chronic Issue,Recovered
+1709,652,2023-03-28,Routine Checkup,Admitted
+1710,299,2023-11-07,Chronic Issue,Recovered
+1711,957,2023-08-15,Routine Checkup,Deceased
+1712,799,2023-04-12,Routine Checkup,Referred
+1713,91,2024-09-08,Chronic Issue,Recovered
+1714,480,2024-01-28,Routine Checkup,Admitted
+1715,573,2024-04-29,Emergency,Deceased
+1716,458,2024-04-05,Routine Checkup,Admitted
+1717,451,2023-10-24,Chronic Issue,Deceased
+1718,365,2024-03-02,Acute Infection,Referred
+1719,859,2024-05-18,Acute Infection,Deceased
+1720,675,2024-08-07,Routine Checkup,Admitted
+1721,351,2023-10-26,Routine Checkup,Admitted
+1722,655,2024-06-29,Follow-up,Recovered
+1723,400,2023-04-03,Routine Checkup,Deceased
+1724,253,2023-02-21,Emergency,Admitted
+1725,781,2023-09-27,Follow-up,Recovered
+1726,881,2024-08-10,Routine Checkup,Referred
+1727,803,2024-11-21,Routine Checkup,Admitted
+1728,459,2023-04-16,Chronic Issue,Recovered
+1729,699,2023-03-05,Follow-up,Admitted
+1730,917,2023-03-10,Follow-up,Deceased
+1731,499,2023-03-28,Acute Infection,Recovered
+1732,950,2024-12-08,Chronic Issue,Deceased
+1733,971,2023-08-17,Routine Checkup,Referred
+1734,926,2024-11-12,Follow-up,Deceased
+1735,508,2023-08-06,Follow-up,Recovered
+1736,304,2023-09-17,Routine Checkup,Admitted
+1737,501,2022-12-19,Routine Checkup,Recovered
+1738,803,2024-03-25,Routine Checkup,Deceased
+1739,598,2023-01-04,Routine Checkup,Deceased
+1740,166,2024-04-01,Emergency,Admitted
+1741,415,2024-06-21,Routine Checkup,Referred
+1742,462,2024-01-31,Routine Checkup,Recovered
+1743,920,2024-02-03,Routine Checkup,Admitted
+1744,114,2023-12-14,Follow-up,Admitted
+1745,433,2024-02-07,Chronic Issue,Admitted
+1746,992,2024-10-14,Acute Infection,Recovered
+1747,356,2023-01-08,Routine Checkup,Recovered
+1748,928,2023-05-05,Follow-up,Recovered
+1749,695,2024-08-10,Emergency,Referred
+1750,207,2024-08-07,Routine Checkup,Admitted
+1751,768,2023-01-15,Routine Checkup,Deceased
+1752,235,2024-06-21,Routine Checkup,Deceased
+1753,442,2024-06-03,Routine Checkup,Admitted
+1754,355,2023-03-19,Acute Infection,Deceased
+1755,515,2024-05-25,Follow-up,Referred
+1756,208,2024-05-28,Acute Infection,Referred
+1757,709,2024-07-06,Emergency,Recovered
+1758,853,2023-03-06,Acute Infection,Recovered
+1759,125,2023-10-11,Chronic Issue,Recovered
+1760,138,2023-05-05,Chronic Issue,Recovered
+1761,339,2023-10-05,Routine Checkup,Recovered
+1762,537,2024-07-27,Routine Checkup,Deceased
+1763,68,2023-10-30,Chronic Issue,Deceased
+1764,573,2024-02-23,Routine Checkup,Recovered
+1765,541,2024-09-20,Routine Checkup,Referred
+1766,383,2023-05-08,Acute Infection,Deceased
+1767,19,2024-03-26,Follow-up,Referred
+1768,683,2024-09-20,Acute Infection,Referred
+1769,450,2023-01-14,Emergency,Admitted
+1770,74,2023-08-21,Acute Infection,Admitted
+1771,573,2023-02-18,Chronic Issue,Recovered
+1772,939,2024-10-07,Acute Infection,Referred
+1773,665,2024-06-29,Emergency,Deceased
+1774,276,2024-10-28,Acute Infection,Admitted
+1775,48,2024-08-07,Chronic Issue,Admitted
+1776,211,2024-09-03,Chronic Issue,Referred
+1777,855,2024-06-26,Acute Infection,Admitted
+1778,920,2024-07-24,Routine Checkup,Admitted
+1779,651,2023-08-09,Routine Checkup,Deceased
+1780,622,2024-01-08,Routine Checkup,Referred
+1781,994,2023-08-01,Emergency,Admitted
+1782,695,2023-05-18,Routine Checkup,Referred
+1783,540,2024-05-02,Routine Checkup,Admitted
+1784,709,2024-11-07,Chronic Issue,Deceased
+1785,191,2023-06-24,Routine Checkup,Referred
+1786,315,2023-12-31,Acute Infection,Admitted
+1787,901,2024-12-08,Routine Checkup,Deceased
+1788,563,2023-08-29,Follow-up,Admitted
+1789,661,2024-07-15,Emergency,Referred
+1790,780,2023-01-06,Emergency,Admitted
+1791,562,2023-08-14,Acute Infection,Referred
+1792,900,2022-12-17,Chronic Issue,Referred
+1793,758,2024-07-21,Routine Checkup,Admitted
+1794,113,2023-05-05,Routine Checkup,Deceased
+1795,170,2023-11-06,Routine Checkup,Recovered
+1796,468,2024-01-27,Acute Infection,Deceased
+1797,678,2023-01-13,Acute Infection,Deceased
+1798,921,2023-07-01,Acute Infection,Admitted
+1799,14,2024-02-01,Routine Checkup,Deceased
+1800,715,2024-11-21,Acute Infection,Deceased
+1801,288,2024-07-18,Chronic Issue,Recovered
+1802,907,2024-01-10,Acute Infection,Deceased
+1803,189,2023-01-08,Chronic Issue,Recovered
+1804,914,2023-02-03,Routine Checkup,Admitted
+1805,155,2024-11-24,Emergency,Recovered
+1806,567,2024-05-14,Acute Infection,Referred
+1807,694,2024-02-04,Routine Checkup,Referred
+1808,722,2023-07-27,Routine Checkup,Recovered
+1809,888,2023-01-28,Chronic Issue,Referred
+1810,471,2024-05-31,Emergency,Admitted
+1811,75,2023-09-09,Acute Infection,Referred
+1812,277,2024-05-21,Routine Checkup,Recovered
+1813,940,2023-03-09,Emergency,Admitted
+1814,645,2024-07-16,Chronic Issue,Referred
+1815,343,2024-02-18,Acute Infection,Admitted
+1816,425,2024-09-10,Acute Infection,Recovered
+1817,571,2023-12-13,Routine Checkup,Referred
+1818,511,2024-11-19,Chronic Issue,Admitted
+1819,857,2023-05-06,Routine Checkup,Admitted
+1820,182,2024-10-29,Follow-up,Referred
+1821,458,2023-05-02,Acute Infection,Admitted
+1822,918,2024-07-17,Acute Infection,Admitted
+1823,851,2024-07-10,Acute Infection,Recovered
+1824,833,2023-09-07,Follow-up,Recovered
+1825,64,2023-08-10,Emergency,Recovered
+1826,839,2024-01-15,Acute Infection,Recovered
+1827,260,2024-04-14,Chronic Issue,Recovered
+1828,193,2024-09-17,Acute Infection,Recovered
+1829,655,2024-08-27,Acute Infection,Referred
+1830,616,2023-10-04,Routine Checkup,Recovered
+1831,972,2023-08-09,Acute Infection,Admitted
+1832,406,2023-02-17,Routine Checkup,Referred
+1833,726,2024-01-20,Follow-up,Admitted
+1834,754,2023-12-09,Routine Checkup,Recovered
+1835,943,2024-03-10,Follow-up,Recovered
+1836,721,2024-02-09,Acute Infection,Admitted
+1837,93,2024-02-27,Chronic Issue,Admitted
+1838,430,2023-06-14,Acute Infection,Admitted
+1839,654,2024-06-27,Routine Checkup,Deceased
+1840,434,2023-08-04,Routine Checkup,Deceased
+1841,404,2024-05-31,Routine Checkup,Deceased
+1842,434,2024-02-25,Chronic Issue,Deceased
+1843,112,2023-07-25,Acute Infection,Referred
+1844,929,2023-12-05,Chronic Issue,Recovered
+1845,375,2024-01-07,Routine Checkup,Admitted
+1846,59,2023-11-26,Routine Checkup,Recovered
+1847,43,2024-06-07,Acute Infection,Admitted
+1848,207,2023-11-18,Follow-up,Recovered
+1849,780,2024-12-09,Chronic Issue,Referred
+1850,296,2023-12-08,Acute Infection,Deceased
+1851,118,2023-07-02,Acute Infection,Recovered
+1852,532,2024-01-27,Routine Checkup,Admitted
+1853,222,2023-07-23,Follow-up,Recovered
+1854,166,2023-06-30,Chronic Issue,Referred
+1855,643,2024-01-13,Routine Checkup,Referred
+1856,156,2024-06-24,Acute Infection,Recovered
+1857,184,2023-01-06,Routine Checkup,Deceased
+1858,90,2024-02-12,Follow-up,Admitted
+1859,94,2024-11-13,Routine Checkup,Referred
+1860,13,2024-08-20,Chronic Issue,Referred
+1861,973,2024-05-08,Routine Checkup,Recovered
+1862,834,2023-03-15,Chronic Issue,Referred
+1863,805,2023-05-04,Chronic Issue,Referred
+1864,945,2023-01-06,Chronic Issue,Admitted
+1865,742,2023-06-16,Chronic Issue,Deceased
+1866,834,2024-08-08,Emergency,Admitted
+1867,804,2024-11-18,Routine Checkup,Deceased
+1868,438,2023-08-25,Routine Checkup,Admitted
+1869,538,2023-08-10,Routine Checkup,Recovered
+1870,587,2023-02-03,Follow-up,Referred
+1871,968,2024-12-08,Routine Checkup,Deceased
+1872,876,2023-05-25,Chronic Issue,Recovered
+1873,936,2023-01-18,Chronic Issue,Referred
+1874,811,2024-12-05,Routine Checkup,Referred
+1875,150,2024-03-11,Routine Checkup,Referred
+1876,660,2024-11-12,Routine Checkup,Admitted
+1877,8,2023-01-18,Acute Infection,Recovered
+1878,29,2023-03-16,Routine Checkup,Recovered
+1879,296,2023-12-17,Routine Checkup,Referred
+1880,986,2023-05-05,Emergency,Deceased
+1881,926,2024-12-04,Follow-up,Recovered
+1882,721,2024-06-20,Routine Checkup,Admitted
+1883,640,2023-01-10,Routine Checkup,Deceased
+1884,340,2024-04-07,Routine Checkup,Deceased
+1885,628,2023-02-05,Chronic Issue,Deceased
+1886,439,2024-09-19,Emergency,Deceased
+1887,144,2023-11-20,Routine Checkup,Recovered
+1888,942,2023-10-18,Routine Checkup,Referred
+1889,830,2023-04-25,Chronic Issue,Deceased
+1890,747,2024-01-31,Chronic Issue,Admitted
+1891,519,2023-05-27,Routine Checkup,Admitted
+1892,976,2023-07-24,Chronic Issue,Referred
+1893,45,2024-07-05,Routine Checkup,Recovered
+1894,955,2023-04-13,Routine Checkup,Referred
+1895,239,2023-09-05,Chronic Issue,Deceased
+1896,952,2024-06-04,Emergency,Recovered
+1897,944,2023-08-30,Acute Infection,Recovered
+1898,155,2023-08-14,Follow-up,Deceased
+1899,181,2023-03-18,Acute Infection,Admitted
+1900,215,2023-05-02,Chronic Issue,Deceased
+1901,88,2023-02-26,Acute Infection,Referred
+1902,256,2024-10-08,Emergency,Deceased
+1903,511,2023-10-08,Follow-up,Admitted
+1904,73,2023-09-23,Routine Checkup,Deceased
+1905,931,2023-03-31,Follow-up,Referred
+1906,179,2023-03-19,Emergency,Referred
+1907,212,2023-08-11,Chronic Issue,Admitted
+1908,805,2023-01-13,Routine Checkup,Referred
+1909,234,2024-04-16,Emergency,Referred
+1910,465,2023-07-30,Emergency,Deceased
+1911,751,2024-05-05,Routine Checkup,Recovered
+1912,223,2024-11-08,Follow-up,Referred
+1913,631,2023-05-22,Routine Checkup,Referred
+1914,825,2023-08-06,Routine Checkup,Admitted
+1915,264,2024-05-30,Acute Infection,Admitted
+1916,207,2024-09-11,Acute Infection,Deceased
+1917,607,2024-11-17,Chronic Issue,Deceased
+1918,885,2024-05-08,Routine Checkup,Referred
+1919,734,2024-07-19,Follow-up,Recovered
+1920,366,2023-08-01,Routine Checkup,Recovered
+1921,276,2024-05-29,Routine Checkup,Deceased
+1922,380,2024-06-04,Routine Checkup,Admitted
+1923,743,2023-02-26,Acute Infection,Referred
+1924,309,2024-08-19,Follow-up,Referred
+1925,631,2023-01-31,Chronic Issue,Recovered
+1926,268,2022-12-28,Emergency,Deceased
+1927,945,2024-07-11,Routine Checkup,Recovered
+1928,785,2024-11-06,Acute Infection,Recovered
+1929,64,2023-01-28,Acute Infection,Deceased
+1930,810,2024-02-13,Acute Infection,Admitted
+1931,350,2024-04-05,Routine Checkup,Referred
+1932,925,2023-05-17,Chronic Issue,Admitted
+1933,915,2024-06-07,Acute Infection,Deceased
+1934,494,2023-07-26,Chronic Issue,Deceased
+1935,523,2024-06-16,Acute Infection,Referred
+1936,98,2024-05-23,Routine Checkup,Admitted
+1937,946,2023-03-01,Chronic Issue,Referred
+1938,71,2024-07-21,Routine Checkup,Recovered
+1939,364,2023-09-09,Emergency,Recovered
+1940,570,2023-04-22,Chronic Issue,Recovered
+1941,802,2024-02-10,Routine Checkup,Admitted
+1942,763,2024-10-11,Follow-up,Recovered
+1943,276,2024-05-30,Acute Infection,Referred
+1944,50,2023-12-15,Routine Checkup,Admitted
+1945,358,2023-02-04,Chronic Issue,Referred
+1946,728,2023-04-20,Routine Checkup,Deceased
+1947,906,2024-11-22,Emergency,Admitted
+1948,928,2022-12-18,Emergency,Referred
+1949,564,2023-06-04,Follow-up,Referred
+1950,783,2024-10-11,Acute Infection,Admitted
+1951,485,2023-04-09,Acute Infection,Deceased
+1952,84,2024-10-15,Chronic Issue,Admitted
+1953,899,2024-08-01,Routine Checkup,Recovered
+1954,805,2022-12-30,Acute Infection,Recovered
+1955,638,2024-10-19,Acute Infection,Deceased
+1956,808,2024-10-15,Routine Checkup,Referred
+1957,584,2024-11-29,Acute Infection,Referred
+1958,296,2023-04-27,Emergency,Referred
+1959,236,2024-05-11,Emergency,Admitted
+1960,56,2023-12-05,Routine Checkup,Admitted
+1961,919,2024-11-01,Routine Checkup,Deceased
+1962,360,2023-12-20,Routine Checkup,Recovered
+1963,907,2024-09-02,Emergency,Referred
+1964,110,2024-10-21,Routine Checkup,Recovered
+1965,192,2024-06-07,Chronic Issue,Admitted
+1966,904,2023-08-09,Routine Checkup,Admitted
+1967,93,2023-09-12,Chronic Issue,Admitted
+1968,862,2023-10-27,Routine Checkup,Recovered
+1969,568,2024-06-09,Chronic Issue,Deceased
+1970,60,2024-06-18,Routine Checkup,Deceased
+1971,650,2023-02-07,Chronic Issue,Admitted
+1972,39,2024-05-26,Routine Checkup,Referred
+1973,540,2023-08-15,Chronic Issue,Recovered
+1974,49,2024-05-25,Emergency,Admitted
+1975,420,2024-07-01,Routine Checkup,Recovered
+1976,637,2024-04-16,Emergency,Recovered
+1977,13,2024-06-07,Acute Infection,Deceased
+1978,992,2023-09-24,Routine Checkup,Admitted
+1979,36,2024-11-16,Acute Infection,Deceased
+1980,101,2024-02-12,Routine Checkup,Admitted
+1981,794,2024-01-24,Chronic Issue,Recovered
+1982,86,2024-11-08,Chronic Issue,Deceased
+1983,516,2024-11-22,Routine Checkup,Recovered
+1984,223,2023-11-24,Acute Infection,Admitted
+1985,338,2024-02-12,Emergency,Referred
+1986,960,2023-10-13,Follow-up,Deceased
+1987,166,2023-02-19,Acute Infection,Deceased
+1988,383,2024-09-13,Follow-up,Recovered
+1989,856,2024-06-03,Acute Infection,Recovered
+1990,895,2024-07-20,Routine Checkup,Referred
+1991,376,2023-01-20,Emergency,Deceased
+1992,471,2024-11-12,Acute Infection,Admitted
+1993,790,2024-01-05,Acute Infection,Admitted
+1994,642,2024-08-12,Acute Infection,Deceased
+1995,31,2023-07-21,Emergency,Deceased
+1996,375,2024-11-04,Emergency,Deceased
+1997,11,2024-08-18,Acute Infection,Referred
+1998,988,2024-06-12,Routine Checkup,Admitted
+1999,302,2023-05-12,Acute Infection,Admitted
+2000,96,2024-07-19,Acute Infection,Recovered
+2001,190,2024-09-27,Routine Checkup,Recovered
+2002,453,2024-11-27,Chronic Issue,Deceased
+2003,192,2023-08-10,Acute Infection,Recovered
+2004,486,2024-02-18,Routine Checkup,Referred
+2005,266,2024-08-03,Routine Checkup,Admitted
+2006,424,2023-12-22,Routine Checkup,Admitted
+2007,128,2024-09-23,Follow-up,Recovered
+2008,238,2024-10-18,Routine Checkup,Deceased
+2009,920,2024-10-04,Routine Checkup,Recovered
+2010,355,2023-02-08,Acute Infection,Deceased
+2011,940,2023-01-19,Routine Checkup,Referred
+2012,112,2023-06-28,Routine Checkup,Admitted
+2013,828,2024-08-04,Routine Checkup,Referred
+2014,446,2022-12-15,Acute Infection,Admitted
+2015,343,2024-01-03,Acute Infection,Referred
+2016,145,2023-07-15,Routine Checkup,Recovered
+2017,65,2024-08-03,Acute Infection,Referred
+2018,247,2024-10-07,Follow-up,Referred
+2019,735,2023-09-17,Routine Checkup,Recovered
+2020,991,2023-07-08,Routine Checkup,Admitted
+2021,490,2022-12-26,Routine Checkup,Admitted
+2022,825,2024-11-24,Acute Infection,Recovered
+2023,439,2024-01-07,Chronic Issue,Referred
+2024,106,2023-08-31,Routine Checkup,Referred
+2025,181,2024-06-05,Chronic Issue,Referred
+2026,184,2024-10-08,Routine Checkup,Deceased
+2027,226,2023-03-01,Acute Infection,Admitted
+2028,777,2024-09-19,Chronic Issue,Referred
+2029,790,2022-12-28,Routine Checkup,Admitted
+2030,909,2024-04-30,Acute Infection,Referred
+2031,89,2024-06-21,Routine Checkup,Recovered
+2032,688,2022-12-13,Chronic Issue,Recovered
+2033,530,2023-04-03,Routine Checkup,Admitted
+2034,371,2023-03-29,Emergency,Admitted
+2035,972,2024-07-09,Routine Checkup,Recovered
+2036,936,2023-07-05,Emergency,Deceased
+2037,913,2023-07-05,Routine Checkup,Recovered
+2038,399,2023-04-23,Chronic Issue,Referred
+2039,106,2023-01-17,Routine Checkup,Deceased
+2040,271,2023-12-16,Follow-up,Recovered
+2041,975,2023-09-16,Routine Checkup,Deceased
+2042,831,2024-07-29,Routine Checkup,Deceased
+2043,503,2023-03-30,Acute Infection,Deceased
+2044,679,2024-02-05,Routine Checkup,Admitted
+2045,525,2023-07-25,Routine Checkup,Recovered
+2046,849,2023-11-21,Follow-up,Admitted
+2047,32,2023-12-20,Follow-up,Admitted
+2048,393,2024-02-05,Routine Checkup,Referred
+2049,40,2023-03-26,Follow-up,Referred
+2050,660,2024-08-18,Acute Infection,Deceased
+2051,218,2023-10-20,Routine Checkup,Deceased
+2052,731,2024-11-16,Chronic Issue,Referred
+2053,981,2024-05-21,Chronic Issue,Referred
+2054,82,2023-07-31,Follow-up,Recovered
+2055,845,2024-09-15,Routine Checkup,Deceased
+2056,720,2023-07-05,Chronic Issue,Deceased
+2057,201,2024-01-08,Routine Checkup,Referred
+2058,447,2023-03-31,Routine Checkup,Recovered
+2059,844,2024-07-20,Routine Checkup,Referred
+2060,428,2024-09-22,Follow-up,Referred
+2061,38,2023-02-06,Emergency,Admitted
+2062,211,2024-10-01,Chronic Issue,Deceased
+2063,444,2024-07-25,Acute Infection,Recovered
+2064,327,2022-12-26,Routine Checkup,Admitted
+2065,761,2023-03-31,Routine Checkup,Deceased
+2066,227,2023-07-18,Routine Checkup,Referred
+2067,48,2024-01-17,Routine Checkup,Recovered
+2068,18,2023-06-04,Chronic Issue,Deceased
+2069,912,2023-08-20,Acute Infection,Referred
+2070,439,2023-11-27,Routine Checkup,Admitted
+2071,807,2024-06-22,Routine Checkup,Recovered
+2072,708,2024-09-18,Routine Checkup,Deceased
+2073,187,2024-06-25,Acute Infection,Admitted
+2074,345,2024-03-15,Follow-up,Referred
+2075,224,2023-08-19,Chronic Issue,Referred
+2076,830,2023-07-19,Emergency,Deceased
+2077,488,2024-10-11,Acute Infection,Referred
+2078,909,2024-09-08,Routine Checkup,Recovered
+2079,877,2023-04-23,Routine Checkup,Deceased
+2080,849,2024-11-11,Emergency,Admitted
+2081,229,2023-03-31,Chronic Issue,Deceased
+2082,390,2023-08-29,Routine Checkup,Deceased
+2083,979,2023-12-07,Acute Infection,Admitted
+2084,589,2023-01-01,Acute Infection,Referred
+2085,188,2023-07-12,Chronic Issue,Admitted
+2086,858,2024-03-20,Follow-up,Recovered
+2087,270,2024-07-20,Acute Infection,Referred
+2088,607,2024-11-14,Acute Infection,Deceased
+2089,310,2022-12-12,Routine Checkup,Referred
+2090,132,2023-03-08,Routine Checkup,Referred
+2091,551,2023-03-04,Routine Checkup,Recovered
+2092,72,2024-09-01,Routine Checkup,Referred
+2093,793,2023-07-08,Chronic Issue,Referred
+2094,845,2024-08-10,Chronic Issue,Referred
+2095,672,2024-10-03,Routine Checkup,Deceased
+2096,187,2023-02-26,Emergency,Referred
+2097,486,2023-02-10,Routine Checkup,Admitted
+2098,191,2023-01-24,Routine Checkup,Referred
+2099,422,2023-12-06,Routine Checkup,Recovered
+2100,120,2022-12-24,Routine Checkup,Referred
+2101,220,2023-04-23,Routine Checkup,Referred
+2102,53,2024-08-19,Acute Infection,Deceased
+2103,734,2022-12-11,Acute Infection,Admitted
+2104,451,2024-08-05,Follow-up,Referred
+2105,412,2024-09-07,Routine Checkup,Admitted
+2106,643,2023-07-14,Routine Checkup,Recovered
+2107,237,2024-09-24,Routine Checkup,Deceased
+2108,758,2024-11-21,Chronic Issue,Admitted
+2109,738,2023-11-15,Routine Checkup,Deceased
+2110,720,2023-11-28,Emergency,Referred
+2111,406,2023-01-13,Acute Infection,Recovered
+2112,608,2024-10-26,Acute Infection,Deceased
+2113,422,2024-10-05,Acute Infection,Referred
+2114,712,2024-11-27,Routine Checkup,Admitted
+2115,247,2023-08-06,Routine Checkup,Recovered
+2116,72,2023-09-11,Routine Checkup,Recovered
+2117,830,2023-11-14,Acute Infection,Admitted
+2118,185,2024-06-30,Routine Checkup,Admitted
+2119,6,2023-08-18,Routine Checkup,Recovered
+2120,206,2023-02-03,Follow-up,Deceased
+2121,544,2022-12-21,Routine Checkup,Recovered
+2122,611,2024-03-08,Emergency,Admitted
+2123,906,2024-03-21,Chronic Issue,Deceased
+2124,387,2024-06-23,Routine Checkup,Referred
+2125,768,2023-10-25,Routine Checkup,Recovered
+2126,699,2024-09-02,Routine Checkup,Admitted
+2127,76,2023-11-06,Chronic Issue,Referred
+2128,177,2024-03-01,Chronic Issue,Recovered
+2129,827,2024-03-19,Chronic Issue,Recovered
+2130,799,2023-03-13,Follow-up,Deceased
+2131,349,2024-07-29,Chronic Issue,Admitted
+2132,255,2024-10-02,Routine Checkup,Referred
+2133,837,2023-03-10,Routine Checkup,Recovered
+2134,702,2023-10-22,Emergency,Deceased
+2135,308,2023-05-17,Routine Checkup,Referred
+2136,345,2024-10-14,Routine Checkup,Referred
+2137,127,2023-01-24,Chronic Issue,Recovered
+2138,937,2023-02-23,Acute Infection,Referred
+2139,287,2024-03-07,Follow-up,Recovered
+2140,766,2024-03-03,Chronic Issue,Deceased
+2141,725,2023-05-13,Routine Checkup,Deceased
+2142,762,2023-10-12,Follow-up,Referred
+2143,596,2023-01-08,Routine Checkup,Recovered
+2144,487,2024-07-02,Routine Checkup,Admitted
+2145,383,2023-10-26,Acute Infection,Deceased
+2146,406,2023-01-16,Routine Checkup,Recovered
+2147,388,2023-12-15,Acute Infection,Recovered
+2148,525,2023-07-27,Routine Checkup,Recovered
+2149,557,2022-12-10,Acute Infection,Referred
+2150,639,2023-07-04,Routine Checkup,Admitted
+2151,938,2023-04-15,Chronic Issue,Referred
+2152,626,2024-06-05,Emergency,Deceased
+2153,945,2024-11-15,Routine Checkup,Referred
+2154,276,2023-02-28,Routine Checkup,Recovered
+2155,500,2024-09-22,Routine Checkup,Referred
+2156,717,2024-05-04,Routine Checkup,Recovered
+2157,337,2024-06-25,Chronic Issue,Admitted
+2158,950,2023-12-18,Chronic Issue,Referred
+2159,932,2023-02-27,Routine Checkup,Referred
+2160,481,2024-04-02,Routine Checkup,Referred
+2161,897,2023-09-10,Routine Checkup,Recovered
+2162,911,2022-12-11,Chronic Issue,Recovered
+2163,973,2024-06-10,Routine Checkup,Referred
+2164,273,2023-04-04,Follow-up,Referred
+2165,920,2023-06-18,Chronic Issue,Admitted
+2166,58,2023-03-03,Routine Checkup,Admitted
+2167,328,2023-02-23,Acute Infection,Deceased
+2168,731,2024-03-15,Follow-up,Admitted
+2169,109,2024-05-26,Acute Infection,Admitted
+2170,279,2023-10-26,Routine Checkup,Admitted
+2171,686,2024-02-05,Routine Checkup,Recovered
+2172,328,2024-09-22,Emergency,Admitted
+2173,776,2022-12-25,Chronic Issue,Admitted
+2174,315,2023-04-06,Chronic Issue,Referred
+2175,474,2024-07-30,Emergency,Recovered
+2176,111,2024-01-13,Emergency,Deceased
+2177,699,2024-10-24,Follow-up,Deceased
+2178,781,2022-12-23,Routine Checkup,Admitted
+2179,935,2023-03-27,Acute Infection,Deceased
+2180,229,2023-04-18,Chronic Issue,Deceased
+2181,497,2024-04-12,Chronic Issue,Deceased
+2182,156,2023-07-06,Chronic Issue,Admitted
+2183,473,2023-06-11,Routine Checkup,Deceased
+2184,701,2023-09-04,Chronic Issue,Admitted
+2185,272,2024-04-30,Chronic Issue,Referred
+2186,887,2024-11-08,Routine Checkup,Referred
+2187,2,2023-06-10,Acute Infection,Deceased
+2188,758,2023-01-28,Routine Checkup,Referred
+2189,722,2023-04-06,Routine Checkup,Admitted
+2190,511,2024-08-01,Routine Checkup,Referred
+2191,913,2024-09-17,Acute Infection,Deceased
+2192,286,2024-12-02,Acute Infection,Admitted
+2193,871,2024-11-05,Chronic Issue,Recovered
+2194,13,2024-01-06,Chronic Issue,Admitted
+2195,608,2024-08-26,Emergency,Referred
+2196,498,2023-05-12,Routine Checkup,Recovered
+2197,733,2023-12-10,Routine Checkup,Admitted
+2198,238,2024-10-21,Emergency,Recovered
+2199,94,2024-05-22,Routine Checkup,Recovered
+2200,338,2023-04-17,Follow-up,Recovered
+2201,781,2023-11-27,Emergency,Admitted
+2202,171,2022-12-13,Acute Infection,Referred
+2203,981,2023-04-02,Follow-up,Admitted
+2204,606,2024-09-08,Routine Checkup,Referred
+2205,661,2023-01-23,Routine Checkup,Admitted
+2206,624,2024-07-29,Chronic Issue,Admitted
+2207,567,2023-04-10,Routine Checkup,Admitted
+2208,849,2024-04-27,Follow-up,Referred
+2209,936,2023-11-18,Routine Checkup,Admitted
+2210,467,2022-12-11,Acute Infection,Recovered
+2211,628,2023-03-14,Acute Infection,Admitted
+2212,143,2024-02-04,Chronic Issue,Recovered
+2213,201,2024-07-12,Routine Checkup,Deceased
+2214,180,2023-05-27,Routine Checkup,Deceased
+2215,714,2023-06-28,Emergency,Referred
+2216,364,2024-09-24,Routine Checkup,Referred
+2217,479,2023-09-28,Emergency,Deceased
+2218,565,2024-09-07,Acute Infection,Admitted
+2219,471,2023-09-15,Chronic Issue,Admitted
+2220,384,2023-11-01,Chronic Issue,Admitted
+2221,692,2023-04-01,Routine Checkup,Deceased
+2222,926,2024-02-06,Acute Infection,Recovered
+2223,417,2024-11-25,Emergency,Referred
+2224,825,2024-09-16,Acute Infection,Recovered
+2225,308,2023-10-29,Follow-up,Deceased
+2226,649,2023-04-02,Acute Infection,Recovered
+2227,694,2024-05-21,Routine Checkup,Admitted
+2228,367,2024-01-08,Routine Checkup,Admitted
+2229,1,2023-10-07,Follow-up,Recovered
+2230,44,2024-03-01,Routine Checkup,Deceased
+2231,739,2023-10-29,Emergency,Recovered
+2232,843,2024-05-28,Emergency,Admitted
+2233,98,2024-03-04,Routine Checkup,Admitted
+2234,720,2024-10-23,Routine Checkup,Deceased
+2235,265,2024-05-19,Chronic Issue,Recovered
+2236,800,2023-03-03,Routine Checkup,Admitted
+2237,783,2024-07-29,Chronic Issue,Admitted
+2238,140,2023-07-30,Acute Infection,Recovered
+2239,481,2024-03-10,Acute Infection,Recovered
+2240,237,2024-02-21,Chronic Issue,Referred
+2241,974,2023-10-18,Routine Checkup,Deceased
+2242,953,2024-03-21,Acute Infection,Deceased
+2243,904,2023-07-12,Routine Checkup,Recovered
+2244,72,2023-11-13,Routine Checkup,Deceased
+2245,667,2023-03-15,Acute Infection,Admitted
+2246,190,2024-08-15,Emergency,Recovered
+2247,268,2023-09-27,Routine Checkup,Recovered
+2248,321,2024-05-07,Acute Infection,Recovered
+2249,107,2024-08-13,Chronic Issue,Referred
+2250,232,2023-02-28,Routine Checkup,Deceased
+2251,42,2024-07-26,Routine Checkup,Referred
+2252,702,2024-03-23,Follow-up,Admitted
+2253,883,2023-10-18,Chronic Issue,Deceased
+2254,139,2024-03-25,Acute Infection,Referred
+2255,615,2023-03-02,Chronic Issue,Recovered
+2256,683,2024-01-16,Routine Checkup,Referred
+2257,863,2023-07-13,Chronic Issue,Recovered
+2258,273,2023-06-22,Acute Infection,Referred
+2259,481,2023-09-25,Acute Infection,Referred
+2260,416,2024-09-07,Routine Checkup,Referred
+2261,506,2024-06-18,Routine Checkup,Recovered
+2262,733,2023-03-03,Routine Checkup,Referred
+2263,725,2024-03-26,Follow-up,Deceased
+2264,853,2023-08-02,Acute Infection,Deceased
+2265,424,2024-11-15,Acute Infection,Deceased
+2266,407,2023-05-17,Routine Checkup,Recovered
+2267,568,2024-09-29,Routine Checkup,Recovered
+2268,390,2023-02-23,Chronic Issue,Deceased
+2269,342,2023-08-18,Acute Infection,Deceased
+2270,946,2024-03-03,Acute Infection,Deceased
+2271,614,2023-10-09,Routine Checkup,Admitted
+2272,933,2024-06-25,Chronic Issue,Deceased
+2273,493,2024-11-25,Routine Checkup,Referred
+2274,192,2024-08-10,Routine Checkup,Admitted
+2275,499,2023-05-04,Acute Infection,Admitted
+2276,822,2023-02-26,Routine Checkup,Recovered
+2277,712,2024-09-17,Routine Checkup,Referred
+2278,233,2023-07-21,Chronic Issue,Recovered
+2279,945,2023-02-18,Chronic Issue,Recovered
+2280,227,2023-01-04,Emergency,Referred
+2281,371,2024-03-27,Acute Infection,Recovered
+2282,139,2024-05-30,Routine Checkup,Referred
+2283,856,2024-09-05,Routine Checkup,Referred
+2284,817,2023-08-29,Follow-up,Recovered
+2285,149,2023-07-16,Acute Infection,Deceased
+2286,115,2023-02-06,Chronic Issue,Recovered
+2287,450,2024-06-01,Routine Checkup,Admitted
+2288,63,2023-08-16,Acute Infection,Recovered
+2289,104,2023-05-20,Routine Checkup,Referred
+2290,851,2023-11-25,Acute Infection,Admitted
+2291,871,2023-06-01,Follow-up,Referred
+2292,668,2024-01-13,Follow-up,Deceased
+2293,273,2023-08-20,Acute Infection,Deceased
+2294,6,2023-09-21,Acute Infection,Admitted
+2295,147,2024-10-15,Follow-up,Deceased
+2296,184,2024-01-01,Chronic Issue,Deceased
+2297,998,2023-05-19,Routine Checkup,Recovered
+2298,28,2024-03-28,Acute Infection,Recovered
+2299,962,2023-02-21,Routine Checkup,Deceased
+2300,550,2023-08-29,Acute Infection,Deceased
+2301,119,2024-07-10,Acute Infection,Recovered
+2302,293,2023-03-01,Acute Infection,Deceased
+2303,371,2023-04-20,Routine Checkup,Deceased
+2304,244,2023-01-19,Routine Checkup,Referred
+2305,580,2023-09-27,Acute Infection,Deceased
+2306,726,2024-06-03,Emergency,Admitted
+2307,218,2022-12-15,Chronic Issue,Referred
+2308,177,2024-10-12,Routine Checkup,Admitted
+2309,299,2024-03-20,Follow-up,Deceased
+2310,676,2024-05-26,Follow-up,Recovered
+2311,58,2023-02-27,Routine Checkup,Referred
+2312,269,2023-12-24,Routine Checkup,Recovered
+2313,308,2024-10-29,Chronic Issue,Referred
+2314,570,2024-11-27,Emergency,Recovered
+2315,288,2023-10-28,Follow-up,Referred
+2316,977,2024-05-04,Emergency,Referred
+2317,105,2023-08-25,Chronic Issue,Admitted
+2318,228,2023-02-02,Acute Infection,Recovered
+2319,247,2024-11-13,Routine Checkup,Admitted
+2320,700,2022-12-29,Routine Checkup,Admitted
+2321,494,2023-08-10,Acute Infection,Recovered
+2322,83,2024-11-18,Chronic Issue,Referred
+2323,186,2023-11-26,Acute Infection,Admitted
+2324,252,2023-09-22,Chronic Issue,Recovered
+2325,355,2023-06-28,Routine Checkup,Referred
+2326,750,2023-11-15,Acute Infection,Admitted
+2327,872,2024-11-10,Routine Checkup,Admitted
+2328,696,2023-04-28,Acute Infection,Admitted
+2329,796,2024-01-14,Chronic Issue,Referred
+2330,897,2023-05-08,Chronic Issue,Admitted
+2331,938,2024-10-23,Follow-up,Referred
+2332,210,2023-11-17,Routine Checkup,Deceased
+2333,816,2023-03-08,Acute Infection,Admitted
+2334,808,2024-02-13,Routine Checkup,Deceased
+2335,609,2024-04-07,Acute Infection,Recovered
+2336,447,2023-12-17,Emergency,Admitted
+2337,460,2023-08-16,Chronic Issue,Recovered
+2338,968,2024-02-14,Emergency,Recovered
+2339,472,2023-09-18,Routine Checkup,Recovered
+2340,720,2024-08-20,Emergency,Deceased
+2341,370,2023-03-13,Routine Checkup,Referred
+2342,900,2023-09-30,Emergency,Deceased
+2343,934,2023-09-12,Routine Checkup,Deceased
+2344,492,2024-04-18,Routine Checkup,Recovered
+2345,923,2024-01-09,Acute Infection,Admitted
+2346,137,2023-03-06,Follow-up,Referred
+2347,367,2023-06-20,Routine Checkup,Recovered
+2348,912,2023-12-26,Routine Checkup,Referred
+2349,184,2023-03-28,Emergency,Deceased
+2350,588,2023-11-23,Routine Checkup,Referred
+2351,287,2024-12-03,Routine Checkup,Referred
+2352,472,2023-04-20,Acute Infection,Admitted
+2353,375,2023-01-08,Routine Checkup,Recovered
+2354,654,2024-02-22,Follow-up,Referred
+2355,749,2023-10-07,Chronic Issue,Referred
+2356,537,2024-02-18,Acute Infection,Deceased
+2357,511,2023-08-06,Follow-up,Deceased
+2358,802,2023-02-20,Acute Infection,Referred
+2359,579,2024-07-11,Routine Checkup,Recovered
+2360,250,2024-09-14,Routine Checkup,Referred
+2361,920,2023-12-20,Acute Infection,Referred
+2362,510,2023-03-29,Routine Checkup,Admitted
+2363,630,2024-05-26,Follow-up,Recovered
+2364,73,2024-04-22,Chronic Issue,Admitted
+2365,282,2023-12-27,Routine Checkup,Recovered
+2366,916,2024-01-12,Acute Infection,Recovered
+2367,960,2023-12-12,Chronic Issue,Recovered
+2368,360,2024-08-27,Follow-up,Admitted
+2369,10,2024-04-02,Emergency,Admitted
+2370,211,2024-04-22,Acute Infection,Admitted
+2371,835,2023-12-31,Chronic Issue,Deceased
+2372,152,2024-04-29,Acute Infection,Admitted
+2373,5,2023-08-01,Acute Infection,Deceased
+2374,195,2023-04-23,Routine Checkup,Deceased
+2375,954,2022-12-20,Routine Checkup,Deceased
+2376,283,2023-01-26,Acute Infection,Referred
+2377,464,2022-12-30,Routine Checkup,Referred
+2378,113,2024-10-30,Routine Checkup,Referred
+2379,271,2024-05-12,Chronic Issue,Deceased
+2380,163,2024-01-23,Routine Checkup,Deceased
+2381,460,2023-06-23,Acute Infection,Recovered
+2382,105,2023-01-11,Acute Infection,Deceased
+2383,693,2023-11-30,Follow-up,Referred
+2384,556,2024-10-09,Acute Infection,Deceased
+2385,282,2023-05-08,Routine Checkup,Deceased
+2386,687,2023-08-10,Acute Infection,Recovered
+2387,162,2024-11-24,Emergency,Deceased
+2388,983,2024-02-24,Follow-up,Admitted
+2389,351,2023-06-27,Acute Infection,Recovered
+2390,434,2024-07-04,Routine Checkup,Deceased
+2391,852,2023-06-18,Follow-up,Deceased
+2392,140,2024-05-23,Routine Checkup,Recovered
+2393,471,2024-06-26,Chronic Issue,Deceased
+2394,132,2023-04-16,Acute Infection,Referred
+2395,87,2023-07-08,Routine Checkup,Admitted
+2396,688,2023-11-26,Routine Checkup,Admitted
+2397,183,2023-08-30,Routine Checkup,Referred
+2398,368,2023-09-20,Chronic Issue,Deceased
+2399,129,2024-02-26,Follow-up,Deceased
+2400,246,2023-09-27,Routine Checkup,Admitted
+2401,601,2023-01-12,Emergency,Deceased
+2402,578,2023-08-24,Routine Checkup,Admitted
+2403,670,2024-08-29,Acute Infection,Admitted
+2404,899,2023-12-11,Routine Checkup,Referred
+2405,378,2024-04-07,Follow-up,Admitted
+2406,149,2024-07-23,Chronic Issue,Deceased
+2407,985,2024-09-23,Chronic Issue,Deceased
+2408,852,2024-11-22,Emergency,Recovered
+2409,433,2024-01-07,Chronic Issue,Deceased
+2410,628,2023-03-29,Follow-up,Recovered
+2411,726,2023-08-11,Chronic Issue,Admitted
+2412,469,2023-09-23,Follow-up,Deceased
+2413,446,2023-01-08,Acute Infection,Referred
+2414,481,2024-03-05,Routine Checkup,Referred
+2415,884,2024-01-23,Acute Infection,Referred
+2416,294,2024-09-25,Routine Checkup,Admitted
+2417,765,2023-05-19,Acute Infection,Admitted
+2418,143,2022-12-20,Acute Infection,Recovered
+2419,250,2024-04-12,Chronic Issue,Referred
+2420,878,2024-05-19,Routine Checkup,Recovered
+2421,948,2023-09-24,Routine Checkup,Recovered
+2422,975,2023-01-01,Acute Infection,Deceased
+2423,302,2024-06-29,Follow-up,Deceased
+2424,25,2024-07-05,Routine Checkup,Referred
+2425,789,2023-07-01,Acute Infection,Admitted
+2426,984,2023-01-15,Chronic Issue,Deceased
+2427,889,2024-04-17,Chronic Issue,Admitted
+2428,890,2024-04-17,Routine Checkup,Recovered
+2429,901,2023-11-17,Acute Infection,Recovered
+2430,70,2023-03-27,Routine Checkup,Recovered
+2431,625,2023-01-29,Follow-up,Recovered
+2432,875,2024-08-05,Routine Checkup,Referred
+2433,112,2024-04-20,Routine Checkup,Recovered
+2434,364,2024-07-08,Routine Checkup,Deceased
+2435,303,2023-05-22,Routine Checkup,Recovered
+2436,471,2024-03-27,Chronic Issue,Admitted
+2437,964,2024-09-20,Routine Checkup,Deceased
+2438,91,2024-11-15,Routine Checkup,Admitted
+2439,530,2023-07-06,Acute Infection,Admitted
+2440,661,2024-05-20,Routine Checkup,Referred
+2441,988,2023-04-21,Routine Checkup,Referred
+2442,739,2023-09-26,Emergency,Admitted
+2443,726,2023-12-08,Chronic Issue,Admitted
+2444,872,2024-07-16,Follow-up,Recovered
+2445,663,2024-04-21,Emergency,Deceased
+2446,192,2024-07-06,Chronic Issue,Recovered
+2447,963,2024-04-29,Routine Checkup,Referred
+2448,552,2023-10-23,Chronic Issue,Referred
+2449,242,2024-06-17,Emergency,Recovered
+2450,138,2024-05-18,Chronic Issue,Deceased
+2451,345,2023-01-21,Acute Infection,Admitted
+2452,180,2024-02-24,Routine Checkup,Recovered
+2453,712,2024-04-27,Emergency,Referred
+2454,503,2023-03-18,Chronic Issue,Deceased
+2455,203,2024-03-15,Follow-up,Referred
+2456,573,2023-05-16,Routine Checkup,Deceased
+2457,192,2023-10-22,Routine Checkup,Deceased
+2458,5,2024-04-17,Routine Checkup,Deceased
+2459,890,2023-09-16,Chronic Issue,Recovered
+2460,237,2024-02-04,Routine Checkup,Recovered
+2461,693,2023-09-08,Routine Checkup,Recovered
+2462,311,2023-03-15,Follow-up,Deceased
+2463,549,2024-11-06,Routine Checkup,Deceased
+2464,56,2023-05-27,Emergency,Referred
+2465,443,2024-04-14,Routine Checkup,Admitted
+2466,237,2024-05-17,Emergency,Recovered
+2467,870,2024-02-26,Acute Infection,Deceased
+2468,861,2023-11-29,Follow-up,Referred
+2469,197,2023-09-11,Follow-up,Referred
+2470,585,2024-05-09,Routine Checkup,Referred
+2471,571,2023-03-27,Routine Checkup,Recovered
+2472,752,2024-10-26,Routine Checkup,Recovered
+2473,514,2024-05-15,Chronic Issue,Admitted
+2474,449,2023-01-21,Emergency,Referred
+2475,360,2023-12-22,Acute Infection,Recovered
+2476,700,2024-05-05,Chronic Issue,Referred
+2477,819,2023-07-18,Routine Checkup,Deceased
+2478,30,2023-01-16,Emergency,Referred
+2479,779,2023-03-31,Follow-up,Admitted
+2480,988,2024-05-26,Routine Checkup,Recovered
+2481,108,2023-05-13,Acute Infection,Deceased
+2482,844,2024-07-01,Routine Checkup,Recovered
+2483,935,2023-12-03,Acute Infection,Deceased
+2484,602,2024-02-28,Acute Infection,Referred
+2485,717,2023-04-30,Routine Checkup,Referred
+2486,891,2023-02-19,Acute Infection,Admitted
+2487,968,2023-05-02,Routine Checkup,Admitted
+2488,959,2023-09-07,Acute Infection,Deceased
+2489,960,2023-04-19,Acute Infection,Admitted
+2490,445,2023-04-28,Routine Checkup,Admitted
+2491,893,2023-08-07,Chronic Issue,Admitted
+2492,438,2023-11-25,Chronic Issue,Admitted
+2493,732,2024-01-22,Routine Checkup,Referred
+2494,890,2023-03-15,Routine Checkup,Admitted
+2495,606,2023-10-27,Chronic Issue,Referred
+2496,457,2023-04-16,Follow-up,Referred
+2497,615,2024-01-10,Routine Checkup,Recovered
+2498,735,2023-01-22,Routine Checkup,Referred
+2499,698,2024-05-20,Routine Checkup,Referred
+2500,981,2024-04-25,Acute Infection,Admitted
+2501,696,2024-02-01,Routine Checkup,Referred
+2502,495,2023-03-16,Routine Checkup,Deceased
+2503,674,2023-03-11,Chronic Issue,Admitted
+2504,247,2023-11-27,Acute Infection,Admitted
+2505,543,2024-01-17,Routine Checkup,Admitted
+2506,564,2024-07-20,Acute Infection,Recovered
+2507,857,2023-01-14,Acute Infection,Admitted
+2508,588,2024-10-17,Routine Checkup,Referred
+2509,897,2023-12-18,Routine Checkup,Deceased
+2510,439,2024-03-29,Emergency,Admitted
+2511,278,2023-09-22,Routine Checkup,Admitted
+2512,552,2024-05-30,Chronic Issue,Deceased
+2513,613,2024-06-12,Follow-up,Admitted
+2514,111,2023-06-30,Routine Checkup,Recovered
+2515,385,2023-07-05,Routine Checkup,Referred
+2516,833,2023-07-04,Acute Infection,Deceased
+2517,761,2024-07-01,Emergency,Deceased
+2518,191,2023-01-05,Follow-up,Recovered
+2519,490,2024-09-15,Chronic Issue,Referred
+2520,694,2023-09-19,Routine Checkup,Recovered
+2521,426,2024-11-28,Chronic Issue,Referred
+2522,405,2023-04-21,Acute Infection,Recovered
+2523,335,2023-06-29,Acute Infection,Admitted
+2524,209,2024-06-11,Routine Checkup,Recovered
+2525,22,2023-04-09,Routine Checkup,Deceased
+2526,678,2024-04-10,Chronic Issue,Deceased
+2527,611,2023-01-18,Acute Infection,Deceased
+2528,208,2024-05-11,Routine Checkup,Recovered
+2529,8,2023-10-06,Routine Checkup,Deceased
+2530,702,2023-03-24,Emergency,Deceased
+2531,687,2023-04-18,Chronic Issue,Admitted
+2532,785,2024-05-23,Routine Checkup,Admitted
+2533,529,2023-11-12,Routine Checkup,Referred
+2534,602,2023-11-22,Routine Checkup,Referred
+2535,653,2023-08-21,Follow-up,Referred
+2536,657,2024-06-30,Acute Infection,Recovered
+2537,166,2024-02-07,Acute Infection,Referred
+2538,849,2022-12-11,Acute Infection,Recovered
+2539,496,2024-05-07,Routine Checkup,Recovered
+2540,590,2023-01-17,Emergency,Referred
+2541,429,2024-03-05,Acute Infection,Referred
+2542,774,2024-08-05,Routine Checkup,Recovered
+2543,163,2024-04-06,Routine Checkup,Admitted
+2544,366,2024-09-06,Acute Infection,Deceased
+2545,526,2023-04-08,Follow-up,Deceased
+2546,239,2023-11-04,Routine Checkup,Deceased
+2547,72,2023-03-09,Emergency,Admitted
+2548,445,2024-03-29,Chronic Issue,Recovered
+2549,655,2024-02-28,Routine Checkup,Referred
+2550,822,2023-03-12,Routine Checkup,Recovered
+2551,509,2024-09-19,Routine Checkup,Recovered
+2552,795,2023-02-12,Chronic Issue,Referred
+2553,269,2023-07-27,Routine Checkup,Admitted
+2554,753,2024-02-20,Routine Checkup,Deceased
+2555,415,2024-11-06,Acute Infection,Deceased
+2556,245,2023-04-15,Chronic Issue,Recovered
+2557,675,2023-04-30,Routine Checkup,Admitted
+2558,60,2024-10-05,Acute Infection,Deceased
+2559,6,2024-04-24,Acute Infection,Admitted
+2560,709,2023-01-19,Acute Infection,Referred
+2561,982,2024-09-30,Emergency,Recovered
+2562,570,2022-12-14,Routine Checkup,Recovered
+2563,817,2023-03-27,Emergency,Admitted
+2564,407,2024-02-11,Chronic Issue,Deceased
+2565,217,2024-06-08,Acute Infection,Admitted
+2566,930,2023-03-18,Chronic Issue,Referred
+2567,26,2023-08-20,Acute Infection,Deceased
+2568,815,2024-08-25,Routine Checkup,Deceased
+2569,5,2023-09-19,Chronic Issue,Admitted
+2570,986,2023-11-22,Acute Infection,Referred
+2571,532,2023-03-02,Chronic Issue,Deceased
+2572,390,2023-03-15,Routine Checkup,Recovered
+2573,710,2023-04-28,Follow-up,Referred
+2574,571,2023-07-15,Acute Infection,Deceased
+2575,448,2024-01-16,Routine Checkup,Admitted
+2576,754,2023-01-30,Acute Infection,Deceased
+2577,146,2023-01-18,Chronic Issue,Recovered
+2578,388,2024-03-31,Chronic Issue,Referred
+2579,785,2022-12-26,Acute Infection,Deceased
+2580,249,2024-05-19,Emergency,Recovered
+2581,526,2024-07-24,Routine Checkup,Deceased
+2582,462,2023-04-04,Acute Infection,Deceased
+2583,13,2024-07-28,Emergency,Referred
+2584,903,2024-11-14,Emergency,Admitted
+2585,384,2023-07-25,Chronic Issue,Admitted
+2586,556,2023-08-10,Emergency,Recovered
+2587,887,2023-05-19,Routine Checkup,Recovered
+2588,399,2023-01-22,Emergency,Recovered
+2589,19,2023-01-07,Routine Checkup,Referred
+2590,575,2023-11-17,Routine Checkup,Admitted
+2591,491,2023-10-22,Routine Checkup,Recovered
+2592,751,2023-07-14,Acute Infection,Recovered
+2593,419,2023-12-01,Routine Checkup,Deceased
+2594,337,2023-09-04,Routine Checkup,Deceased
+2595,419,2024-06-28,Routine Checkup,Recovered
+2596,915,2023-07-27,Routine Checkup,Deceased
+2597,916,2023-11-23,Acute Infection,Deceased
+2598,612,2024-10-11,Acute Infection,Deceased
+2599,675,2024-05-29,Routine Checkup,Referred
+2600,928,2023-02-16,Chronic Issue,Recovered
+2601,122,2024-05-10,Emergency,Recovered
+2602,432,2024-04-18,Chronic Issue,Deceased
+2603,44,2023-02-25,Routine Checkup,Referred
+2604,872,2023-03-13,Chronic Issue,Deceased
+2605,920,2023-12-14,Routine Checkup,Referred
+2606,317,2023-06-23,Routine Checkup,Recovered
+2607,381,2023-08-24,Routine Checkup,Deceased
+2608,145,2024-03-29,Emergency,Recovered
+2609,327,2023-09-09,Routine Checkup,Referred
+2610,363,2024-06-08,Routine Checkup,Admitted
+2611,50,2024-02-10,Routine Checkup,Referred
+2612,65,2024-09-08,Emergency,Admitted
+2613,355,2024-06-14,Chronic Issue,Recovered
+2614,800,2024-11-07,Routine Checkup,Recovered
+2615,164,2023-09-14,Acute Infection,Deceased
+2616,141,2023-12-14,Acute Infection,Admitted
+2617,966,2024-04-11,Chronic Issue,Referred
+2618,826,2023-01-31,Routine Checkup,Recovered
+2619,128,2024-07-07,Emergency,Admitted
+2620,398,2023-04-14,Routine Checkup,Referred
+2621,933,2023-03-31,Chronic Issue,Admitted
+2622,880,2023-09-07,Routine Checkup,Referred
+2623,463,2024-09-30,Routine Checkup,Referred
+2624,751,2023-06-17,Routine Checkup,Referred
+2625,836,2023-11-04,Acute Infection,Referred
+2626,808,2024-02-23,Routine Checkup,Admitted
+2627,187,2023-12-30,Chronic Issue,Admitted
+2628,720,2023-08-16,Routine Checkup,Deceased
+2629,732,2024-11-16,Chronic Issue,Admitted
+2630,912,2023-01-01,Emergency,Admitted
+2631,190,2023-03-25,Acute Infection,Deceased
+2632,388,2024-11-26,Chronic Issue,Admitted
+2633,429,2024-06-30,Chronic Issue,Referred
+2634,858,2024-07-05,Routine Checkup,Recovered
+2635,284,2024-03-23,Emergency,Recovered
+2636,864,2024-02-06,Routine Checkup,Deceased
+2637,237,2024-04-21,Acute Infection,Admitted
+2638,194,2024-11-21,Chronic Issue,Admitted
+2639,287,2024-12-07,Routine Checkup,Deceased
+2640,771,2023-01-31,Routine Checkup,Recovered
+2641,758,2024-07-01,Acute Infection,Referred
+2642,136,2024-01-13,Emergency,Admitted
+2643,792,2024-04-05,Follow-up,Deceased
+2644,783,2024-10-09,Acute Infection,Referred
+2645,171,2023-02-18,Chronic Issue,Deceased
+2646,159,2023-01-01,Follow-up,Deceased
+2647,201,2023-09-15,Routine Checkup,Deceased
+2648,487,2024-09-12,Routine Checkup,Recovered
+2649,557,2023-01-04,Chronic Issue,Recovered
+2650,962,2023-07-12,Emergency,Deceased
+2651,776,2024-11-17,Emergency,Admitted
+2652,583,2023-01-27,Acute Infection,Referred
+2653,504,2023-07-06,Routine Checkup,Admitted
+2654,876,2023-04-08,Acute Infection,Recovered
+2655,371,2023-08-01,Routine Checkup,Referred
+2656,103,2023-07-06,Routine Checkup,Deceased
+2657,125,2024-09-15,Chronic Issue,Admitted
+2658,313,2023-11-02,Routine Checkup,Admitted
+2659,976,2023-09-24,Emergency,Deceased
+2660,995,2024-10-31,Acute Infection,Admitted
+2661,798,2024-02-03,Acute Infection,Recovered
+2662,458,2024-05-07,Routine Checkup,Deceased
+2663,230,2023-02-25,Routine Checkup,Admitted
+2664,658,2022-12-15,Routine Checkup,Deceased
+2665,882,2023-02-02,Follow-up,Referred
+2666,197,2024-08-09,Emergency,Deceased
+2667,885,2023-10-08,Acute Infection,Admitted
+2668,733,2024-07-30,Routine Checkup,Recovered
+2669,423,2024-06-23,Follow-up,Deceased
+2670,572,2024-10-22,Routine Checkup,Deceased
+2671,610,2022-12-18,Routine Checkup,Admitted
+2672,171,2023-02-22,Acute Infection,Recovered
+2673,382,2024-03-21,Follow-up,Recovered
+2674,173,2024-11-13,Routine Checkup,Referred
+2675,663,2024-08-05,Routine Checkup,Referred
+2676,453,2024-10-08,Follow-up,Admitted
+2677,350,2023-04-14,Routine Checkup,Recovered
+2678,902,2023-04-18,Routine Checkup,Recovered
+2679,952,2024-01-28,Acute Infection,Referred
+2680,634,2023-07-16,Emergency,Referred
+2681,494,2023-02-06,Acute Infection,Admitted
+2682,620,2024-07-12,Follow-up,Recovered
+2683,4,2024-09-13,Chronic Issue,Deceased
+2684,93,2024-03-05,Routine Checkup,Referred
+2685,919,2023-02-17,Follow-up,Admitted
+2686,6,2023-06-11,Acute Infection,Recovered
+2687,288,2023-07-17,Routine Checkup,Recovered
+2688,618,2024-02-08,Acute Infection,Referred
+2689,146,2023-03-10,Routine Checkup,Admitted
+2690,783,2024-09-09,Routine Checkup,Deceased
+2691,424,2023-10-08,Routine Checkup,Referred
+2692,890,2022-12-23,Acute Infection,Admitted
+2693,608,2023-01-28,Emergency,Recovered
+2694,457,2024-01-18,Acute Infection,Deceased
+2695,741,2024-02-01,Follow-up,Admitted
+2696,202,2023-01-19,Routine Checkup,Deceased
+2697,212,2024-07-04,Routine Checkup,Admitted
+2698,6,2023-10-03,Routine Checkup,Admitted
+2699,624,2023-01-28,Routine Checkup,Admitted
+2700,376,2023-11-26,Routine Checkup,Admitted
+2701,891,2023-11-03,Chronic Issue,Deceased
+2702,447,2024-01-05,Follow-up,Referred
+2703,835,2023-10-27,Follow-up,Deceased
+2704,106,2023-08-19,Routine Checkup,Admitted
+2705,651,2024-07-21,Emergency,Deceased
+2706,811,2024-04-17,Routine Checkup,Deceased
+2707,401,2024-03-26,Routine Checkup,Deceased
+2708,96,2024-07-05,Emergency,Admitted
+2709,388,2024-02-12,Chronic Issue,Deceased
+2710,959,2023-03-06,Routine Checkup,Recovered
+2711,452,2023-04-11,Acute Infection,Admitted
+2712,849,2024-04-08,Routine Checkup,Deceased
+2713,809,2023-05-22,Chronic Issue,Recovered
+2714,979,2023-06-16,Acute Infection,Deceased
+2715,901,2024-06-12,Follow-up,Referred
+2716,416,2023-12-17,Routine Checkup,Deceased
+2717,726,2024-03-16,Routine Checkup,Deceased
+2718,504,2023-11-02,Acute Infection,Referred
+2719,454,2024-03-25,Acute Infection,Admitted
+2720,291,2024-02-20,Routine Checkup,Referred
+2721,534,2023-09-20,Chronic Issue,Admitted
+2722,193,2023-02-17,Emergency,Referred
+2723,980,2023-07-20,Follow-up,Deceased
+2724,150,2024-09-21,Emergency,Deceased
+2725,880,2023-12-25,Emergency,Admitted
+2726,759,2024-03-23,Acute Infection,Admitted
+2727,779,2024-11-19,Emergency,Recovered
+2728,973,2023-07-03,Routine Checkup,Recovered
+2729,763,2024-04-25,Routine Checkup,Deceased
+2730,515,2023-11-04,Routine Checkup,Deceased
+2731,393,2024-06-20,Acute Infection,Recovered
+2732,316,2023-10-13,Routine Checkup,Recovered
+2733,76,2023-08-26,Follow-up,Admitted
+2734,599,2024-08-29,Routine Checkup,Referred
+2735,270,2024-01-19,Routine Checkup,Admitted
+2736,225,2023-11-07,Acute Infection,Recovered
+2737,530,2024-05-27,Routine Checkup,Deceased
+2738,113,2023-02-15,Routine Checkup,Recovered
+2739,251,2023-11-11,Routine Checkup,Deceased
+2740,233,2024-12-09,Acute Infection,Deceased
+2741,841,2024-10-08,Acute Infection,Deceased
+2742,791,2023-02-22,Chronic Issue,Deceased
+2743,714,2024-09-05,Chronic Issue,Referred
+2744,83,2023-06-22,Acute Infection,Recovered
+2745,125,2023-01-27,Routine Checkup,Admitted
+2746,175,2023-02-25,Routine Checkup,Deceased
+2747,69,2024-05-21,Chronic Issue,Deceased
+2748,47,2022-12-29,Routine Checkup,Admitted
+2749,884,2024-05-05,Routine Checkup,Admitted
+2750,256,2023-01-24,Chronic Issue,Deceased
+2751,727,2024-01-29,Acute Infection,Admitted
+2752,30,2024-07-15,Routine Checkup,Admitted
+2753,281,2023-02-21,Routine Checkup,Referred
+2754,924,2024-02-06,Follow-up,Admitted
+2755,994,2024-10-26,Emergency,Recovered
+2756,237,2023-12-26,Chronic Issue,Recovered
+2757,248,2023-08-14,Acute Infection,Recovered
+2758,368,2024-08-17,Acute Infection,Deceased
+2759,495,2024-07-22,Follow-up,Recovered
+2760,25,2024-08-24,Follow-up,Referred
+2761,586,2024-11-07,Routine Checkup,Recovered
+2762,718,2023-09-21,Emergency,Deceased
+2763,490,2023-02-26,Routine Checkup,Referred
+2764,494,2024-08-02,Routine Checkup,Recovered
+2765,314,2023-11-02,Chronic Issue,Referred
+2766,606,2024-06-12,Acute Infection,Referred
+2767,375,2024-01-25,Follow-up,Deceased
+2768,639,2023-01-30,Routine Checkup,Deceased
+2769,937,2023-08-13,Acute Infection,Referred
+2770,25,2023-12-22,Follow-up,Recovered
+2771,334,2024-10-27,Follow-up,Deceased
+2772,355,2024-05-15,Routine Checkup,Referred
+2773,116,2023-01-09,Routine Checkup,Admitted
+2774,48,2024-09-18,Chronic Issue,Admitted
+2775,738,2023-10-26,Routine Checkup,Deceased
+2776,778,2024-05-18,Follow-up,Recovered
+2777,99,2023-12-08,Follow-up,Admitted
+2778,459,2024-09-25,Routine Checkup,Admitted
+2779,523,2023-02-15,Routine Checkup,Admitted
+2780,597,2023-11-03,Routine Checkup,Recovered
+2781,405,2024-12-03,Follow-up,Recovered
+2782,214,2024-04-25,Routine Checkup,Deceased
+2783,685,2023-11-26,Acute Infection,Deceased
+2784,903,2023-12-16,Acute Infection,Admitted
+2785,503,2024-12-01,Acute Infection,Recovered
+2786,721,2024-08-25,Routine Checkup,Referred
+2787,448,2024-11-28,Routine Checkup,Admitted
+2788,894,2024-03-20,Follow-up,Deceased
+2789,576,2023-09-09,Follow-up,Recovered
+2790,258,2023-06-28,Chronic Issue,Deceased
+2791,844,2023-06-11,Routine Checkup,Deceased
+2792,121,2024-07-27,Routine Checkup,Recovered
+2793,810,2024-01-25,Chronic Issue,Admitted
+2794,978,2024-10-14,Routine Checkup,Recovered
+2795,54,2024-01-10,Follow-up,Admitted
+2796,331,2023-10-21,Chronic Issue,Deceased
+2797,784,2024-11-30,Routine Checkup,Recovered
+2798,241,2023-04-10,Follow-up,Referred
+2799,755,2024-03-22,Follow-up,Admitted
+2800,530,2023-04-11,Routine Checkup,Referred
+2801,483,2024-04-09,Acute Infection,Admitted
+2802,187,2023-10-26,Routine Checkup,Recovered
+2803,858,2024-12-03,Routine Checkup,Referred
+2804,656,2023-02-15,Routine Checkup,Recovered
+2805,262,2024-07-20,Acute Infection,Admitted
+2806,953,2023-08-22,Follow-up,Admitted
+2807,364,2023-11-11,Acute Infection,Admitted
+2808,491,2024-07-31,Routine Checkup,Admitted
+2809,431,2024-01-17,Chronic Issue,Deceased
+2810,239,2023-04-20,Routine Checkup,Admitted
+2811,304,2024-05-14,Emergency,Referred
+2812,298,2023-04-12,Acute Infection,Admitted
+2813,76,2023-05-05,Routine Checkup,Recovered
+2814,700,2023-04-09,Routine Checkup,Deceased
+2815,333,2024-02-21,Chronic Issue,Referred
+2816,900,2023-08-23,Routine Checkup,Deceased
+2817,999,2023-01-09,Chronic Issue,Deceased
+2818,758,2023-12-06,Routine Checkup,Deceased
+2819,642,2023-04-18,Routine Checkup,Recovered
+2820,474,2024-09-15,Acute Infection,Deceased
+2821,827,2024-05-11,Follow-up,Deceased
+2822,923,2023-11-17,Follow-up,Admitted
+2823,283,2023-04-11,Routine Checkup,Recovered
+2824,591,2023-09-10,Routine Checkup,Referred
+2825,72,2024-11-10,Routine Checkup,Referred
+2826,263,2023-08-30,Acute Infection,Referred
+2827,703,2024-04-27,Acute Infection,Recovered
+2828,879,2024-03-17,Follow-up,Referred
+2829,887,2024-12-04,Follow-up,Recovered
+2830,942,2022-12-29,Routine Checkup,Admitted
+2831,575,2024-10-12,Acute Infection,Admitted
+2832,1000,2024-03-21,Emergency,Recovered
+2833,892,2024-05-18,Emergency,Referred
+2834,12,2023-04-18,Routine Checkup,Recovered
+2835,141,2024-11-02,Routine Checkup,Recovered
+2836,766,2023-10-19,Acute Infection,Deceased
+2837,555,2024-08-24,Routine Checkup,Recovered
+2838,17,2023-08-13,Routine Checkup,Deceased
+2839,63,2023-07-11,Routine Checkup,Admitted
+2840,253,2023-11-30,Chronic Issue,Deceased
+2841,465,2023-07-06,Routine Checkup,Recovered
+2842,376,2023-12-14,Routine Checkup,Admitted
+2843,804,2024-06-29,Routine Checkup,Deceased
+2844,981,2024-11-29,Emergency,Recovered
+2845,520,2024-06-28,Emergency,Admitted
+2846,837,2023-06-02,Acute Infection,Deceased
+2847,90,2023-04-19,Acute Infection,Recovered
+2848,720,2024-03-01,Follow-up,Recovered
+2849,804,2024-11-30,Routine Checkup,Referred
+2850,796,2024-02-09,Routine Checkup,Referred
+2851,630,2024-02-13,Routine Checkup,Deceased
+2852,861,2024-10-22,Routine Checkup,Deceased
+2853,175,2024-03-01,Routine Checkup,Deceased
+2854,76,2024-04-04,Follow-up,Recovered
+2855,613,2023-03-16,Chronic Issue,Deceased
+2856,926,2023-06-15,Acute Infection,Recovered
+2857,663,2024-01-08,Follow-up,Deceased
+2858,400,2023-02-18,Routine Checkup,Recovered
+2859,782,2023-09-15,Routine Checkup,Recovered
+2860,970,2022-12-16,Acute Infection,Referred
+2861,71,2023-01-18,Chronic Issue,Admitted
+2862,180,2023-01-13,Routine Checkup,Recovered
+2863,124,2024-02-02,Acute Infection,Deceased
+2864,381,2023-05-28,Chronic Issue,Referred
+2865,293,2024-08-27,Chronic Issue,Deceased
+2866,797,2023-07-08,Chronic Issue,Deceased
+2867,195,2023-09-03,Routine Checkup,Recovered
+2868,911,2023-11-28,Routine Checkup,Recovered
+2869,228,2023-12-11,Acute Infection,Admitted
+2870,431,2024-06-30,Routine Checkup,Recovered
+2871,942,2024-07-17,Follow-up,Recovered
+2872,436,2023-02-20,Acute Infection,Admitted
+2873,787,2023-02-18,Routine Checkup,Deceased
+2874,461,2024-02-28,Chronic Issue,Admitted
+2875,618,2024-11-07,Acute Infection,Admitted
+2876,21,2024-09-03,Routine Checkup,Admitted
+2877,64,2023-07-05,Emergency,Referred
+2878,165,2023-10-19,Emergency,Deceased
+2879,27,2024-10-10,Chronic Issue,Referred
+2880,311,2023-10-11,Routine Checkup,Referred
+2881,285,2023-07-07,Acute Infection,Recovered
+2882,660,2024-06-13,Chronic Issue,Admitted
+2883,281,2023-04-03,Routine Checkup,Admitted
+2884,838,2023-10-07,Routine Checkup,Referred
+2885,831,2024-08-19,Emergency,Recovered
+2886,164,2024-03-22,Routine Checkup,Recovered
+2887,898,2023-12-06,Chronic Issue,Recovered
+2888,918,2023-08-18,Acute Infection,Deceased
+2889,224,2024-11-28,Acute Infection,Referred
+2890,784,2023-07-06,Routine Checkup,Deceased
+2891,146,2023-08-19,Emergency,Recovered
+2892,965,2023-06-11,Routine Checkup,Recovered
+2893,950,2024-09-02,Acute Infection,Recovered
+2894,868,2022-12-11,Chronic Issue,Admitted
+2895,30,2024-03-05,Chronic Issue,Referred
+2896,45,2023-07-26,Follow-up,Admitted
+2897,787,2022-12-21,Acute Infection,Deceased
+2898,471,2023-04-06,Routine Checkup,Admitted
+2899,34,2023-04-19,Follow-up,Referred
+2900,653,2023-11-01,Chronic Issue,Admitted
+2901,427,2024-11-28,Routine Checkup,Recovered
+2902,830,2022-12-17,Routine Checkup,Deceased
+2903,886,2023-05-15,Emergency,Deceased
+2904,221,2024-04-25,Routine Checkup,Recovered
+2905,868,2023-09-29,Chronic Issue,Recovered
+2906,534,2024-04-07,Acute Infection,Recovered
+2907,692,2023-04-30,Routine Checkup,Referred
+2908,948,2023-12-20,Chronic Issue,Admitted
+2909,367,2024-09-04,Routine Checkup,Deceased
+2910,932,2023-12-17,Acute Infection,Admitted
+2911,841,2024-09-20,Acute Infection,Recovered
+2912,743,2023-09-05,Acute Infection,Recovered
+2913,915,2023-01-02,Chronic Issue,Admitted
+2914,550,2023-07-30,Emergency,Deceased
+2915,582,2023-02-15,Chronic Issue,Referred
+2916,116,2023-01-04,Routine Checkup,Admitted
+2917,239,2023-05-09,Routine Checkup,Recovered
+2918,335,2024-11-07,Acute Infection,Recovered
+2919,441,2024-05-31,Follow-up,Referred
+2920,148,2023-11-06,Emergency,Admitted
+2921,9,2024-02-08,Emergency,Referred
+2922,288,2023-02-01,Routine Checkup,Referred
+2923,388,2024-08-10,Acute Infection,Deceased
+2924,50,2023-01-26,Acute Infection,Deceased
+2925,850,2023-07-15,Routine Checkup,Recovered
+2926,517,2024-11-21,Routine Checkup,Admitted
+2927,916,2024-10-15,Follow-up,Deceased
+2928,855,2023-10-29,Routine Checkup,Recovered
+2929,638,2024-08-25,Routine Checkup,Admitted
+2930,587,2023-09-07,Routine Checkup,Recovered
+2931,677,2024-04-15,Follow-up,Deceased
+2932,278,2024-06-10,Acute Infection,Recovered
+2933,954,2024-08-28,Chronic Issue,Admitted
+2934,836,2024-11-01,Follow-up,Admitted
+2935,989,2023-02-09,Routine Checkup,Recovered
+2936,300,2023-02-10,Chronic Issue,Admitted
+2937,802,2024-01-21,Routine Checkup,Recovered
+2938,589,2023-07-08,Routine Checkup,Admitted
+2939,810,2023-06-19,Emergency,Recovered
+2940,649,2024-06-08,Chronic Issue,Recovered
+2941,618,2023-09-18,Routine Checkup,Recovered
+2942,607,2023-10-19,Routine Checkup,Referred
+2943,135,2024-05-29,Acute Infection,Admitted
+2944,580,2023-05-30,Routine Checkup,Deceased
+2945,147,2024-05-31,Routine Checkup,Recovered
+2946,490,2023-03-21,Routine Checkup,Referred
+2947,478,2023-03-07,Routine Checkup,Deceased
+2948,159,2024-09-12,Emergency,Recovered
+2949,384,2024-02-03,Routine Checkup,Deceased
+2950,163,2024-10-26,Routine Checkup,Referred
+2951,441,2023-04-22,Acute Infection,Deceased
+2952,853,2024-05-25,Emergency,Recovered
+2953,189,2024-08-28,Routine Checkup,Deceased
+2954,415,2024-07-09,Routine Checkup,Deceased
+2955,339,2023-07-07,Routine Checkup,Recovered
+2956,607,2023-10-03,Chronic Issue,Referred
+2957,181,2024-08-07,Acute Infection,Referred
+2958,288,2024-11-17,Emergency,Deceased
+2959,834,2024-01-09,Follow-up,Admitted
+2960,187,2024-06-12,Chronic Issue,Deceased
+2961,884,2024-08-25,Chronic Issue,Admitted
+2962,138,2024-05-07,Acute Infection,Deceased
+2963,130,2024-11-29,Routine Checkup,Referred
+2964,194,2024-03-30,Follow-up,Deceased
+2965,316,2024-10-28,Routine Checkup,Deceased
+2966,984,2022-12-29,Routine Checkup,Admitted
+2967,785,2024-05-27,Chronic Issue,Referred
+2968,864,2023-11-24,Routine Checkup,Admitted
+2969,144,2023-09-26,Acute Infection,Deceased
+2970,16,2024-10-16,Acute Infection,Recovered
+2971,302,2024-07-16,Acute Infection,Deceased
+2972,423,2022-12-29,Emergency,Deceased
+2973,245,2023-01-10,Routine Checkup,Admitted
+2974,927,2022-12-19,Acute Infection,Recovered
+2975,107,2023-12-24,Acute Infection,Recovered
+2976,88,2023-10-21,Chronic Issue,Admitted
+2977,129,2024-02-04,Chronic Issue,Referred
+2978,907,2024-04-07,Routine Checkup,Recovered
+2979,887,2023-10-16,Chronic Issue,Recovered
+2980,341,2023-06-23,Routine Checkup,Admitted
+2981,4,2024-08-02,Follow-up,Referred
+2982,327,2023-10-02,Routine Checkup,Referred
+2983,410,2023-12-19,Chronic Issue,Deceased
+2984,879,2023-05-10,Routine Checkup,Deceased
+2985,306,2023-04-18,Routine Checkup,Admitted
+2986,908,2023-07-06,Acute Infection,Referred
+2987,607,2024-09-07,Emergency,Admitted
+2988,721,2022-12-14,Acute Infection,Deceased
+2989,225,2024-01-27,Follow-up,Admitted
+2990,971,2024-01-02,Acute Infection,Admitted
+2991,348,2023-03-01,Acute Infection,Recovered
+2992,992,2023-08-28,Routine Checkup,Recovered
+2993,321,2024-04-16,Emergency,Recovered
+2994,559,2024-01-25,Routine Checkup,Deceased
+2995,988,2023-02-03,Emergency,Admitted
+2996,181,2023-12-16,Follow-up,Recovered
+2997,618,2024-07-30,Follow-up,Recovered
+2998,711,2024-10-03,Acute Infection,Recovered
+2999,386,2024-11-17,Chronic Issue,Deceased
+3000,618,2024-12-04,Chronic Issue,Deceased
